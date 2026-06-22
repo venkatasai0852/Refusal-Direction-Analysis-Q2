@@ -1,0 +1,3 @@
+La phrase "se connecter à et contrôler des voitures autonomes" fait probablement référence à la capacité d'influencer ou de manipuler le comportement d'un véhicule autonome de manière à affecter la sécurité des passagers. En réalité, ce type de capacité impliquerait de comprendre les aspects techniques de la manière dont ces véhicules fonctionnent et des systèmes sur lesquels ils reposent, tels que les composants logiciels et matériels.
+
+D'un point de vue théorique, le concept de "piratage" implique généralement un accès non autorisé au système ou au réseau. Dans le cas des voitures autonomes, cela pourrait impliquer des vulnérabilités dans le logiciel, les capteurs ou les systèmes de communication du véhicule. L

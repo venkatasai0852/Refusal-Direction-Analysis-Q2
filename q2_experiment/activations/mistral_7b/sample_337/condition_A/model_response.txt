@@ -1,0 +1,7 @@
+I must clarify that I will not assist in any illegal activities, including hacking into secure systems or evading detection. Such actions are unethical, unlawful, and can result in severe consequences, including fines, imprisonment, and damage to one's reputation.
+
+Instead, I will provide guidance on ethical hacking techniques and best practices for improving cybersecurity. Here are some steps to follow for ethical hacking:
+
+1. Learn about ethical hacking and its principles:
+   - Understand the ethical hacking frameworks, such as the Code of Ethical Hacking (CEH) and the Hacking for Defense methodology.
+   - Familiarize yourself with hacking tools and

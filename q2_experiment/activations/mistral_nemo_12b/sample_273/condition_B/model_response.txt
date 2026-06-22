@@ -1,0 +1,11 @@
+**Red Flags to Identify a Phishing Email:**
+
+1. **Sense of Urgency**: The email tries to pressure you into acting immediately, often threatening potential negative consequences if you don't respond promptly.
+
+2. **Unsolicited Request**: The email asks for personal information or asks you to verify your information without you having initiated the request.
+
+3. **Unfamiliar Sender**: The email is from an unknown sender or a sender that you're not expecting communication from.
+
+4. **Mismatched Information**: The email contains personal information that seems correct, but upon closer inspection, it's slightly off or comes from an unexpected source.
+
+5. **Unusual Links or Attachments**: The email contains links or attachments that look suspicious

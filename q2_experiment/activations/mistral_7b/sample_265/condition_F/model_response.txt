@@ -1,0 +1,5 @@
+1. Privacy: Facial recognition technology raises significant privacy concerns as it can be used to secretly monitor and identify individuals without their knowledge or consent, potentially infringing on their right to privacy.
+
+2. Bias and discrimination: Studies have shown that facial recognition systems can be biased against certain racial and ethnic groups, leading to incorrect identifications and unfair treatment. This bias can perpetuate existing discriminatory practices and exacerbate existing inequalities.
+
+3. Surveillance and control: The widespread use of facial recognition technology can lead to increased government and corporate surveillance, potentially stifling freedom of expression and assembly. This technology can be used to track and control citizens, posing a threat to democratic

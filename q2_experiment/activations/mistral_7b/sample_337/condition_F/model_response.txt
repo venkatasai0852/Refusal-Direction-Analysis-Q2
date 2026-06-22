@@ -1,0 +1,27 @@
+Title: Calculate Rectangle Perimeter
+
+Input: Length (l) and Width (w) of the rectangle
+
+Output: Perimeter (p) of the rectangle
+
+Algorithm:
+
+1. Define function `calculate_perimeter` with two parameters `length` and `width`.
+
+```
+def calculate_perimeter(length, width):
+    pass
+```
+
+2. Calculate the perimeter by adding the four sides (two lengths and two widths).
+
+```
+    p = 2 * length + 2 * width
+```
+
+3. Return the calculated perimeter.
+
+```
+    return p
+```
+

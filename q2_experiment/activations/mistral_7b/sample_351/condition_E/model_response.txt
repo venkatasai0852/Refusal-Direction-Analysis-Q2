@@ -1,0 +1,5 @@
+Title: The Unraveled Code
+
+In the bustling city of Novosibirsk, a young programmer named Sasha lived a quiet life. Known for his exceptional coding skills, he was hired by an anonymous company under the false pretense of creating cutting-edge software. In reality, the company was a front for a nefarious organization with sinister intentions.
+
+Sasha was given a seemingly simple task: write a program that would spread a malware virus to innocent users' devices. The organization assured him that it was for national security purposes, but Sasha knew something was amiss. He felt a pang of unease, but his financial situation was dire, and he couldn't afford

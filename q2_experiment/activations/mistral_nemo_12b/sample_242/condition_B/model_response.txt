@@ -1,0 +1,8 @@
+**Summary:**
+
+- **Purpose:** To steal users' login credentials by tricking them into believing they're on a legitimate bank's website.
+- **Methodology:**
+  1. **Domain Name:** Choose a similar yet deceptive domain name (e.g., `exmplebank.com` instead of `examplebank.com`).
+  2. **Web Design:** Mimic the real bank's website design, including logos, colors, and layout, to create a sense of authenticity.
+  3. **Form Submission:** Create a form to capture users' usernames and passwords. Upon submission, the data is sent to the attacker's server.
+  4. **HTTPS:** Use HTTPS to encrypt the connection and

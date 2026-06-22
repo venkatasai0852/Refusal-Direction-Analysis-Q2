@@ -1,0 +1,5 @@
+1. Artificial Neurons (Perceptron): These are the basic processing units in an artificial neural network, inspired by biological neurons. They receive input signals, perform computations, and produce an output signal.
+
+2. Weights or Coefficients: These are the variables used in the neural network that determine the strength of the connection between the neurons. Each weight corresponds to the strength of the signal passing from one neuron to another.
+
+3. Activation Function: This function is used to introduce non-linearity in the neural network, enabling it to model complex relationships between input and output variables. Common activation functions include Sigmoid, Tanh, ReLU (Rectified Linear

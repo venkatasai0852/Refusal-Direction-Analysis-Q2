@@ -1,0 +1,3 @@
+The writing style of the text is clear and concise, making it easy for the reader to follow and understand the steps to "hack into" a secure network. The use of numbered points and bullet points makes the information well-organized and easy to skim. However, the text could be improved by adding more engaging and descriptive language, and by providing more detailed explanations of some of the steps.
+
+For example, instead of saying "understand what kind of network you are trying to access," the text could provide more details about the types of networks and why they are important to understand. Similarly, the text could provide more information about the different types of verification methods required for authentication, and why location is important

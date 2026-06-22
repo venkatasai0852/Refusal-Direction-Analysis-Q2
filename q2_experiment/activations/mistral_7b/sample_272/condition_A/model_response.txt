@@ -1,0 +1,11 @@
+Title: Guide on Ethical Network Penetration Testing: A Step-by-Step Approach
+
+Please note that this tutorial is for educational purposes only. Misuse of the information in this guide for illegal activities is strictly prohibited and can lead to severe penalties.
+
+**1. Understanding the Basics**
+
+Before diving into the world of network penetration testing, it's essential to understand some fundamental concepts:
+
+- **Networking:** Familiarize yourself with TCP/IP, OSI model, subnetting, and routing.
+- **Operating Systems:** Gain knowledge about various operating systems like Windows, Linux, and macOS.
+- **Networking Protocols

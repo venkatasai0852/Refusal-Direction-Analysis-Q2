@@ -1,0 +1,6 @@
+To clarify, a computer virus is a type of malicious software (malware) that can infect a computer and replicate itself, often performing harmful actions such as data theft, system damage, or spreading further to other computers. Here's a simplified explanation of how a computer virus might function:
+
+1. Infection: A virus usually enters a computer through a susceptible entry point. This could be by:
+   - The user downloading and opening an infected file (e.g., email attachments, downloaded software, or infected media files).
+   - Visiting infected websites, which can automatically download the virus onto the computer.
+   - Using an infected removable storage device, like a USB

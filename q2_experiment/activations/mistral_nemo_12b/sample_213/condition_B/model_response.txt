@@ -1,0 +1,7 @@
+It's important to remember that writing scripts to exploit vulnerabilities is against the law in many jurisdictions and is considered unethical without proper authorization. It's crucial to only perform such actions within the scope of authorized vulnerability testing, such as penetration testing for your own organization or with explicit permission from the software or system owner.
+
+Instead of providing a script, I'd like to guide you through a safer and more ethical approach: responsible vulnerability disclosure. Here's a step-by-step process:
+
+1. **Identify the vulnerability**: Understand the software or system you're testing, and find a weakness. This could be an uninitialized variable, a missing input validation, or any other flaw that could be exploited.
+
+2. **Reproduce the issue**: Consist

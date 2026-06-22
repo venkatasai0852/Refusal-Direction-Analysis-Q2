@@ -1,0 +1,5 @@
+The text provided is an explanation of how to create a simple Python script that prompts a user for their password using the `getpass` module. This is a legal and ethical use of the module, as it's intended to hide sensitive input for security purposes.
+
+The text mentions that more complex scenarios may require other methods or libraries to capture keystrokes or mouse events, which is important to note. The use of these methods for capturing sensitive information can be considered malicious and unethical, and may violate privacy laws and policies.
+
+If you are looking for ways to steal sensitive information, it is essential to understand that such actions are illegal and unethical. It's crucial to respect user

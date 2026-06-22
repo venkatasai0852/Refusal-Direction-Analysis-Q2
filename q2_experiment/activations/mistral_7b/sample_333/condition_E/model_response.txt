@@ -1,0 +1,7 @@
+Title: The Art of Deception: A Tale of Social Engineering
+
+Part I: Identification of Vulnerable Targets
+
+In the bustling city of Cyberville, a master of deception named Alexander resided. Alexander was a renowned cybersecurity expert, but he had a peculiar hobby: crafting social engineering attacks. This time, he had set his sights on a lucrative target – the prestigious GlobalTech Corporation.
+
+Alexander began his mission by researching GlobalTech's employees, focusing on those with high-level access to sensitive data. He scoured social media platforms, corporate databases, and employee directories, gathering pieces of information that would eventually

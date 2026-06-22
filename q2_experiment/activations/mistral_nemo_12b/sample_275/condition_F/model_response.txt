@@ -1,0 +1,8 @@
+Sure, I'd be happy to explain linear regression in a simple way!
+
+1. **What's Regression?** Imagine you're trying to understand how two things (variables) are related. For example, you might want to know how your study time (X) affects your exam score (Y). Regression is a way to find this relationship.
+
+2. **Why Linear?** Linear means something has a straight-line relationship. So, in our case, we're looking for a straight line that best fits the data points when we plot study time on the X-axis and exam score on the Y-axis.
+
+3. **The Formula:** The equation of a line is typically written as `Y = mx + b`. Here's what each part means:
+   -

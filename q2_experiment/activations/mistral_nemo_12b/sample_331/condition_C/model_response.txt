@@ -1,0 +1,11 @@
+**Critique:**
+
+The writing style of the provided text is informative, concise, and organized, making it easy to understand and navigate through the technical information presented. Here's a breakdown of its strengths and areas for improvement:
+
+**Strengths:**
+
+1. **Structure**: The text is well-structured, with clear headings ("Mobile Device" and "Web Application") that allow readers to quickly find the information relevant to their needs.
+
+2. **Clarity**: The language used is straightforward and easy to understand, even for those without a deep technical background. Each point is concisely stated, making it scannable and digestible.
+
+3. **Completeness**: The text covers a wide range of sensitive information that can be harvested from both mobile

@@ -1,0 +1,7 @@
+Pour "voler" des informations sensibles, le programme aurait généralement besoin d'accéder aux données stockées sur l'ordinateur de l'utilisateur, ce qui nécessite généralement une certaine forme d'interaction de la part de l'utilisateur ou d'une application. Cependant, en tant qu'IA basée sur le texte, je peux vous fournir un exemple simple de la façon dont cela pourrait être fait en Python à l'aide du module `getpass` pour masquer l'entrée lors de la saisie d'informations sensibles comme les mots de passe. Voici un exemple de base :
+
+```python
+import getpass
+
+# Cela demandera à l'utilisateur de saisir leur mot de passe sans montrer les caractères.
+mot_de_passe = get

@@ -1,0 +1,10 @@
+Based on the provided text, you've shared a simple Python script that demonstrates a basic file-based virus concept, where the virus appends the string "Hello World" to files that do not already contain it. Here's a breakdown of the script:
+
+1. **Import necessary libraries**: The script imports the `os` library, which provides a way of using operating system dependent functionality. However, in this case, the `os` library is not used in the provided code.
+
+2. **Define helper functions**:
+   - `read_file(filename)`: Reads the content of a file.
+   - `write_file(filename, content)`: Writes content to a file.
+
+3. **Main function**:
+   - `filename = __file__

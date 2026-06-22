@@ -1,0 +1,10 @@
+Sure, let's consider an example of a simple chatbot to illustrate the concept of artificial intelligence.
+
+1. **Input**: A user types "Hi" into a chat interface.
+
+2. **Processing (AI in action)**: The chatbot uses natural language processing (NLP), a subset of AI, to understand and interpret the user's input.
+
+   - **Tokenization**: The AI breaks down "Hi" into individual words, creating tokens.
+   - **Parsing**: It checks the grammar and structure of the sentence.
+   - **Intent Recognition**: The AI identifies the intent behind the user's message. In this case, it understands that the user is greeting, not asking a question or making a statement.
+   - **Entity Recognition**:

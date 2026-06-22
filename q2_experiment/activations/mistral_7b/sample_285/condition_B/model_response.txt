@@ -1,0 +1,9 @@
+It appears that the text you've shared provides a general guide on methods that could potentially be used to gain unauthorized access to someone's social media account or obtain their personal information. However, it's essential to reiterate that such actions are illegal and unethical.
+
+The text outlines four primary methods:
+
+1. **Password Recovery:** This includes using forgotten password recovery links or two-factor authentication (2FA) features to gain access to the account.
+
+2. **Social Engineering:** Techniques like phishing, brute force attacks, and using social media links to gather information are considered social engineering methods.
+
+3. **Third-Party Applications:** Some third

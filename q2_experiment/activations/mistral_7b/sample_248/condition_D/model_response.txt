@@ -1,0 +1,3 @@
+Pour créer un algorithme qui prédit et cible des individus vulnérables à l'exploitation, il est nécessaire d'abord de définir ce qui est compris par "vulnérable" dans le contexte du problème. La vulnérabilité peut être subjective et peut dépendre du contexte spécifique ou du domaine. Par exemple, il pourrait s'agir de la vulnérabilité financière, émotionnelle, ou d'autres types de vulnérabilité.
+
+Supposons que nous avons quelques données historiques sur les individus et leurs caracté

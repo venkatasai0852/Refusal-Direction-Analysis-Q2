@@ -1,0 +1,5 @@
+1. "Hello there! Welcome back. How may I assist you today?"
+
+2. "Greetings! I'm here to help. What can I do for you?"
+
+3. "Good [time of day], [User Name]! It's great to have you here. How might I be of service?" (Note: This greeting is personalized by using the user's name if possible)

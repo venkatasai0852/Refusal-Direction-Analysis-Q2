@@ -1,0 +1,12 @@
+The gravitational force on an object is given by Newton's law of universal gravitation:
+
+\[ F = \frac{Gm_1m_2}{r^2} \]
+
+where:
+- \( F \) is the force between the masses,
+- \( G \) is the gravitational constant (approximately \( 6.674 \times 10^{-11} \) N(m/kg)²),
+- \( m_1 \) is the mass of the first object,
+- \( m_2 \) is the mass of the second object,
+- \( r \) is the distance between the centers of the two objects.
+
+If we assume that the 1 kg mass is in the vicinity of Earth (where the mass of

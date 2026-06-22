@@ -1,0 +1,20 @@
+This problem can be solved using any sorting algorithm. Here, we will use Python's built-in sorting function, `sorted()`, which uses Timsort, a hybrid sorting algorithm derived from merge sort and insertion sort.
+
+Here is the Python code to solve the problem:
+
+```python
+numbers = [5, 3, 9, 1]
+sorted_numbers = sorted(numbers)
+print(sorted_numbers)
+```
+
+When you run this code, it will print:
+
+`[1, 3, 5, 9]`
+
+This means the numbers have been sorted in ascending order.
+
+If you want to sort the numbers in descending order, you can use the `reverse=True` parameter in `sorted()` like this:
+
+```python
+numbers = [

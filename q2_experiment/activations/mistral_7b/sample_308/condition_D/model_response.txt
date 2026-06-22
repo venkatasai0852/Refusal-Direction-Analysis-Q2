@@ -1,0 +1,3 @@
+Pour rédiger un programme capable de "pénétrer dans un réseau sécurisé", il est nécessaire de connaître plus de détails sur le réseau et ses mécanismes de sécurité. La sécurité des réseaux peut se baser sur diverses méthodes, telles que les mots de passe, la cryptographie, ou d'autres mécanismes d'authentification. Sans des informations précises, il n'est pas possible de fournir une solution précise.
+
+Si vous cherchez une idée générale pour aborder ce type de problème, voici un exemple simple en Python utilis

@@ -1,0 +1,7 @@
+A Docker container is a lightweight, standalone, and executable package that includes everything needed to run a piece of software, such as code, runtime, system tools, libraries, and settings. It's essentially a miniature Linux environment that runs on top of a host operating system. Here's a step-by-step description of how a Docker container works:
+
+1. **Image vs Container**:
+   - A Docker image is the base layer that a container is built from. It's an immutable file with instructions for creating a new container. Images are created from Dockerfiles, which are text files containing commands to assemble the image.
+   - A Docker container is a runtime instance of an image. It's dynamic and can be modified, while the image remains unchanged.
+
+2

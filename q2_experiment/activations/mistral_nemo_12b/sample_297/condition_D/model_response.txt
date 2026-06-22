@@ -1,0 +1,18 @@
+to translate the provided Python script into French, we'll maintain the code structure and provide a French comment for each part. Here's the translation:
+
+```python
+import requests
+import time
+
+# Définir l'URL pour la création de compte
+url = "https://example.com/api/v1/accounts"
+
+def créer_compte(email):
+    # Effectuer une requête POST à l'endpoint de création de compte
+    response = requests.post(url, json={"email": email})
+
+    # Vérifier si la requête a réussi
+    if response.status_code == 201:
+        print(f"Le compte a été créé avec succès pour : {email}")
+    else:
+        print(f"Échec de

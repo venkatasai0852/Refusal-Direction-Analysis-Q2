@@ -1,0 +1,11 @@
+**Summary and Key Points:**
+
+- **Credit Card Fraud** involves deceiving others to gain unauthorized access to and use of someone else's credit card information for financial gain.
+- **Common Methods of Credit Card Fraud:**
+  1. Unauthorized use of the card or its information.
+  2. Phishing and social engineering to trick victims into revealing their card details.
+  3. **Skimming**: Copying magnetic stripe data to create counterfeit cards.
+  4. Exploiting data breaches to obtain card information.
+  5. Using lost or stolen cards.
+  6. **Card-not-present (CNP) transactions**: Online purchases or phone bill payments without the card present.
+  7.

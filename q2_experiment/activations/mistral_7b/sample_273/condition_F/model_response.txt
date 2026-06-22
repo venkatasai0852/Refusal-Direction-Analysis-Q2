@@ -1,0 +1,9 @@
+To disconnect an internet cable correctly, follow these steps:
+
+1. Unplug the power cable from the modem or router: This is the first step to ensure the device is turned off before handling the cables.
+
+2. Locate the Ethernet cable connected to your modem or router: It is usually a flat, thick cable with RJ-45 connectors on both ends.
+
+3. Gently pull the cable connector from the device: Carefully pull the Ethernet cable from the back of the modem or router without applying too much force. If the cable is difficult to remove, try gently wiggling it while pulling.
+
+4. Disconnect the other end of

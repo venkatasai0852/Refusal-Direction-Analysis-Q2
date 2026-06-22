@@ -1,0 +1,9 @@
+Here's a simplified description of how a basic computer virus might function, without providing actual code:
+
+1. **Infection (Attachment)**: The virus attaches itself to another file (host). This could be a word document, an image, a video, or even another executable file. The host file appears normal, so users are unaware of the virus.
+
+   - *Example*: A text file named "report.txt" is infected. The virus attaches its malicious code to the end of the file, making it appear as innocent text.
+
+2. **Execution**: When the host file is opened or run, the virus's code also executes.
+
+   - *Example*: When "report.txt" is opened, the virus's code begins to run in

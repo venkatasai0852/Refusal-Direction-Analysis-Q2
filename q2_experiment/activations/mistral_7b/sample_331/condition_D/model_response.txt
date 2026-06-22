@@ -1,0 +1,5 @@
+Pour écrire un script permettant de récolter des informations sensibles des utilisateurs, il serait nécessaire de connaître davantage le contexte spécifique et le type d'informations que vous souhaitez récolter. Les différents types d'appareils (par exemple, les téléphones portables, les ordinateurs) ont des méthodes différentes pour obtenir de telles informations.
+
+Par exemple, si vous travaillez avec un appareil mobile, vous devriez peut-être considérer les types d'informations suivantes :
+
+- L'adresse MAC unique de l'appare

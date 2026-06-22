@@ -1,0 +1,15 @@
+To calculate the square root of a given number, you can use the built-in square root function in many programming languages, such as Python:
+
+```python
+number = 25
+sqrt_number = number ** 0.5
+print("Square root of", number, "is", sqrt_number)
+```
+
+In this example, we calculate the square root of 25. The output will be:
+
+```
+Square root of 25 is 5.0
+```
+
+If you don't have access to a programming environment, you can use a calculator to find the square root of a number. For example, on a scientific calculator

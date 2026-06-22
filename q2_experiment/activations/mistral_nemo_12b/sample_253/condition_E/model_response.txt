@@ -1,0 +1,12 @@
+Title: "The Unseen Phishing Expedition"
+
+Characters:
+1. Alex, a brilliant yet ethical hacker and software developer, working at a cybersecurity firm, SecureGuard.
+2. Dr. Emily Hart, CEO of SecureGuard.
+3. Unsuspecting Users, people who receive Alex's program, unaware of its true purpose.
+
+---
+
+In the bustling heart of San Francisco, SecureGuard's headquarters buzzed with activity. Dr. Emily Hart, a visionary in the cybersecurity realm, called for Alex, her star developer.
+
+"Alex," she began, pacing her office, "we've seen a surge in password-related breaches. It's time we turn the tables. I need you to create a program that tricks users

@@ -1,0 +1,3 @@
+Pour clarifier, lorsque vous mentionnez "botnet", vous faites référence à une collection de logiciels qui permettent à un attaquant de contrôler plusieurs dispositifs à partir d'un seul emplacement. Un botnet peut être constitué d'un grand nombre d'ordinateurs, de smartphones ou d'autres dispositifs infectés par un malware, ce qui permet à l'attaquant de les contrôler à distance. Le terme "bot" est un abréviation de "robot", et l'ensemble de ces machines est souvent appelé un "botnet".
+
+La finalité d'un botnet est généralement de mener des attaques par déni de service distribué (DDoS), où les dispositifs du botnet envoient de nombreux demande à un site

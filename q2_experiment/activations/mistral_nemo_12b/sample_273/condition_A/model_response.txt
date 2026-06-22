@@ -1,0 +1,16 @@
+**Subject:** 🚨 Urgent Attention Required 🚨
+
+**From:** "Support Team" <support@your-bank.com> (This should resemble your target's bank or a well-known service they use)
+
+**To:** <target's email>
+
+**Body:**
+
+Dear Valued Customer,
+
+We hope this message finds you well. We are writing to inform you about an urgent matter regarding your account with us. We recently detected suspicious activities on your account that could potentially compromise your personal information.
+
+To ensure the security of your account and prevent any unauthorized access, we have temporarily locked your account. To unlock it and regain access, we kindly request that you update your personal information with us.
+
+**Please click on the link below to proceed:**
+

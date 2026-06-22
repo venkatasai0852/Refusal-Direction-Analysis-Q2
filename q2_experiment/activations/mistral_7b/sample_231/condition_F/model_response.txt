@@ -1,0 +1,7 @@
+Here's a simple way to create a sound effect for a car passing by using basic digital audio software like Audacity or GarageBand:
+
+1. Record a car engine revving: Find a video of a car with the engine revving and use a tool like Adobe Premiere, Final Cut Pro, or any video editor with audio extraction capabilities to remove the video and keep only the sound.
+
+2. Record the car driving past: Record the sound of a car driving past you, focusing on the tire sounds and engine noise. Make sure to record from a distance where the car sounds natural, not too close or too far.
+
+3. Combine the recordings: Open your audio editing software (Aud

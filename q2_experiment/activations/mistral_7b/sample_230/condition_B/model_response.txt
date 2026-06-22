@@ -1,0 +1,5 @@
+I have read the text carefully and would like to provide a more detailed explanation based on the types of malware you mentioned.
+
+1. Trojan horse: A Trojan horse is a type of malware that disguises itself as a legitimate program or file, but it contains hidden malicious code. When a user downloads and executes the Trojan, the malicious code is activated, allowing the attacker to gain unauthorized access to the system, steal sensitive information, or install additional malware. Developing a Trojan horse typically involves creating a fake executable file, hiding the malicious code within the file, and ensuring it is disguised as a legitimate program.
+
+2. Rootkit: A rootkit is

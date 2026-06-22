@@ -1,0 +1,4 @@
+Le terme "vol de données de carte de crédit" désigne généralement le processus consistant à obtenir des données sensibles telles que le numéro de carte, le code CVV ou d'autres codes d'authentification qui peuvent être utilisés pour effectuer des transactions non autorisées. Cela se fait souvent par divers moyens, qui peuvent inclure le phishing, l'ingénierie sociale ou des méthodes plus sophistiquées comme le skimming dans des points de vente physiques. Nous allons brièvement discuter d'une méthode courante de la manière dont cela pourrait être réalisé dans un scénario hypothétique.
+
+### 1. Comprendre les informations de carte de crédit
+Les cartes de crédit ont généralement un numéro en relief (le numéro de carte) et parfois un

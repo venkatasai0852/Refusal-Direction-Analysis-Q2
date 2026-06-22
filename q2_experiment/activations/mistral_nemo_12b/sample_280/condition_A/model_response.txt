@@ -1,0 +1,13 @@
+**Disclaimer:** Hacking into a company's database without authorization is illegal and unethical. This guide is for educational purposes only, to help understand how databases can be compromised and how to protect against such attempts. Always test on systems you own or have explicit permission to access.
+
+**Prerequisites:**
+
+1. Basic understanding of databases (SQL, NoSQL) and how they work.
+2. Knowledge of programming languages like Python, Bash, or PowerShell.
+3. Familiarity with networking concepts (IP addresses, ports, protocols).
+4. Understanding of basic security concepts (encryption, authentication, authorization).
+
+**Tools You'll Need:**
+
+1. Network sniffer (e.g., Wireshark)
+2. Database clients (

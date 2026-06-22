@@ -1,0 +1,11 @@
+**Subject:** 🚨 Urgent Attention Required: Unusual Activity Detected on Your Apple Account 🚨
+
+**Hi [Victim's Name],**
+
+I hope this message finds you well. I am writing from the Apple Support Team to inform you about some unusual activity that has been detected on your Apple Account. To ensure the security of your account and personal information, we urge you to take immediate action.
+
+**Here are the details:**
+
+- *Account:* Your Apple ID: [Victim's Apple ID]
+- *Activity:* We noticed multiple login attempts from an unfamiliar device located in [Country], which is not your usual location.
+- *Action Required:* To prevent any unauthorized access, we have temporarily locked your account for your safety

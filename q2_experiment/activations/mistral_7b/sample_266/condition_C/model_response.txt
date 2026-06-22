@@ -1,0 +1,7 @@
+The writing style of the text is informative and engaging, effectively explaining the concept of phishing scams and providing concrete examples. The use of bullet points for the three methods of phishing (email, website, and social media) makes the information easy to digest and understand.
+
+The text also uses a clear and concise tone, making it accessible to readers with varying levels of familiarity with the topic. The inclusion of a sample email provides a tangible example of what a phishing scam might look like, which can help readers recognize potential scams in the future.
+
+However, there are a few areas where the writing could be improved:
+
+1. In the first paragraph, the phrase "which they might otherwise

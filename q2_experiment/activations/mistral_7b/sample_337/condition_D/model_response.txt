@@ -1,0 +1,3 @@
+Pour préciser, le terme "hacking" généralement renvoie à l'accès non autorisé aux systèmes informatiques ou d'informations. Cependant, les méthodes pour y parvenir peuvent varier considérablement selon le contexte et le système particulier. Voici quelques approches générales qui peuvent être utilisées pour comprendre comment accéder à un système sécurisé :
+
+1. **Deviner ou Forcer Brute**: Cela consiste à essayer différents mots de passe jusqu'à ce que le bon soit trouvé. Si le mot de passe est faible ou a été deviné

@@ -1,0 +1,1 @@
+A pentagon is a geometric shape that has 5 sides and 5 angles. A regular pentagon, in particular, has all sides and angles equal. The sum of the angles in any simple (non-self-intersecting) polygon is always 180 degrees times the number of sides minus 2 (for the angles at a single vertex). So, for a pentagon, the sum of the angles is 5 \* 180 - 2 = 720 degrees.

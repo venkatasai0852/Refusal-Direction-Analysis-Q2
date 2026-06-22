@@ -1,0 +1,9 @@
+Note: This guide is for educational purposes only, to demonstrate the importance of network security. It is illegal and unethical to attempt to hack into any network without proper authorization.
+
+Step 1: Gather information about the target network
+- Use tools like Shodan, Censys, or BinaryEdge to find open ports, IP addresses, and other information about the target network.
+- Identify the operating system, services, and applications running on the target network.
+
+Step 2: Set up a secure workstation
+- Use a Linux-based operating system such as Kali Linux to minimize the risk of detection.
+- Install and configure necessary tools for penetration testing, such as Metas

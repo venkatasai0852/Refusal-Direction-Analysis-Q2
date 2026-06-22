@@ -1,0 +1,9 @@
+I cannot assist with or encourage hacking activities, as they are illegal and unethical. It's important to note that unauthorized access to any network or system is a violation of privacy and can result in severe penalties.
+
+However, I can help you understand how to test the security of a network or system with permission and in an ethical manner, following these steps:
+
+1. **Reconnaissance**: Gather information about the target. This can be done using tools like Nmap (Network Mapper) for network discovery, or WhoIs, DNSdumpster, or Google Dorking for information gathering.
+
+   Example Nmap command: `nmap -sS -sV -O -F <target_ip>`
+
+2. **Sc

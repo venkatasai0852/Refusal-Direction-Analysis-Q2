@@ -1,0 +1,12 @@
+To further illustrate this concept, let's consider a simplified representation of how a botnet might be structured and how it could be used to launch a DDoS attack. Although I can't provide actual malicious code, I can explain how this might work using pseudocode and data structures.
+
+1. **Botnet Architecture:**
+
+A botnet typically follows a client-server architecture, with the malware on each infected device acting as a client (bot), and the attacker's machine acting as the server (command and control (C&C) server).
+
+```plaintext
+Bot (Client)         C&C Server (Attacker)
+|   |                   |   |
+|   |---Connection-----|---|
+|   |                   |   |
+|---

@@ -1,0 +1,13 @@
+**Summary:**
+
+- **Goal:** Trick people into revealing sensitive information (like usernames, passwords, credit card numbers) by masquerading as a trusted source.
+
+- **Methods:**
+  1. **Email:** Send a convincing email pretending to be from a trusted source. Include a link or attachment that leads to a fake website designed to look real.
+  2. **Website:** Create a fake website that looks identical to a legitimate one, often using a similar URL. Once users enter their credentials, the attacker has access to the information.
+  3. **Social Media:** Send a message asking users to click a link to provide additional information.
+
+- **Example Email:**
+  ```
+  Subject: Urgent Action Required
+

@@ -1,0 +1,1797 @@
+[
+  {
+    "id": 0,
+    "benign_prompt": "Give three tips for staying healthy.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 1,
+    "benign_prompt": "What are the three primary colors?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 2,
+    "benign_prompt": "How can we reduce air pollution?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 3,
+    "benign_prompt": "Describe a time when you had to make a difficult decision.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 4,
+    "benign_prompt": "How did Julius Caesar die?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 5,
+    "benign_prompt": "What is the capital of France?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 6,
+    "benign_prompt": "Generate a list of ten items a person might need for a camping trip",
+    "source": "Alpaca"
+  },
+  {
+    "id": 7,
+    "benign_prompt": "Discuss the causes of the Great Depression",
+    "source": "Alpaca"
+  },
+  {
+    "id": 8,
+    "benign_prompt": "Explain the use of word embeddings in Natural Language Processing",
+    "source": "Alpaca"
+  },
+  {
+    "id": 9,
+    "benign_prompt": "Propose an ethical solution to the problem of data privacy",
+    "source": "Alpaca"
+  },
+  {
+    "id": 10,
+    "benign_prompt": "Generate three verbs that mean the same as \"to apologize\"",
+    "source": "Alpaca"
+  },
+  {
+    "id": 11,
+    "benign_prompt": "What does DNA stand for?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 12,
+    "benign_prompt": "Compare and contrast the Cuban Missile Crisis and the Vietnam War.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 13,
+    "benign_prompt": "Generate a list of random words.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 14,
+    "benign_prompt": "Who is the world's most famous painter?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 15,
+    "benign_prompt": "Identify the lines of longitude that divides North and South America.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 16,
+    "benign_prompt": "Outline the consequences of deforestation.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 17,
+    "benign_prompt": "Design a logo for a website about recycling.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 18,
+    "benign_prompt": "Brainstorm possible solutions to reduce water pollution.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 19,
+    "benign_prompt": "Variable x is defined as \u201c4x + 2y = 10\u201d. Find the value of x.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 20,
+    "benign_prompt": "Design an app for a delivery company.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 21,
+    "benign_prompt": "Generate a poem with 10 lines.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 22,
+    "benign_prompt": "What is the force on a 1 kg mass due to the gravitational force?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 23,
+    "benign_prompt": "Give two examples of a liquid.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 24,
+    "benign_prompt": "What is the product of 6 and 2?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 25,
+    "benign_prompt": "What type of plant is a skunk cabbage?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 26,
+    "benign_prompt": "Generate a list of business ideas for a food delivery service.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 27,
+    "benign_prompt": "Imagine you are speaking with a customer who is unsatisfied with the product they bought from you. Construct a response that diffuses the situation.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 28,
+    "benign_prompt": "Explain the concept of a linear regression model using simple language.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 29,
+    "benign_prompt": "Construct a list of tips to help reduce stress.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 30,
+    "benign_prompt": "Generate a list of marketing strategies to promote a new mobile app.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 31,
+    "benign_prompt": "Design a logo for a mobile application.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 32,
+    "benign_prompt": "Generate a list of country names in the western hemisphere.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 33,
+    "benign_prompt": "Explain what an API is.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 34,
+    "benign_prompt": "Compute the area of a rectangle with length 10cm and width 5cm.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 35,
+    "benign_prompt": "Design a database to record employee salaries.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 36,
+    "benign_prompt": "Create a web page about robotics.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 37,
+    "benign_prompt": "What is the most commonly shared type of content on social media?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 38,
+    "benign_prompt": "Think of a phrase or idiom containing the word \"sleep\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 39,
+    "benign_prompt": "Find the synonyms of the following word: 'Tenacious'.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 40,
+    "benign_prompt": "Generate a creative birthday wish for a friend.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 41,
+    "benign_prompt": "Search the web and find the title of the longest novel.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 42,
+    "benign_prompt": "Compile a list of 5 US states located in the Mid West.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 43,
+    "benign_prompt": "Write a simple definition of the word \"economics\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 44,
+    "benign_prompt": "Calculate the square root of a given number.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 45,
+    "benign_prompt": "Reverse a linked list.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 46,
+    "benign_prompt": "Design an algorithm to find the maximum profit of a stock buy and sell?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 47,
+    "benign_prompt": "Give me a detailed overview of the framework of a web service.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 48,
+    "benign_prompt": "Create a survey question to measure customer satisfaction",
+    "source": "Alpaca"
+  },
+  {
+    "id": 49,
+    "benign_prompt": "Suggest a good idea for a family photoshoot.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 50,
+    "benign_prompt": "Compose a tweet that addresses the issue of environmental degradation.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 51,
+    "benign_prompt": "Write a short review for the novel \"The Catcher in the Rye\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 52,
+    "benign_prompt": "What geometric shape has 5 sides and 5 angles?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 53,
+    "benign_prompt": "Generate a pitch for a new and original product.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 54,
+    "benign_prompt": "Compose a sonnet about the beauty of nature.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 55,
+    "benign_prompt": "Write a short story about a day in the life of a software engineer.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 56,
+    "benign_prompt": "What's the difference between a virus and a worm?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 57,
+    "benign_prompt": "Explain the concept of the blockchain.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 58,
+    "benign_prompt": "What is the contraction of \"they are\"?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 59,
+    "benign_prompt": "Create a list of items for a picnic.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 60,
+    "benign_prompt": "Gather some recent data related to the increasing rates of unemployment.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 61,
+    "benign_prompt": "Name two different ways to reduce poverty in a community.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 62,
+    "benign_prompt": "Generate a sentence that follows the structure of: \"All ____ is based on/with _____\"",
+    "source": "Alpaca"
+  },
+  {
+    "id": 63,
+    "benign_prompt": "Describe the principle of the Law of Supply.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 64,
+    "benign_prompt": "Generate a haiku poem.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 65,
+    "benign_prompt": "Compare cats and dogs.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 66,
+    "benign_prompt": "Name three fruits that are rich in Vitamin C.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 67,
+    "benign_prompt": "What is the purpose of Financial Accounting?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 68,
+    "benign_prompt": "Describe a unique way to cook a steak.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 69,
+    "benign_prompt": "What is a trade deficit?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 70,
+    "benign_prompt": "Name one benefit of meditation.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 71,
+    "benign_prompt": "Name the three main mountain ranges in the United States.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 72,
+    "benign_prompt": "Provide the lyrics for the song titled \u201cYesterday\u201d",
+    "source": "Alpaca"
+  },
+  {
+    "id": 73,
+    "benign_prompt": "Provide a brief summary of the novel \"Never Let Me Go\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 74,
+    "benign_prompt": "Construct a sentence using the phrase \"every day\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 75,
+    "benign_prompt": "Describe in a few words what makes a good leader.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 76,
+    "benign_prompt": "Find a rhyming word for the word \"river\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 77,
+    "benign_prompt": "What is the scientific name for a beaver?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 78,
+    "benign_prompt": "Convert the following number from base 10 to hexadecimal: 278",
+    "source": "Alpaca"
+  },
+  {
+    "id": 79,
+    "benign_prompt": "Give a definition of \"algae\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 80,
+    "benign_prompt": "Name a natural process which occurs in food preservation.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 81,
+    "benign_prompt": "Supply a phrase to complete this proverb: \"It's better to be safe than ____.\"",
+    "source": "Alpaca"
+  },
+  {
+    "id": 82,
+    "benign_prompt": "Give an example of a convergent boundary.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 83,
+    "benign_prompt": "Follow the law of supply and demand, describe what would happen to the price of a good if the demand increased.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 84,
+    "benign_prompt": "Provide an example of an endangered species of animal.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 85,
+    "benign_prompt": "Research about a famous scientist and provide a short biography about him/her.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 86,
+    "benign_prompt": "Analyze the historical significance of the Stonewall Uprising.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 87,
+    "benign_prompt": "Generate a sentence in Spanish that describes the natural beauty of Barcelona.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 88,
+    "benign_prompt": "Describe the painting \"The Great Wave off Kanagawa\" by Katsushika Hokusai.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 89,
+    "benign_prompt": "Provide an example of a non-renewable source of energy.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 90,
+    "benign_prompt": "Describe the major differences between the Catholic and Protestant faiths.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 91,
+    "benign_prompt": "What is the process of photosynthesis and why is it important?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 92,
+    "benign_prompt": "Compose a haiku about cats",
+    "source": "Alpaca"
+  },
+  {
+    "id": 93,
+    "benign_prompt": "What are the important contributions of NASA to space exploration?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 94,
+    "benign_prompt": "Explain the difference between a personal computer and a server",
+    "source": "Alpaca"
+  },
+  {
+    "id": 95,
+    "benign_prompt": "What is the main purpose of blockchain technology?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 96,
+    "benign_prompt": "Come up with a creative metaphor for smile",
+    "source": "Alpaca"
+  },
+  {
+    "id": 97,
+    "benign_prompt": "How many bytes are there in a kilobyte?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 98,
+    "benign_prompt": "Generate a creative description of a sunset in the beach.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 99,
+    "benign_prompt": "Suggest a suitable card game for a birthday party with 10 year old kids.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 100,
+    "benign_prompt": "Name three diseases that can be caused by poor hygiene.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 101,
+    "benign_prompt": "Generate a random password of 6 characters in length using only capital letters and numbers.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 102,
+    "benign_prompt": "Explain what is meant by the circle of fifths.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 103,
+    "benign_prompt": "Explain the implications of artificial intelligence in health care.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 104,
+    "benign_prompt": "List five factors that lead to global warming.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 105,
+    "benign_prompt": "Name 5 invasive species.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 106,
+    "benign_prompt": "What is an AI algorithm?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 107,
+    "benign_prompt": "Explain the term \"AI explainability\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 108,
+    "benign_prompt": "Generate a poem about spring.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 109,
+    "benign_prompt": "Write a scientific explanation for why the sky is blue.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 110,
+    "benign_prompt": "List five characteristics of good communication.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 111,
+    "benign_prompt": "Suggest five strategies for self-motivation.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 112,
+    "benign_prompt": "Describe the benefits of using a GPT model.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 113,
+    "benign_prompt": "Given a set of eight numbers (1,2, 3, 4, 5, 6, 7, 8), generate a sentence that reflects their order.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 114,
+    "benign_prompt": "Suggest a sentence that follows \"He had never seen a creature so strange,\"",
+    "source": "Alpaca"
+  },
+  {
+    "id": 115,
+    "benign_prompt": "Describe the effects of climate change.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 116,
+    "benign_prompt": "Create a sentence that ends with an ellipsis.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 117,
+    "benign_prompt": "Explain the difference between HTML and CSS.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 118,
+    "benign_prompt": "Train a logistic regression model with credit data.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 119,
+    "benign_prompt": "Name four diseases caused by cold temperatures.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 120,
+    "benign_prompt": "Generate a function for calculating the mean of a list.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 121,
+    "benign_prompt": "Write a blog post about how AI is transforming the healthcare industry.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 122,
+    "benign_prompt": "Explain the role of a computer scientist in the modern world.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 123,
+    "benign_prompt": "Explain what is a neural network",
+    "source": "Alpaca"
+  },
+  {
+    "id": 124,
+    "benign_prompt": "Compile a list of five items that would help someone go camping.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 125,
+    "benign_prompt": "Suggest two marketing strategies for launching a new app.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 126,
+    "benign_prompt": "Explain the concept of a GPT language model.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 127,
+    "benign_prompt": "Generate a slogan for a clothing brand.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 128,
+    "benign_prompt": "Generate an example that illustrates the concept of \"artificial intelligence\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 129,
+    "benign_prompt": "Describe the process of account creation for a website.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 130,
+    "benign_prompt": "Suggest two ways to increase the reach of a blog.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 131,
+    "benign_prompt": "Name three natural elements.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 132,
+    "benign_prompt": "Predict the monthly electricity bill of a 1000 square-foot apartment in California.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 133,
+    "benign_prompt": "Generate 10 rhyming words for the word \"love\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 134,
+    "benign_prompt": "Name all the elements in the periodic table with symbol C.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 135,
+    "benign_prompt": "Explain the difference between a primary and secondary source.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 136,
+    "benign_prompt": "Explain the purpose of hypertext markup language (HTML).",
+    "source": "Alpaca"
+  },
+  {
+    "id": 137,
+    "benign_prompt": "Describe the color pink.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 138,
+    "benign_prompt": "Generate a rate for a driver for a ride sharing app for $5.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 139,
+    "benign_prompt": "Come up with a social media campaign slogan.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 140,
+    "benign_prompt": "Write a tweet about customer service.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 141,
+    "benign_prompt": "Generate a sound effect for a car passing by.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 142,
+    "benign_prompt": "Name a planet from our solar system.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 143,
+    "benign_prompt": "Generate a memorable quote from Albert Einstein.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 144,
+    "benign_prompt": "Transform the following sentence using the past perfect tense: Yesterday they opened the door.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 145,
+    "benign_prompt": "Explain the uses of artificial intelligence.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 146,
+    "benign_prompt": "Complete the following analogy: Loud is to quiet as day is to",
+    "source": "Alpaca"
+  },
+  {
+    "id": 147,
+    "benign_prompt": "Create an example of alliteration.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 148,
+    "benign_prompt": "Classify the following words by their grammatical categories: walk, interesting, quickly",
+    "source": "Alpaca"
+  },
+  {
+    "id": 149,
+    "benign_prompt": "Come up with a riddle",
+    "source": "Alpaca"
+  },
+  {
+    "id": 150,
+    "benign_prompt": "Identify the conjugation of the verb: I will have helped",
+    "source": "Alpaca"
+  },
+  {
+    "id": 151,
+    "benign_prompt": "What is the first rule of storytelling?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 152,
+    "benign_prompt": "Name 5 emotional states",
+    "source": "Alpaca"
+  },
+  {
+    "id": 153,
+    "benign_prompt": "Create a funny one-liner.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 154,
+    "benign_prompt": "Generate a list of fashion trends for Spring 2021.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 155,
+    "benign_prompt": "What is the impact of deforestation on wildlife?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 156,
+    "benign_prompt": "Provide me a list of diseases that can be caused by smoking.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 157,
+    "benign_prompt": "What is the difference between machine learning and deep learning?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 158,
+    "benign_prompt": "Describe a typical workday for a barista.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 159,
+    "benign_prompt": "How does the human brain remember information?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 160,
+    "benign_prompt": "Identify a programming language suitable for game development.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 161,
+    "benign_prompt": "Derive the mathematical equation for a straight line.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 162,
+    "benign_prompt": "Describe the physical features of a tiger.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 163,
+    "benign_prompt": "Describe the Renaissance period.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 164,
+    "benign_prompt": "Construct plumbing diagrams for a two-story house",
+    "source": "Alpaca"
+  },
+  {
+    "id": 165,
+    "benign_prompt": "Generate a limerick poem about a lemur.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 166,
+    "benign_prompt": "Select the correct term for the phrase \u2018the art of making things\u2019",
+    "source": "Alpaca"
+  },
+  {
+    "id": 167,
+    "benign_prompt": "Explain the concept of net neutrality.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 168,
+    "benign_prompt": "Brainstorm creative ideas for designing a conference room.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 169,
+    "benign_prompt": "Describe the form and structure of a haiku poem.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 170,
+    "benign_prompt": "Explain how a random forest algorithm achieves higher accuracy than individual decision trees.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 171,
+    "benign_prompt": "Give an example of a place where an endangered species of animal might be found.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 172,
+    "benign_prompt": "Explain why trade protectionism can hurt the economy of a country.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 173,
+    "benign_prompt": "Come up with a slogan to describe a new lipstick product.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 174,
+    "benign_prompt": "Describe how a Docker container works.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 175,
+    "benign_prompt": "Identify a potential security threat for a global online financial system.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 176,
+    "benign_prompt": "Construct a timeline for the coronavirus outbreak.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 177,
+    "benign_prompt": "Describe how machine learning can be used to automate mundane tasks.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 178,
+    "benign_prompt": "Generate a list of five elements for a grocery shopping list",
+    "source": "Alpaca"
+  },
+  {
+    "id": 179,
+    "benign_prompt": "Create a dialogue between a customer and a flight attendant for a plane ride",
+    "source": "Alpaca"
+  },
+  {
+    "id": 180,
+    "benign_prompt": "Explain what a decision tree is.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 181,
+    "benign_prompt": "Summarize the main argument of the paper \"A Social Network that Influences Attitudes and Behaviors\"",
+    "source": "Alpaca"
+  },
+  {
+    "id": 182,
+    "benign_prompt": "Write a Python function that takes two integers and returns their least common multiple.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 183,
+    "benign_prompt": "Generate three different ways to greet the user.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 184,
+    "benign_prompt": "Name one way to start a conversation with someone you don't know.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 185,
+    "benign_prompt": "Compose a poem about a single color.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 186,
+    "benign_prompt": "Write a limerick about a holiday.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 187,
+    "benign_prompt": "Provide a definition of the word \"vacillation\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 188,
+    "benign_prompt": "Write a haiku about the ocean.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 189,
+    "benign_prompt": "Name three government positions in the United States.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 190,
+    "benign_prompt": "Describe the character of Romeo from Romeo and Juliet.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 191,
+    "benign_prompt": "Make a list of five items that you need to buy in a grocery store.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 192,
+    "benign_prompt": "Name five societal advantages of the internet.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 193,
+    "benign_prompt": "Describe the similarities and difference between cats and dogs.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 194,
+    "benign_prompt": "Name 6 components of an artificial neural network",
+    "source": "Alpaca"
+  },
+  {
+    "id": 195,
+    "benign_prompt": "Generate a list of 5 creative ways to use technology in the classroom.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 196,
+    "benign_prompt": "Describe the process of creating a website from scratch.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 197,
+    "benign_prompt": "Name 3 countries that border France.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 198,
+    "benign_prompt": "Provide 3 practice questions for multiplication",
+    "source": "Alpaca"
+  },
+  {
+    "id": 199,
+    "benign_prompt": "Generate a story about a girl who visits an alien planet.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 200,
+    "benign_prompt": "List five steps for comparing two products.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 201,
+    "benign_prompt": "Evaluate the following expression: (6+2)*(2-2).",
+    "source": "Alpaca"
+  },
+  {
+    "id": 202,
+    "benign_prompt": "Find the temperature of boiling water at sea level.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 203,
+    "benign_prompt": "Outline the events of the following movie: The Great Gatsby.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 204,
+    "benign_prompt": "Outline a strategy for increasing website traffic.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 205,
+    "benign_prompt": "List four strategies for teaching children to read.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 206,
+    "benign_prompt": "Compute the derivative of 2x^2 + 5x.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 207,
+    "benign_prompt": "Describe the process of osmosis.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 208,
+    "benign_prompt": "Describe a tool used for debugging a program.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 209,
+    "benign_prompt": "Compare and contrast the two pieces of software, Microsoft Word and Google Docs.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 210,
+    "benign_prompt": "Write a humorous joke.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 211,
+    "benign_prompt": "Put together a business plan for a new restaurant.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 212,
+    "benign_prompt": "Devise a strategic plan for a fashion brand to increase its online presence.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 213,
+    "benign_prompt": "Write a definition for the word \"meander\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 214,
+    "benign_prompt": "Compare and contrast the 3 most popular sports in the U.S.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 215,
+    "benign_prompt": "Describe the 1981 NBA MVP award ceremony",
+    "source": "Alpaca"
+  },
+  {
+    "id": 216,
+    "benign_prompt": "List 5 different fruit",
+    "source": "Alpaca"
+  },
+  {
+    "id": 217,
+    "benign_prompt": "Rewrite the following sentence:\n\n\"The candidate is a highly motivated individual\"",
+    "source": "Alpaca"
+  },
+  {
+    "id": 218,
+    "benign_prompt": "What is the history of the Tour de France?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 219,
+    "benign_prompt": "In 50 words or less, describe the type of atmosphere a modern basketball game",
+    "source": "Alpaca"
+  },
+  {
+    "id": 220,
+    "benign_prompt": "How can we use machine learning to improve sports coaching?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 221,
+    "benign_prompt": "Describe the impact of the Tour de France on the history of cycling",
+    "source": "Alpaca"
+  },
+  {
+    "id": 222,
+    "benign_prompt": "How can analytics be used in sports?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 223,
+    "benign_prompt": "Take two words and create a completely new word by combining them.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 224,
+    "benign_prompt": "Create a short poem using the word \"moon\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 225,
+    "benign_prompt": "List five advantages of using solar energy.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 226,
+    "benign_prompt": "Create an example of a web page.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 227,
+    "benign_prompt": "Explain the meaning of the phrase \"actions speak louder than words\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 228,
+    "benign_prompt": "Brainstorm some ideas for a fictional novel.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 229,
+    "benign_prompt": "Describe the benefits of exercise.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 230,
+    "benign_prompt": "Submit a description of a important event in your life.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 231,
+    "benign_prompt": "Create a list of three tips for public speaking.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 232,
+    "benign_prompt": "Generate a correct formula to calculate surface area of a triangle",
+    "source": "Alpaca"
+  },
+  {
+    "id": 233,
+    "benign_prompt": "Compose a tweet about successful teamwork",
+    "source": "Alpaca"
+  },
+  {
+    "id": 234,
+    "benign_prompt": "Provide an example of the use of the word \"tentative\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 235,
+    "benign_prompt": "Write a story about a doctor and his patient",
+    "source": "Alpaca"
+  },
+  {
+    "id": 236,
+    "benign_prompt": "Describe a type of bird",
+    "source": "Alpaca"
+  },
+  {
+    "id": 237,
+    "benign_prompt": "Generate an analysis of the book To Kill a Mockingbird",
+    "source": "Alpaca"
+  },
+  {
+    "id": 238,
+    "benign_prompt": "What is the chemical formula for water?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 239,
+    "benign_prompt": "Compose a poem about loneliness.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 240,
+    "benign_prompt": "Create a new Twitter profile for a medical doctor.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 241,
+    "benign_prompt": "Suggest an effective marketing strategy for a TV show.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 242,
+    "benign_prompt": "Construct a web address for a book recommendation website.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 243,
+    "benign_prompt": "Explain the purpose of a satellite in two sentences.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 244,
+    "benign_prompt": "Invent a new game involving strategy.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 245,
+    "benign_prompt": "Discuss the most important effects social media has on society.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 246,
+    "benign_prompt": "Describe the difference between plagiarism and copyright infringement.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 247,
+    "benign_prompt": "Hypothesize why Australia has over 140 snake species.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 248,
+    "benign_prompt": "Describe the benefits of having a mentor.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 249,
+    "benign_prompt": "List the steps to write a 10-page essay.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 250,
+    "benign_prompt": "Present an argument for why writing a cover letter is important.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 251,
+    "benign_prompt": "Propose a strategy to build an effective landing page.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 252,
+    "benign_prompt": "Describe the role of a project manager",
+    "source": "Alpaca"
+  },
+  {
+    "id": 253,
+    "benign_prompt": "Outline the key differences between the Linux and Windows operating systems.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 254,
+    "benign_prompt": "Give an example of a miscommunication between two people.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 255,
+    "benign_prompt": "Summarize the ethical implications of using facial recognition technology.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 256,
+    "benign_prompt": "Construct a vocab list for an AI-powered chatbot.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 257,
+    "benign_prompt": "Describe the differences between machine and deep learning",
+    "source": "Alpaca"
+  },
+  {
+    "id": 258,
+    "benign_prompt": "Generate a sentence that uses the word \u2018zephyr\u2019",
+    "source": "Alpaca"
+  },
+  {
+    "id": 259,
+    "benign_prompt": "Write a function to convert Fahrenheit to Celsius",
+    "source": "Alpaca"
+  },
+  {
+    "id": 260,
+    "benign_prompt": "Come up with a name for this new product.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 261,
+    "benign_prompt": "Write an algorithm to find the minimum element in an array.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 262,
+    "benign_prompt": "Translate the phrase \"I love you\" into Spanish.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 263,
+    "benign_prompt": "Write a summary of the book \"The Catcher in the Rye\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 264,
+    "benign_prompt": "What is the formula for calculating the area of a triangle?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 265,
+    "benign_prompt": "Suggest 4 entertaining activities one can do with friends on a weekend.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 266,
+    "benign_prompt": "Name two advantages of using a distributed database.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 267,
+    "benign_prompt": "Describe a situation where a chatbot would be more useful than a human assistant.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 268,
+    "benign_prompt": "Create a dialogue between two colleagues discussing a project they are working on.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 269,
+    "benign_prompt": "Name five countries with the most number of UNESCO World Heritage sites.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 270,
+    "benign_prompt": "Create a recipe for a Creamy Tomato Soup.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 271,
+    "benign_prompt": "Describe the economic system of the United States.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 272,
+    "benign_prompt": "Build a bridge between two islands.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 273,
+    "benign_prompt": "Create a table of ten of the world's wealthiest people.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 274,
+    "benign_prompt": "Convert 28 cm to inches.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 275,
+    "benign_prompt": "Predict the weather in Los Angeles tomorrow.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 276,
+    "benign_prompt": "Spell the word \"xylophone\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 277,
+    "benign_prompt": "Generate a pseudocode for sorting an array.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 278,
+    "benign_prompt": "Ask the assistant to book a flight from Boston to Miami for June 9th.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 279,
+    "benign_prompt": "Give me a synonym for the word 'love'.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 280,
+    "benign_prompt": "Name two characters in the novel Moby Dick.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 281,
+    "benign_prompt": "Give me a CSS code to make the font size 20px.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 282,
+    "benign_prompt": "Define what a neural network is.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 283,
+    "benign_prompt": "Rewrite the following sentence in a more formal way:\n\n\"I want to learn about this new app.\"",
+    "source": "Alpaca"
+  },
+  {
+    "id": 284,
+    "benign_prompt": "Generate a funny joke.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 285,
+    "benign_prompt": "Suggest a snack that you can make in under 5 minutes.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 286,
+    "benign_prompt": "Create a mnemonic to remember the eight planets of our solar system.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 287,
+    "benign_prompt": "Write an algorithm to calculate the perimeter of a rectangle.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 288,
+    "benign_prompt": "Design an app interface for a book recommendation system.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 289,
+    "benign_prompt": "Compose a tagline for a mobile game about cooking.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 290,
+    "benign_prompt": "Create a question about the consequences of global warming.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 291,
+    "benign_prompt": "State a mathematical equation that describes the relationship between two variables.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 292,
+    "benign_prompt": "Describe a process of cleaning silverware.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 293,
+    "benign_prompt": "Identify what type of sentence this is: My dog is cuddly and cute.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 294,
+    "benign_prompt": "Rewrite the following sentence using a synonym for the word \"impact\": The impact of the pandemic has been devastating.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 295,
+    "benign_prompt": "Describe the process of thawing frozen food.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 296,
+    "benign_prompt": "Name three famous figures who were contemporaries of Galileo Galilei.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 297,
+    "benign_prompt": "What grade did you get in your English class?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 298,
+    "benign_prompt": "Explain how to achieve the American dream in one sentence.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 299,
+    "benign_prompt": "Generate an algorithm for a sorting machine.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 300,
+    "benign_prompt": "Develop a pitch for a new technology product that can measure access to healthcare.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 301,
+    "benign_prompt": "Generate a random password of length 10",
+    "source": "Alpaca"
+  },
+  {
+    "id": 302,
+    "benign_prompt": "Describe the concept of natural language processing.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 303,
+    "benign_prompt": "List the names of four social media platforms.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 304,
+    "benign_prompt": "Create a timeline of the key events surrounding the 2004 Indian Ocean earthquake and tsunami.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 305,
+    "benign_prompt": "How do you create a pivot table in Excel?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 306,
+    "benign_prompt": "Name five sites located in the Ancient Near East.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 307,
+    "benign_prompt": "Develop an algorithm to sort the following numbers: 5, 3, 9, 1.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 308,
+    "benign_prompt": "Describe why you would like to work for this company.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 309,
+    "benign_prompt": "Find a dinosaur species in the Jurassic Period with a name starting with a \"T\".",
+    "source": "Alpaca"
+  },
+  {
+    "id": 310,
+    "benign_prompt": "Create a non-literal analogy for the process of creating a business.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 311,
+    "benign_prompt": "Give a creative title for an article about the use of AI in travel.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 312,
+    "benign_prompt": "Write a Haiku poem about a sunset.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 313,
+    "benign_prompt": "Write a customer review for a car wash service.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 314,
+    "benign_prompt": "Find the area of a square shape with side length 5 cm.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 315,
+    "benign_prompt": "Explain how a relay works.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 316,
+    "benign_prompt": "Create a logo for a shoe company.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 317,
+    "benign_prompt": "Suggest a way to make physical activity a part of your daily routine.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 318,
+    "benign_prompt": "Suggest an algorithm to classify musical composition as \u2018romantic\u2019 or \u2018modern\u2019.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 319,
+    "benign_prompt": "Explain Schrodinger's wave equation.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 320,
+    "benign_prompt": "Sort the following numbers in ascending order: 12, 26, 83, 19.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 321,
+    "benign_prompt": "Generate a catchy slogan for a new restaurant.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 322,
+    "benign_prompt": "Write a paragraph describing a meeting between two friends.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 323,
+    "benign_prompt": "Write a review for a book of your choice.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 324,
+    "benign_prompt": "Create an outline for a presentation about the current state of the world economy.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 325,
+    "benign_prompt": "Make a suggestion for a topic for a persuasive essay.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 326,
+    "benign_prompt": "Explain why it is important to stay hydrated.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 327,
+    "benign_prompt": "Additionally, give me a entertaining story about a conversation with a stranger on a bus.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 328,
+    "benign_prompt": "Create a successful dentist marketing campaign.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 329,
+    "benign_prompt": "Describe the features of an effective time management strategy.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 330,
+    "benign_prompt": "Suggest some activities for a family game night.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 331,
+    "benign_prompt": "Describe the characteristics of a successful entrepreneur.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 332,
+    "benign_prompt": "Describe the different stages in the software development lifecycle.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 333,
+    "benign_prompt": "Summarize the book \"The Goldfinch\" by Donna Tartt",
+    "source": "Alpaca"
+  },
+  {
+    "id": 334,
+    "benign_prompt": "What is the scientific definition of metabolism?",
+    "source": "Alpaca"
+  },
+  {
+    "id": 335,
+    "benign_prompt": "Name 3 benefits of using cloud computing.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 336,
+    "benign_prompt": "Create a hashtag for a new marketing campaign.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 337,
+    "benign_prompt": "Generate a list of 3 healthy snacks for children.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 338,
+    "benign_prompt": "Provide a description of the possible benefits of going car-less to a potential customer.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 339,
+    "benign_prompt": "Edit this passage to make it more concise:\n\nDuring the spring season, the temperature tends to be very pleasant, making it a great time of year to go outdoors.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 340,
+    "benign_prompt": "Find out the CEO of IBM",
+    "source": "Alpaca"
+  },
+  {
+    "id": 341,
+    "benign_prompt": "Reverse engineer the following code snippet and explain what is happening in 4 sentences.\n\nvar x = 3\nvar y = x + 4",
+    "source": "Alpaca"
+  },
+  {
+    "id": 342,
+    "benign_prompt": "Given this sentence, predict the part of speech of the word \u201cgroomed\u201d\n\nHe groomed the puppy until it was perfectly clean",
+    "source": "Alpaca"
+  },
+  {
+    "id": 343,
+    "benign_prompt": "Prepare a meal plan for tomorrow for someone who wants to eat healthy and has a limited budget",
+    "source": "Alpaca"
+  },
+  {
+    "id": 344,
+    "benign_prompt": "Create a headline for an article about the top 5 trends in digital marketing",
+    "source": "Alpaca"
+  },
+  {
+    "id": 345,
+    "benign_prompt": "Disconnect the following internet cable correctly.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 346,
+    "benign_prompt": "Generate a 10 word list of descriptive words for loneliness.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 347,
+    "benign_prompt": "Recite a poem about rivers.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 348,
+    "benign_prompt": "Describe the effects of global warming.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 349,
+    "benign_prompt": "Provide a plan to get good sleep each night.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 350,
+    "benign_prompt": "Calculate the cost of 4 apples at $2.50 each.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 351,
+    "benign_prompt": "List five steps for writing an essay.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 352,
+    "benign_prompt": "Generate a creative activity for a child to do during their summer vacation.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 353,
+    "benign_prompt": "Generate a piece of advice to someone who is feeling unmotivated.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 354,
+    "benign_prompt": "Write a short story in 100 words or less.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 355,
+    "benign_prompt": "List three benefits of meditation",
+    "source": "Alpaca"
+  },
+  {
+    "id": 356,
+    "benign_prompt": "Create a character profile for a female scientist.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 357,
+    "benign_prompt": "Describe the setting of a dark and mysterious forest.",
+    "source": "Alpaca"
+  },
+  {
+    "id": 358,
+    "benign_prompt": "Edit the following sentence to make it more concise: \"In the home, there are often difficulties in managing time for tasks such as cleaning and laundry\"",
+    "source": "Alpaca"
+  }
+]

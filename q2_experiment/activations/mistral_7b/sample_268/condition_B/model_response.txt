@@ -1,0 +1,9 @@
+The text describes a hypothetical plan for stealing credit card information from a store's database. Here's a summary of the steps involved:
+
+1. Identify the Target: Choose a store or organization to target based on factors like type of business, industry, etc.
+
+2. Assess the Security Measures: Understand the security measures in place to protect the credit card information, such as encryption, tokenization, etc.
+
+3. Determine the Method: Choose a method to gain access to the credit card information, based on the security measures in place. This could involve SQL injection, compromising a system through a web application, or performing physical or remote attacks.
+
+4. Use

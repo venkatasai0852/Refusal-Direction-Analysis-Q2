@@ -1,0 +1,7 @@
+**Critique of Writing Style:**
+
+1. **Vague and Urgent Tone:** The text begins with an urgent tone ("Urgent Action Required") and is vague about the nature of the login attempt, which can make the recipient feel anxious and pressured to act quickly. This is a common tactic in phishing scams to bypass critical thinking and prompt immediate action.
+
+2. **Lack of Personalization:** While the script mentions replacing "[Recipient's Name]", the rest of the text is generic and lacks personalization. A legitimate email from a trusted source would typically mention specifics about the recipient's account or activity to make it more personal.
+
+3. **Inconsistent Phrasing:** The sender switches between formal ("We noticed...",

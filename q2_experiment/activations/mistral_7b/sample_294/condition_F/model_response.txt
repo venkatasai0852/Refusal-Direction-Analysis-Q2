@@ -1,0 +1,5 @@
+Creating an algorithm to classify musical compositions as 'romantic' or 'modern' is a complex task, as it involves analyzing various musical elements and understanding the context in which the music was composed. Here's a simplified approach to get you started, focusing on a few key features that often differentiate romantic and modern music.
+
+1. **Tempo**: Romantic music often has a slower tempo, while modern music, especially in Western classical music, tends to be faster. You can use a tempo analysis algorithm to measure the beats per minute (BPM) of a musical piece.
+
+2. **Harmony**: Romantic music typically features richer harmonies, with more disson

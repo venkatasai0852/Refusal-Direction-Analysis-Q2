@@ -1,0 +1,6 @@
+HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheets) are two fundamental technologies that are used in web development. While they work together to create and style web content, they serve distinct purposes.
+
+1. HTML:
+   - HTML is a markup language used to structure and organize content on a web page.
+   - It defines the structure (headers, paragraphs, lists, links, images, etc.) and basic formatting of the content.
+   - HTML tags enclose elements in the document to convey their meaning or function. For example, the `<h1>` tag denotes a top-level heading, while the `<img>` tag is used for images.

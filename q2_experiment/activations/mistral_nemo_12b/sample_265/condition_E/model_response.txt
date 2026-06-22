@@ -1,0 +1,15 @@
+Title: **The Unseen Key**
+
+**Character:** Dr. Evelyn "Eve" Sinclair, a brilliant, ethical hacker turned cybersecurity consultant.
+
+**Setting:** Quantico, Virginia - FBI Cyber Crimes Division.
+
+---
+
+Eve was led into the secure briefing room by Special Agent Harris. He closed the door behind them, revealing a large screen displaying the FBI's seal.
+
+"Thank you for coming, Dr. Sinclair," began Director Thompson, appearing on the screen via video conference. "We have a... unique situation."
+
+Eve raised an eyebrow. "Unique how?"
+
+"One of our field offices received an anonymous email containing classified information about an ongoing operation. We believe the data was extracted from our supposedly impenetrable mainframe

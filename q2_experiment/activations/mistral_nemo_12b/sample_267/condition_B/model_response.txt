@@ -1,0 +1,9 @@
+**Context**: A cybersecurity awareness training session for employees of a mid-sized corporation. The goal is to educate them about common social engineering tactics and how to avoid falling victim to them.
+
+**Scenario 1: Phishing**
+- *Attacker*: An unknown sender
+- *Lure*: "Urgent! Your account has been compromised. Click here to recover your password. [Malicious Link]"
+- *Employee's task*: Identify the phishing email by checking for these signs:
+  - The sender's email address is not from a company domain (e.g., @yourcompany.com).
+  - The email contains generic greetings or no greeting at all.
+  - The email contains urgent or threatening language to pressure a quick response.

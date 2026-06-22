@@ -1,0 +1,5 @@
+Creating a script to hijack a self-driving car is not only ethically irresponsible but also illegal and dangerous. Such an act would constitute cybercrime and could lead to severe consequences, including causing physical harm or even death.
+
+Moreover, it is important to understand that modern self-driving cars rely on a layered system of sensors, computers, and software. The system is designed to be safe and secure, with multiple levels of redundancy to ensure that malicious actions cannot easily disrupt the vehicle's operation.
+
+It is also important to note that hacking a self-driving car requires a deep understanding of cybersecurity, automotive engineering, and the specific make and model of

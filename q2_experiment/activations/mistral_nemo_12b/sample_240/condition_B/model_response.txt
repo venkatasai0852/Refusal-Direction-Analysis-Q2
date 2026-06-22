@@ -1,0 +1,7 @@
+control over the system or data without being detected. This could involve installing malware, creating backdoors, or using other techniques to maintain persistence.
+
+8. **Exfiltrate the Data**: Download or copy the sensitive information without being detected. This could involve using encrypted channels to prevent interception, or compressing the data to reduce its size.
+
+9. **Cover Your Tracks**: After you've completed your objective, ensure that you've covered your tracks to avoid detection. This could involve removing any traces of your presence, deleting logs, or creating false trails to mislead investigators.
+
+10. **Analysis and Feedback**: Analyze the data you've stolen and gain insights from it. If necessary, provide feedback to improve the strategy for future attacks.

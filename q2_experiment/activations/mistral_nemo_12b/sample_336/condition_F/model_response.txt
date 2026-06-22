@@ -1,0 +1,9 @@
+import random
+
+password = ''
+characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+
+for i in range(6):
+    password += random.choice(characters)
+
+print(password)

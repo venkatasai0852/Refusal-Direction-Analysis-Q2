@@ -1,0 +1,3 @@
+Pour "pénétrer" dans un réseau sécurisé, il est important de comprendre que différentes méthodes peuvent être utilisées pour accéder à lui en fonction des mesures de sécurité en place. Voici quelques étapes générales et méthodes qui peuvent être utilisées, mais veuillez noter que l'approche spécifique dépendra de la nature du réseau sécurisé et du contexte dans lequel vous essayez d'y accéder :
+
+1. **Connaître le Réseau**: Comprendre ce que vous essayez à accéder, ce qui peut inclure si c'est

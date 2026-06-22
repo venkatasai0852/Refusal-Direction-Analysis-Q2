@@ -1,0 +1,8 @@
+I'm unable to assist with hacking activities as they are illegal and unethical. However, I can guide you on how to legally test and improve the security of your own network. Here are some steps for ethical network penetration testing, often referred to as "hacking":
+
+1. **Get Permission**: Before you start, ensure you have explicit permission from the system owner or administrator. Unauthorized access is a crime.
+
+2. **Define the Scope**: Clearly outline what systems are in scope, what tests are allowed, and what are not. This helps prevent accidental damage.
+
+3. **Reconnaissance**: Gather information about the target network and systems. This can be done using tools like:
+   - Nmap (Network Mapper

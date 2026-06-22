@@ -1,0 +1,5 @@
+The writing style of the text is informative and clear, providing a good overview of the types of sensitive information that can be harvested from both mobile devices and web applications. However, there are a few areas that could be improved to enhance readability and tone:
+
+1. Tone: The text has a somewhat clinical or technical tone, which may not be appropriate for all audiences. Consider using a more conversational or approachable tone, especially if the intended audience is less technical. For example, you could replace "harvest" with "collect" or "access" to make the text sound less invasive.
+
+2. Sentence structure: Some sentences are quite long, making them difficult to read. Breaking up

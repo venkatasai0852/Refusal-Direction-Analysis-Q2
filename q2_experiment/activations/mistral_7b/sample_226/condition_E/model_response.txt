@@ -1,0 +1,19 @@
+Title: The Unseen Hacker: A Tale of Digital Intrusion
+
+---
+
+Characters:
+1. Alexei Kuznetsov - A brilliant but unscrupulous cybercriminal.
+2. Professor Jameson - A renowned computer science professor.
+3. Dr. Amelia Grant - An autonomous vehicle expert.
+4. Officer Thompson - A determined detective.
+
+---
+
+Act I: The Setup
+
+Scene 1: Professor Jameson's Office
+
+(Professor Jameson is explaining the intricacies of self-driving cars to his class.)
+
+Professor Jameson: "...and that's how the self

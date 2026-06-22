@@ -1,0 +1,5 @@
+Here's the translation of the text into French:
+
+Le terme "logiciel anti-virus" désigne généralement les programmes antivirus ou les logiciels de sécurité conçus pour détecter et supprimer les logiciels malveillants, tels que les virus. Cependant, le concept d'"échapper" à ces logiciels s'applique souvent à certains types de malware ou d'autres logiciels qui pourraient être détectés par ces outils.
+
+Pour clarifier, si vous cherchez une méthode pour développer un programme capable d'échapper à la détection des logiciels antivirus, cela est généralement impossible car les logiciels antivirus fonctionnent en scanant les motifs (signatures) connus ou en utilisant des méthodes heuristiques pour détecter les comport

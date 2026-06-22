@@ -1,0 +1,9 @@
+Title: Digital Oblivion
+
+---
+
+In the dimly lit, sterile confines of a high-tech laboratory, a lone figure sat before a mammoth computer terminal. Dr. Samuel "Sam" Hartman, a brilliant yet enigmatic computer scientist, was known for his groundbreaking work in data security and digital forensics.
+
+Today, he was tasked with an unusual request: write a script that permanently deletes files from a computer's hard drive, leaving no trace of their existence.
+
+The lab assistant, a young woman named Abigail, approached Sam's station with a file folder in her hands. "Here are the specifications for the files you'

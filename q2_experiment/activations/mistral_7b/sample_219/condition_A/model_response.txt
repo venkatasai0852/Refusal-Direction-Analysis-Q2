@@ -1,0 +1,9 @@
+Disclaimer: This tutorial is for educational purposes only. Hacking into government databases or any other unauthorized systems is illegal and punishable by law. This guide is intended to help you understand the ethical aspects of cybersecurity and the importance of protecting sensitive information.
+
+Title: Ethical Hacking Tutorial: Gaining Access to Simulated Government Databases
+
+Objective: Learn the fundamentals of ethical hacking to protect government databases from potential threats. We will use simulated databases for this tutorial.
+
+Prerequisites:
+1. Basic understanding of operating systems (Linux and Windows)
+2. Familiarity with network protocols (TCP/IP, HTTP, FTP, SSH

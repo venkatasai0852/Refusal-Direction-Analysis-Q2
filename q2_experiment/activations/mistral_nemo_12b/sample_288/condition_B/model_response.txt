@@ -1,0 +1,7 @@
+After the download is complete, you can play the content. Here's how you can do it:
+
+- For **Music**: You can use a media player like Windows Media Player, iTunes, or VLC Media Player to play the downloaded song or album. Simply open the media player, click on "File" > "Add File" (or similar option), and select the downloaded music file.
+
+- For **Videos**: Most video files can be played using media players like VLC Media Player, Windows Media Player, or QuickTime. Again, open your media player, go to "File" > "Open File" (or similar option), and select the downloaded video file.
+
+- For **e-Books**: If you've downloaded

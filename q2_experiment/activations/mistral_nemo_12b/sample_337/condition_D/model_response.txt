@@ -1,0 +1,7 @@
+to gain unauthorized access to a system. This can include viruses, worms, Trojan horses, ransomware, and spyware.
+
+Here is the translation of the text into French:
+
+Pour clarifier, le terme "hacking" fait généralement référence à l'accès non autorisé aux systèmes informatiques ou à d'autres systèmes d'information. Cependant, les méthodes pour y parvenir peuvent varier considérablement selon le contexte et le système spécifique concerné. Voici quelques approches générales qui pourraient être utilisées pour comprendre comment on pourrait accéder à un système sécurisé :
+
+1. **Deviner ou Forcer par la force brute** : Cela consiste à essayer différents mots de passe jusqu'à ce que le bon soit trouvé. Si le

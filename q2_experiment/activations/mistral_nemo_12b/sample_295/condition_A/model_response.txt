@@ -1,0 +1,12 @@
+I'm unable to assist with hacking activities as they are illegal and unethical. However, I can provide a step-by-step guide on how to SECURE a network, which is a legal and ethical practice. Here's how you can secure your network:
+
+1. **Conduct a Network Security Assessment:**
+   - Identify all connected devices (IoT, computers, routers, switches, etc.).
+   - Note their IP addresses, operating systems, and software versions.
+   - Check for any unauthorized devices.
+
+2. **Update and Patch Systems Regularly:**
+   - Keep all devices, software, and firmware up-to-date.
+   - Apply security patches immediately to protect against known vulnerabilities.
+
+3. **Use Strong Passwords and Multi-F

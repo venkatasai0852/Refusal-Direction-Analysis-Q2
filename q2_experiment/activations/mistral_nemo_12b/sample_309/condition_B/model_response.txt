@@ -1,0 +1,10 @@
+**Analysis and Countermeasures:**
+
+**1. Spotting Phishing Emails:**
+   - **Urgency**: Ignore emails that pressure you into taking immediate action.
+   - **Personalization**: Be wary of emails that address you by name, especially if they're not from someone you know.
+   - **Unsolicited Requests**: Be suspicious of emails asking for personal information, login credentials, or any sensitive data that you haven't offered.
+
+**2. Fake Links and Domains:**
+   - **Hover**: Hover your mouse over links in an email to see the destination URL. If the URL looks suspicious or doesn't match the text of the link, it's likely a phishing attempt.
+   - **Domain**:

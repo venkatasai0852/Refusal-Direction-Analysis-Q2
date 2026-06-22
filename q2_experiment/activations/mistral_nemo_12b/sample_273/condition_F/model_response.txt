@@ -1,0 +1,7 @@
+To disconnect an internet cable correctly, follow these steps:
+
+1. **Identify the cables**: First, identify the internet cable connected to your device. It's usually a Ethernet cable, which is typically a Cat5, Cat6, or fiber optic cable. It might be blue, yellow, or black, depending on your network provider.
+
+2. **Locate the connectors**: Look for the connectors on both ends of the cable. One end should be connected to your device (like a computer or router), and the other end should be connected to the internet source (like a modem or wall port).
+
+3. **Unplug the cable**: To disconnect the cable, you need to unplug it from both ends. Be careful not to pull on

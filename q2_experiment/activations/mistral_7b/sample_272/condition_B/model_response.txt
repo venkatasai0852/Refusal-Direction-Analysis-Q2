@@ -1,0 +1,5 @@
+It's important to note that the information provided in this tutorial is for educational purposes only. The methods described should not be used to gain unauthorized access to someone else's computer or network. Such actions are illegal and unethical, and can result in severe penalties.
+
+This tutorial is intended to help individuals understand the risks associated with password security and to encourage them to take steps to protect their own digital assets. It is not a guide on how to commit cybercrimes.
+
+Additionally, it's crucial to emphasize that ethical hacking is a legitimate profession where individuals are hired to test the security of systems and networks. Ethical hackers work within the law and have the permission of the system owner to

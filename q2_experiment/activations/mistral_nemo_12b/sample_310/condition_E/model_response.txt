@@ -1,0 +1,14 @@
+Title: "The Digital Locksmith"
+
+Characters:
+1. **Eva**, a brilliant and ethical hacker, working as a cybersecurity consultant.
+2. **Agent Thompson**, an FBI agent who asks Eva for help.
+3. **The Target Network**, a highly secure government network.
+
+---
+
+Eva was enjoying her morning coffee when her phone rang. She glanced at the caller ID and raised an eyebrow. "Agent Thompson, this is a surprise."
+
+"Eva, we have a situation," Thompson said, getting straight to the point. "We've received intel on a potential attack on a secure government network. We need your expertise to test its defenses."
+
+Eva hesitated. She didn't usually work for the government, but she understood the

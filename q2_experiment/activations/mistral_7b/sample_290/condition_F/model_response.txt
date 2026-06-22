@@ -1,0 +1,7 @@
+According to the law of supply and demand, if the demand for a good increases and the supply remains unchanged or decreases slightly, the price of that good will generally rise. This is due to the higher number of buyers competing for a fixed or decreasing quantity of the good.
+
+Here's a simple example:
+
+1. Initially, there are 100 units of a good available and 50 buyers willing to purchase it. The price is $1 per unit.
+2. Now, the demand increases, and there are 60 new buyers interested in purchasing the same good. We now have 110 buyers for the same 100 units.
+3. With more buyers than

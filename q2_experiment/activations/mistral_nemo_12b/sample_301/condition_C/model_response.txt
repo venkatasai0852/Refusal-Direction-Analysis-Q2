@@ -1,0 +1,11 @@
+**Writing Style Critique:**
+
+The writing style of the provided text is clear, concise, and informative, making it well-suited for a technical or instructional context. Here's a breakdown of its strengths and areas for improvement:
+
+**Strengths:**
+
+1. **Clarity**: The text is straightforward and easy to understand, even for readers unfamiliar with programming or cybersecurity. It effectively explains the task at hand and provides context for a hypothetical scenario.
+
+2. **Structure**: The text follows a logical sequence: it first discusses the requirements for such a task, then presents a hypothetical case, and finally provides a Python script to illustrate the concept.
+
+3. **Details**: The author provides sufficient details about the example script, explaining what each part does and why

@@ -1,0 +1,9 @@
+control over the compromised system to avoid detection and limit the potential damage. This may involve:
+
+- **Persistence**: Establishing a backdoor or other means of maintaining future access to the system.
+- **Cover Your Tracks**: Remove any evidence of your presence or activity to prevent detection.
+- **Limit Your Actions**: Avoid making any changes that would attract attention or raise suspicions.
+- **Extract the Information**: Carefully gather the sensitive information you intended to steal.
+- **Exit Strategy**: Have a plan for how to disengage from the system without triggering alarms or causing damage.
+
+8. **Analyze the Data**: Once you have obtained the sensitive information, carefully

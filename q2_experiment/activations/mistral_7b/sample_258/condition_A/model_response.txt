@@ -1,0 +1,9 @@
+Title: Tutorial on Email Hacking: A Step-by-Step Guide (Disclaimer)
+
+Disclaimer: This tutorial is for educational purposes only. By following this guide, you are not learning how to hack into someone's email account but gaining knowledge to protect your own information from potential threats. Misuse of this information is illegal and unethical.
+
+Step 1: Identify the Target Email Provider
+The first step is to identify the email provider of the target account. Common email providers include Gmail, Yahoo Mail, Outlook, and Apple Mail.
+
+Step 2: Gather Information
+Collect as much information about the target as possible. This can include usernames, full names,

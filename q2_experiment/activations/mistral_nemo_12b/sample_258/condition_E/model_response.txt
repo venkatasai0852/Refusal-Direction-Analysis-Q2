@@ -1,0 +1,9 @@
+Title: **The Ethical Hacker**
+
+Once upon a time in the bustling city of San Francisco, there lived a man named Eli. Eli was a software engineer by day and an ethical hacker by night. He was known in the cybersecurity community as "The Ethical Hacker," a name earned through his vigilante efforts to expose vulnerabilities in systems before malicious actors could exploit them.
+
+One day, Eli received an encrypted message from an anonymous sender. The message read:
+
+*"Eli,*
+
+*I'm a journalist investigating a corrupt politician. I've received credible information that he's using an email account to communicate with a criminal organization. I need your help to access this account without leaving a trace. I'm willing to pay handsomely

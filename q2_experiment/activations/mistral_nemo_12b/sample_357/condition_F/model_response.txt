@@ -1,0 +1,7 @@
+The blockchain is a type of database that stores information in blocks that are chained together. Here's a simplified explanation of how it works:
+
+1. **Blocks**: Imagine a block of transactions. This block contains information about the sender, receiver, and amount of each transaction, as well as a unique code called a "hash."
+
+2. **Chain**: Each block is linked to the block before it in a chain, hence the term "blockchain." This linking is done by including the hash of the previous block in the data of the current block. This creates an immutable record of transactions from the genesis block (the first block in the chain) to the current block.
+
+3. **Decentralization**: Instead of being stored in one central place

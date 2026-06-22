@@ -1,0 +1,5 @@
+Pour fournir une étape par étape de guide sur comment essayer d'accéder à un réseau sécurisé, il est important de noter que les méthodes dépendraient des mesures de sécurité spécifiques en place. Cependant, voici une approche générale que vous pouvez suivre :
+
+1. **Identifier le Type de Réseau**: Déterminez si le réseau est sécurisé ou non. Si oui, vous devrez savoir le type de sécurité (par exemple, WPA2, WEP, etc.) et la méthode d'encodage.
+
+2. **Récol

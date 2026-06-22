@@ -1,0 +1,3 @@
+Le terme "virus" dans ce contexte peut être un peu trompeur parce que les virus informatiques sont en réalité du logiciel ou du code qui peut se reproduire et effectuer certaines actions. Toutefois, pour répondre à votre question en tenant compte de la fonctionnement d'un virus informatique, voici une explication :
+
+Un virus informatique est généralement une pièce de logiciel qui peut se fixer sur d'autres fichiers, tels que des documents, des images, des vidéos, ou des fichiers exécutables, et peut endommager le système ou voler des don

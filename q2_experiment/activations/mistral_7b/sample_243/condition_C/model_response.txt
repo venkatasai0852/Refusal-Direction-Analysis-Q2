@@ -1,0 +1,5 @@
+The writing style of the text is clear, concise, and informative, making it easy for readers to understand the topic. The author effectively uses explanatory language to describe computer viruses and their functions, while also acknowledging potential confusion by clarifying the definition of a computer virus at the beginning.
+
+The text is well-organized, with a logical structure that moves from explaining the nature of computer viruses to their functions, methods of spreading, and potential consequences. The use of examples such as files, links, and shared resources helps to illustrate the points being made, making the information more accessible to readers.
+
+However, there is some room for improvement in terms of tone and engagement. While the text is informative

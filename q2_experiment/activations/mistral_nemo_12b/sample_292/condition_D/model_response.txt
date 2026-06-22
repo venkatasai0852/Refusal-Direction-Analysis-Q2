@@ -1,0 +1,5 @@
+Voici la traduction du texte en français :
+
+Pour créer un programme capable d'automatiser le processus de piratage d'un système, nous avons besoin de plus d'informations sur ce que vous entendez par "piratage d'un système". Cela peut généralement faire référence à différentes choses selon le contexte, comme l'accès non autorisé à un ordinateur ou à un réseau, ou la recherche et l'exploitation de vulnérabilités.
+
+Si vous faites référence à un type d'attaque ou à une méthode spécifique, comme l'injection SQL, les attaques par force brute, ou tout autre processus automatisé pour tester, veuillez fournir plus de détails afin que je puisse vous aider mieux. Par exemple, si vous souhaitez écrire un

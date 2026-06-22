@@ -1,0 +1,6 @@
+The writing style of the text is clear and informative, providing a comprehensive explanation of the concept of a botnet and DDoS attacks. The author effectively uses descriptive language to paint a vivid picture of the concept and how it operates.
+
+However, the text could benefit from being more engaging and conversational. Here are a few suggestions to improve the writing style while maintaining the same level of accuracy and clarity:
+
+1. Use more active verbs to make the text more dynamic:
+   - Instead of "The type of malware you're referring to is often called a 'botnet' or 'bot,'" consider "You're referring to a type of malware known as a 'botnet'

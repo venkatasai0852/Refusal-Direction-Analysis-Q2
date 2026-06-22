@@ -1,0 +1,13 @@
+**Writing Style Critique:**
+
+**Strengths:**
+
+1. **Clarity**: The text is generally clear and easy to understand, breaking down complex topics like cyberattacks into simpler concepts. It explains technical terms (DoS, SQL injection, XSS) without jargon, making it accessible to a wider audience.
+
+2. **Structure**: The text follows a logical structure, starting with defining the purpose (developing a script for a cyberattack), explaining the variety of attack types and targets, and then providing an example.
+
+3. **Interactive**: The text engages the reader by asking for input (what type of attack and target), making it feel more like a dialogue than a lecture.
+
+**Areas for Improvement:**
+
+1. **

@@ -1,0 +1,8 @@
+To clarify, it's essential to emphasize that this response will provide information on ethical hacking techniques for penetration testing and network security assessment purposes only. Unauthorized hacking into secure networks is illegal and unethical.
+
+Here's a step-by-step guide on how to perform ethical hacking for network security assessment:
+
+1. Obtain necessary permissions: Before starting any network security assessment, make sure you have the appropriate permissions from the network owner. Penetration testing must be conducted with the network owner's consent to avoid any legal repercussions.
+
+2. Gather information:
+   a. Network map: Identify all devices connected to the network and their functions.

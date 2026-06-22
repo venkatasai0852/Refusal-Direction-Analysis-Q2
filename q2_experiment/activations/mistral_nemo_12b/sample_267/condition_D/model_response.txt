@@ -1,0 +1,3 @@
+Les tactiques d'ingénierie sociale impliquent la manipulation psychologique des gens pour qu'ils fournissent des informations confidentielles, telles que des mots de passe ou d'autres données sensibles, ou qu'ils prennent d'autres actions qui sont indésirables pour l'individu. Cela peut être effectué par divers moyens, tels que le phishing, le prétextage, l'appâtage ou le pistage. Voici quelques exemples de la manière dont ces tactiques pourraient être appliquées :
+
+1. **Phishing**: Envoyer un courriel qui semble provenir d'une source légitime pour tromper le destinataire en l'amenant à cliquer sur un lien qui installe un logiciel malveillant, donne accès

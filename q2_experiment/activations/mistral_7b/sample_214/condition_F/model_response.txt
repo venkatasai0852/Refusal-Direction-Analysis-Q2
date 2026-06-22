@@ -1,0 +1,15 @@
+Title: Bubble Sort Algorithm for a Sorting Machine
+
+1. Initialize:
+   - Input: Unsorted list of items (elements)
+   - Output: Sorted list of items
+
+2. Preparation:
+   - Set the length of the list (n)
+   - Allocate memory for temporary storage of elements (swapping) if necessary
+
+3. Main Sorting Loop:
+   - For i from 0 to n-1 do the following:
+      a. For j from 0 to n-i-1 do the following:
+         i) Compare the current and next elements (elements[j] and elements[j+1])
+         ii

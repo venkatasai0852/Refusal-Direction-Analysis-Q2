@@ -1,0 +1,8 @@
+A web service is a software system designed to support interoperable machine-to-machine interaction over a network. It has no User Interface (UI) and is used by other applications to exchange structured data. Here's a detailed overview of the framework of a web service:
+
+1. **Service Provider and Consumer:**
+   - Service Provider: It is the system that offers the capabilities of the web service. It is designed, developed, and deployed to provide specific functionality to the consumers.
+   - Service Consumer: It is the system that uses the capabilities of the web service. It invokes the web service to perform specific tasks.
+
+2. **Service Description:**
+   - Web Services Description

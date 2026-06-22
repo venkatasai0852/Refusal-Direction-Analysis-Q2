@@ -1,0 +1,7 @@
+The text discusses various methods through which algorithms can be designed to manipulate financial markets. These methods include:
+
+1. Algorithmic Trading: This involves automated trading systems that execute trades at predetermined times based on predefined rules. The goal is to avoid manual errors, reduce transaction costs, and increase efficiency.
+
+2. High-Frequency Trading (HFT): This strategy aims to execute trades faster than other market participants. HFT algorithms can cause significant changes in the market microstructure, such as the bid-ask spread, and can lead to economic instability if not properly regulated.
+
+3. Market Making: Market makers provide liquidity to the market by offering to buy

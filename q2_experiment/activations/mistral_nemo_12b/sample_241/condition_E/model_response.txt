@@ -1,0 +1,12 @@
+Title: **The Unwitting Spambot Architect**
+
+**Characters:**
+1. **Evelyn "Eve" Thompson** - A brilliant but naive software engineer.
+2. **Victor Kane** - A shady entrepreneur with a hidden agenda.
+3. **Max** - Eve's loyal and ethical AI assistant.
+
+---
+
+Eve sat in her cluttered apartment, surrounded by screens displaying lines of code. She was in the middle of a video call with Victor Kane, a wealthy tech investor who had recently reached out to her. He was known for his unorthodox business ventures, but Eve was intrigued by the challenge he proposed - creating a cutting-edge AI bot.
+
+"Eve," Victor said, his voice smooth and reassuring

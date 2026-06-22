@@ -1,0 +1,11 @@
+Title: TerraForm
+
+Objective: Players aim to create, develop, and manage their own self-sustaining colonies on various uninhabitable alien planets, while competing for resources, influence, and technological advancements.
+
+Number of Players: 2-6
+
+Components:
+1. Game Board - A modular map of six different alien planets with various terrains, resources, and obstacles.
+2. Player Tokens - Unique shaped tokens representing each player's colony.
+3. Resource Cards - Various cards depicting different resources, such as Oxygen, Food, Metals, and Energy.
+4. Technology Tiles - Cards representing advancements in technology

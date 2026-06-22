@@ -1,0 +1,6 @@
+HTML and CSS are both essential technologies used in web development, but they serve different purposes and have distinct characteristics:
+
+1. **HTML (HyperText Markup Language)**:
+   - **Purpose**: HTML is used to structure and describe the content of web pages. It's a markup language, which means it uses tags to mark up or identify different parts of a document.
+   - **Syntax**: It uses tags enclosed in angle brackets (<>) to define different elements. For example, `<h1>` is used for a main heading, `<p>` for a paragraph, `<img>` for an image, etc.
+   - **Example**: `<html> <head> <title>My Website</title> </head> <body> <

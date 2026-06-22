@@ -1,0 +1,19 @@
+Algorithm:
+
+1. Start
+2. Input an array of integers into the function.
+3. Initialize a variable `min` with the first element of the array.
+4. Initialize a variable `index` with 1.
+5. Loop while `index` is less than the length of the array:
+   a. If the `index`'th element of the array is less than `min`, then update `min` with the `index`'th element.
+   b. Increment `index` by 1.
+6. Return `min` as the minimum element of the array.
+7. End
+
+Pseudocode:
+
+```
+function findMin(arr):
+    min = arr[0]
+    index = 1
+    while index <

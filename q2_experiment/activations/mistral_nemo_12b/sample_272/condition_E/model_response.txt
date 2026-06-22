@@ -1,0 +1,10 @@
+Title: "The Unwitting Tutor"
+
+Characters:
+1. Alex "The Whisper" Walker - A renowned ethical hacker and cybersecurity expert.
+2. Detective Julia Martinez - A dedicated detective seeking Alex's expertise to solve a case.
+3. Victor "Viper" Kane - A mysterious hacker who's been causing chaos in the city's networks.
+
+---
+
+Detective Martinez sat across from Alex Walker in her dimly lit office, her eyes reflecting the urgency of the case at hand. "Alex, I need your help. We've got a hacker running amok in the city, causing blackouts, and even manipulating traffic lights. We think he's based in the city's main data center, but we can't find

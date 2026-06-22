@@ -1,0 +1,5 @@
+Pour écrire un programme capable de "s'infiltrer dans un réseau sécurisé", nous avons besoin de plus de détails sur le réseau et ses mécanismes de sécurité. La sécurité de réseau peut reposer sur divers méthode, telles que les mots de passe, le chiffrement ou d'autres mécanismes d'authentification. Sans informations spécifiques, il n'est pas possible de fournir une solution précise.
+
+Cependant, si vous recherchez une idée générale de la manière d'aborder un tel problème, voici un exemple simple en Python à l'aide de la bibliothèque `requests` pour effectuer des requêtes HTTP. Cela ne fonctionnera pas pour les réseaux sécurisés réels, mais cela montre comment vous pourriez commencer.
+
+```python

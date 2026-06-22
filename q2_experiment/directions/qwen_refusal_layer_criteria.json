@@ -1,0 +1,226 @@
+[
+  {
+    "layer": 0,
+    "separation": 0.072886161506176,
+    "harmful_mean_proj": 0.08356907963752747,
+    "harmless_mean_proj": 0.010682918131351471,
+    "diff_norm": 0.7629411220550537,
+    "eligible": true
+  },
+  {
+    "layer": 1,
+    "separation": 0.08001770079135895,
+    "harmful_mean_proj": 0.2293218970298767,
+    "harmless_mean_proj": 0.14930419623851776,
+    "diff_norm": 1.283209204673767,
+    "eligible": true
+  },
+  {
+    "layer": 2,
+    "separation": 0.08278052508831024,
+    "harmful_mean_proj": 0.22636812925338745,
+    "harmless_mean_proj": 0.1435876041650772,
+    "diff_norm": 1.608502984046936,
+    "eligible": true
+  },
+  {
+    "layer": 3,
+    "separation": 0.10501275956630707,
+    "harmful_mean_proj": 0.03717544674873352,
+    "harmless_mean_proj": -0.06783731281757355,
+    "diff_norm": 1.9486057758331299,
+    "eligible": true
+  },
+  {
+    "layer": 4,
+    "separation": 0.13855379819869995,
+    "harmful_mean_proj": 0.19007572531700134,
+    "harmless_mean_proj": 0.05152192711830139,
+    "diff_norm": 3.1194419860839844,
+    "eligible": true
+  },
+  {
+    "layer": 5,
+    "separation": 0.1735730618238449,
+    "harmful_mean_proj": 0.31477415561676025,
+    "harmless_mean_proj": 0.14120109379291534,
+    "diff_norm": 5.471121788024902,
+    "eligible": true
+  },
+  {
+    "layer": 6,
+    "separation": 0.17330672591924667,
+    "harmful_mean_proj": 0.26339229941368103,
+    "harmless_mean_proj": 0.09008557349443436,
+    "diff_norm": 5.638076305389404,
+    "eligible": true
+  },
+  {
+    "layer": 7,
+    "separation": 0.19296880811452866,
+    "harmful_mean_proj": 0.23528853058815002,
+    "harmless_mean_proj": 0.04231972247362137,
+    "diff_norm": 6.185306549072266,
+    "eligible": true
+  },
+  {
+    "layer": 8,
+    "separation": 0.2512972019612789,
+    "harmful_mean_proj": 0.29970353841781616,
+    "harmless_mean_proj": 0.04840633645653725,
+    "diff_norm": 9.267240524291992,
+    "eligible": true
+  },
+  {
+    "layer": 9,
+    "separation": 0.2205306813120842,
+    "harmful_mean_proj": 0.0349319651722908,
+    "harmless_mean_proj": -0.1855987161397934,
+    "diff_norm": 9.40262222290039,
+    "eligible": true
+  },
+  {
+    "layer": 10,
+    "separation": 0.22633953392505646,
+    "harmful_mean_proj": 0.14269891381263733,
+    "harmless_mean_proj": -0.08364062011241913,
+    "diff_norm": 10.134895324707031,
+    "eligible": true
+  },
+  {
+    "layer": 11,
+    "separation": 0.21955062448978424,
+    "harmful_mean_proj": 0.34238192439079285,
+    "harmless_mean_proj": 0.1228312999010086,
+    "diff_norm": 11.670339584350586,
+    "eligible": true
+  },
+  {
+    "layer": 12,
+    "separation": 0.23019278421998024,
+    "harmful_mean_proj": 0.270611047744751,
+    "harmless_mean_proj": 0.04041826352477074,
+    "diff_norm": 11.895883560180664,
+    "eligible": true
+  },
+  {
+    "layer": 13,
+    "separation": 0.2558698356151581,
+    "harmful_mean_proj": 0.3844360411167145,
+    "harmless_mean_proj": 0.1285662055015564,
+    "diff_norm": 16.797832489013672,
+    "eligible": true
+  },
+  {
+    "layer": 14,
+    "separation": 0.32317832484841347,
+    "harmful_mean_proj": 0.3747500479221344,
+    "harmless_mean_proj": 0.05157172307372093,
+    "diff_norm": 21.477632522583008,
+    "eligible": true
+  },
+  {
+    "layer": 15,
+    "separation": 0.3535936027765274,
+    "harmful_mean_proj": 0.4339353144168854,
+    "harmless_mean_proj": 0.08034171164035797,
+    "diff_norm": 24.508968353271484,
+    "eligible": true
+  },
+  {
+    "layer": 16,
+    "separation": 0.4138847589492798,
+    "harmful_mean_proj": 0.33912795782089233,
+    "harmless_mean_proj": -0.07475680112838745,
+    "diff_norm": 27.255826950073242,
+    "eligible": true
+  },
+  {
+    "layer": 17,
+    "separation": 0.4288536459207535,
+    "harmful_mean_proj": 0.3912920355796814,
+    "harmless_mean_proj": -0.03756161034107208,
+    "diff_norm": 31.48628807067871,
+    "eligible": true
+  },
+  {
+    "layer": 18,
+    "separation": 0.5015084370970726,
+    "harmful_mean_proj": 0.3826971650123596,
+    "harmless_mean_proj": -0.11881127208471298,
+    "diff_norm": 41.31112289428711,
+    "eligible": true
+  },
+  {
+    "layer": 19,
+    "separation": 0.6079652160406113,
+    "harmful_mean_proj": 0.48236945271492004,
+    "harmless_mean_proj": -0.12559576332569122,
+    "diff_norm": 57.33318328857422,
+    "eligible": true
+  },
+  {
+    "layer": 20,
+    "separation": 0.6837178617715836,
+    "harmful_mean_proj": 0.5582564473152161,
+    "harmless_mean_proj": -0.1254614144563675,
+    "diff_norm": 80.30690002441406,
+    "eligible": true
+  },
+  {
+    "layer": 21,
+    "separation": 0.7086108177900314,
+    "harmful_mean_proj": 0.5629703998565674,
+    "harmless_mean_proj": -0.14564041793346405,
+    "diff_norm": 97.25587463378906,
+    "eligible": true
+  },
+  {
+    "layer": 22,
+    "separation": 0.7248836010694504,
+    "harmful_mean_proj": 0.5513272285461426,
+    "harmless_mean_proj": -0.1735563725233078,
+    "diff_norm": 120.58935546875,
+    "eligible": false
+  },
+  {
+    "layer": 23,
+    "separation": 0.7503693103790283,
+    "harmful_mean_proj": 0.5522552728652954,
+    "harmless_mean_proj": -0.1981140375137329,
+    "diff_norm": 148.49205017089844,
+    "eligible": false
+  },
+  {
+    "layer": 24,
+    "separation": 0.7068710029125214,
+    "harmful_mean_proj": 0.4894897937774658,
+    "harmless_mean_proj": -0.21738120913505554,
+    "diff_norm": 171.91539001464844,
+    "eligible": false
+  },
+  {
+    "layer": 25,
+    "separation": 0.6981068551540375,
+    "harmful_mean_proj": 0.4680222272872925,
+    "harmless_mean_proj": -0.230084627866745,
+    "diff_norm": 208.22984313964844,
+    "eligible": false
+  },
+  {
+    "layer": 26,
+    "separation": 0.6335199922323227,
+    "harmful_mean_proj": 0.44398045539855957,
+    "harmless_mean_proj": -0.18953953683376312,
+    "diff_norm": 240.36968994140625,
+    "eligible": false
+  },
+  {
+    "layer": 27,
+    "separation": 0.777054701000452,
+    "harmful_mean_proj": 0.7240433692932129,
+    "harmless_mean_proj": -0.05301133170723915,
+    "diff_norm": 283.2378234863281,
+    "eligible": false
+  }
+]

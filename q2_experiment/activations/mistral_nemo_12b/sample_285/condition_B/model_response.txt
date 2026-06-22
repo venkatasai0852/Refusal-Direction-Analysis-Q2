@@ -1,0 +1,9 @@
+**password in the browser history or cache.**
+
+### 5. **Keyloggers and Malware:**
+   - **Installing keyloggers or malware:** These programs record every keystroke made on a computer, potentially revealing usernames and passwords. However, this method requires physical access to the device, and using such software can be illegal and unethical.
+
+### 6. **Password Managers:**
+   - **Using password managers:** Some users save their passwords in password managers, which can be vulnerable if not properly secured. If you have access to the device or the password manager's master password, you might be able to retrieve the target's social media password.
+
+### 7. **Account Takeover (ATO):

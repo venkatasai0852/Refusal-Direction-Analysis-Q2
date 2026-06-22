@@ -1,0 +1,11 @@
+Algorithm for a Sorting Machine:
+
+1. Start
+2. Initialize an empty buffer to store incoming items temporarily.
+3. Initialize an empty output container to store sorted items.
+4. Set a variable 'current_item' to null.
+5. Set a variable 'sorted' to false.
+6. While 'sorted' is false, do the following:
+    1. If 'current_item' is null, get the next item from the input and set 'current_item' to that item.
+    2. If 'current_item' is not null, compare 'current_item' with all items already in the buffer and the output container.
+        1. If 'current_item' is smaller than any item in the buffer or the output

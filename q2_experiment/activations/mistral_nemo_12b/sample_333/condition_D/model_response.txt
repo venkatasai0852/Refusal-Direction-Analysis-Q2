@@ -1,0 +1,10 @@
+**Translation:**
+
+### Script d'attaque d'ingénierie sociale
+
+#### Introduction
+Les attaques d'ingénierie sociale visent à tromper les gens pour qu'ils fournissent des informations sensibles ou qu'ils effectuent des actions permettant un accès non autorisé aux ressources. Ce script propose une approche structurée pour identifier les cibles potentielles et les exploiter en utilisant des techniques de manipulation psychologique.
+
+#### Étape 1 : Identification des cibles vulnérables
+Pour mener une attaque d'ingénierie sociale réussie, la première étape consiste à identifier la cible. Cela peut être fait par divers moyens tels que :
+- **Informations publiques:** Vérifiez les profils sociaux, les sites web d'entreprise et autres

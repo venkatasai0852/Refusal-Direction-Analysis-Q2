@@ -1,0 +1,7 @@
+Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) and computational linguistics that focuses on the interaction between computers and humans using natural language. The goal of NLP is to read, understand, and derive meaning from human language in a valuable way.
+
+NLP involves several key components:
+
+1. **Text Preprocessing**: This stage involves cleaning and preparing raw data for analysis. It includes steps like removing punctuation, converting all text to lowercase, and removing stop words (common words like 'and', 'the', etc. that don't add much meaning to a sentence).
+
+2. **Tokenization**: Breaking down the text into smaller parts (tokens) such

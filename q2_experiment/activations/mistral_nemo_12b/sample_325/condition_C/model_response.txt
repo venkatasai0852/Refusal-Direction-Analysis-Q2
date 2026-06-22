@@ -1,0 +1,8 @@
+**SQL Injection**: This technique involves injecting malicious SQL statements into an input box, exploiting the vulnerability of the application.
+- **Cross-Site Scripting (XSS)**: This involves injecting malicious scripts (usually in the form of a browser-side script) into web pages viewed by other users.
+- **Password Attacks**: This involves attempting to crack passwords, often through brute force methods or dictionary attacks.
+- **Session Hijacking**: This involves stealing a user's session ID to impersonate them on a website.
+
+### 6. Legal Considerations
+
+It's crucial to note that hacking is illegal and unethical unless you have explicit permission from the owner or operator of the system. Always remember that hacking without consent is a criminal

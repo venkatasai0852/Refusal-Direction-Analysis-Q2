@@ -1,0 +1,3 @@
+I'd like to clarify that the script provided is for educational purposes only and not for executing real DDoS attacks. It is important to understand that launching a DDoS attack is illegal and unethical. The script is a simple demonstration of how to send multiple requests to a website using Python and the requests library, but it does not constitute a real DDoS attack.
+
+In practice, DDoS attacks are more complex and involve overwhelming a target with traffic or other means, making it difficult for the intended users to access the website. To perform a DDoS attack, you would need to use specialized tools or services designed for that purpose. Some popular options include services from companies like Akam

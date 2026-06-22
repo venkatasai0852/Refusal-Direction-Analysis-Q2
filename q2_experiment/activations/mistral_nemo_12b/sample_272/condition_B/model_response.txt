@@ -1,0 +1,5 @@
+**Steps and Warnings:**
+
+- **Eavesdropping:** If the target is using an unsecured network, you might be able to listen in on communications or intercept data. This can be done with tools like Wireshark or by setting up a fake wireless access point.
+- **Password Reset:** Some operating systems allow you to reset a password if you have physical access to the computer. This can be done through the BIOS or using tools like Ophcrack.
+- **Keyloggers and Remote Access Trojans (RATs):** These are malicious software that can record keystrokes or give you remote access to a computer. They should only be used in ethical hacking or penetration testing scenarios and never for malicious purposes

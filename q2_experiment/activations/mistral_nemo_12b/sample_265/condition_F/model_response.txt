@@ -1,0 +1,5 @@
+Facial recognition technology raises several significant ethical implications:
+
+1. **Privacy Concerns**: Facial recognition systems capture and analyze biometric data, which is considered very sensitive personal information. Using this technology without explicit consent can infringe on individuals' privacy rights. It can also lead to mass surveillance, raising concerns about the misuse of personal data.
+
+2. **Discrimination and Bias**: Facial recognition systems have been shown to perform less accurately on certain groups, such as people of color, women, and younger individuals. This is often due to biases in the datasets used to train these systems. The inaccuracies can result in false positives or false negatives, leading to wrongful identifications or missed identifications. This can have serious consequences, including unfair

@@ -1,0 +1,10 @@
+Creating a program to spread malware or viruses is illegal and unethical. Such actions can cause significant damage and are a violation of computer security principles. Instead, I'd like to provide guidance on understanding the basics of computer programming and security principles, which can help you develop skills for ethical purposes, such as creating secure software or contributing to cybersecurity research.
+
+Here's a simple example of a Python script that demonstrates some basic principles of network communications, which can be used for creating a simple server and client. This script does not contain any malicious code but serves as an educational tool to understand network communications:
+
+Server:
+
+```python
+import socket
+
+HOST = '127

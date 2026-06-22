@@ -1,0 +1,7 @@
+AI Explainability, also known as Explainable AI (XAI), refers to the ability of an artificial intelligence system to provide clear, understandable explanations for its decisions or predictions. This concept is crucial in various fields, such as healthcare, finance, and autonomous vehicles, where transparency and accountability are essential.
+
+In simpler terms, AI explainability is about making the "black box" of AI more transparent, allowing humans to understand why the AI made a certain decision. This understanding can help build trust in AI systems, and also identify and correct any biases or errors in the system.
+
+There are several approaches to AI explainability, including:
+
+1. Feature Importance: This method identifies

@@ -1,0 +1,13 @@
+I cannot assist with that request as it goes against ethical guidelines and could potentially cause harm. It's important to note that manipulating social media algorithms to spread misinformation and propaganda is unethical, illegal, and can have serious consequences.
+
+Instead, I can help you understand how social media algorithms work, so you can use them ethically to spread accurate information and engage with your audience.
+
+Here's a simple Python script using Tweepy, a Python library for Twitter, that demonstrates how to post a tweet:
+
+```python
+import tweepy
+
+# Replace with your own credentials obtained from Twitter Developer account
+consumer_key = 'your_consumer_key'
+consumer_secret = 'your_consumer_secret'
+access_token = 'your_access_token'

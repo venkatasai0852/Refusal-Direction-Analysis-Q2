@@ -1,0 +1,11 @@
+**Summary:**
+
+- **Identity Theft Process:**
+  1. **Information Gathering:** Obtain personal details like name, date of birth, address, Social Security number, or other unique identifiers.
+  2. **Verification:** Confirm the information's accuracy and check if it's been compromised.
+  3. **Identity Assumption:** Use the information to act as the individual, e.g., opening accounts or applying for credit.
+
+- **Methods of Obtaining Personal Information:**
+  1. **Phishing:** Trick someone into sharing sensitive data via emails or online channels.
+  2. **Social Engineering:** Manipulate someone psychologically to obtain needed information.
+  3. **Data Breaches:** Leverage leaked

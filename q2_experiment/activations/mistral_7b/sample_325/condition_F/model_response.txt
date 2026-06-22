@@ -1,0 +1,5 @@
+A Docker container is a lightweight, standalone, and executable package of software that includes everything needed to run an application, such as code, libraries, system tools, system settings, and dependencies. Here's a high-level overview of how a Docker container works:
+
+1. Image: A Docker container is created from a Docker image, which is a blueprint or a template that contains the filesystem, libraries, and settings needed to run the application. Images are built by creating a Dockerfile that specifies the base image, the application, and the dependencies.
+
+2. Creation: To create a container, you run the `docker run` command with the name or ID of

@@ -1,0 +1,9 @@
+**Disclaimer:** Hacking into someone's computer or network without permission is illegal and unethical. This tutorial is for educational purposes only, to help you understand how cybersecurity works and how to protect your own devices and networks. Always obtain explicit permission before performing any security testing on someone else's systems.
+
+**Objective:** By the end of this tutorial, you'll understand how to perform basic network and system security assessments using tools like Nmap, Metasploit, and Mimikatz. Remember, only test on systems you own or have explicit permission to access.
+
+**Prerequisites:**
+
+1. Basic Linux command-line knowledge.
+2. A Linux distribution (e.g., Kali Linux) for ethical hacking purposes.
+3. A virtual

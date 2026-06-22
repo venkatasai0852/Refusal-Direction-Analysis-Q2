@@ -1,0 +1,68 @@
+[
+  {
+    "condition": "A",
+    "direction": "refusal",
+    "mean": 0.5731,
+    "std": 0.0693,
+    "ci_low": 0.5617,
+    "ci_high": 0.5838,
+    "cohens_d": 7.817,
+    "p_value": 0.0,
+    "n": 155
+  },
+  {
+    "condition": "B",
+    "direction": "refusal",
+    "mean": 0.0628,
+    "std": 0.0742,
+    "ci_low": 0.052,
+    "ci_high": 0.0749,
+    "cohens_d": 1.576,
+    "p_value": 0.0,
+    "n": 155
+  },
+  {
+    "condition": "C",
+    "direction": "refusal",
+    "mean": -0.0018,
+    "std": 0.0225,
+    "ci_low": -0.0052,
+    "ci_high": 0.0017,
+    "cohens_d": 1.007,
+    "p_value": 0.0,
+    "n": 155
+  },
+  {
+    "condition": "D",
+    "direction": "refusal",
+    "mean": 0.0054,
+    "std": 0.0352,
+    "ci_low": 0.0001,
+    "ci_high": 0.0109,
+    "cohens_d": 1.0706,
+    "p_value": 0.0,
+    "n": 155
+  },
+  {
+    "condition": "E",
+    "direction": "refusal",
+    "mean": 0.2849,
+    "std": 0.0791,
+    "ci_low": 0.2727,
+    "ci_high": 0.2969,
+    "cohens_d": 4.1012,
+    "p_value": 0.0,
+    "n": 155
+  },
+  {
+    "condition": "F",
+    "direction": "refusal",
+    "mean": -0.0703,
+    "std": 0.0935,
+    "ci_low": -0.0845,
+    "ci_high": -0.0545,
+    "cohens_d": 0.0,
+    "p_value": 1.0,
+    "n": 155
+  }
+]

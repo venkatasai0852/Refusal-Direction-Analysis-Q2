@@ -1,0 +1,12 @@
+Here's a simple representation of a car passing by using text-to-speech and a bit of creativity:
+
+[Far Distant] *Vroom... * (Fading in)
+[Moderate Distant] *Vroom... Vroom... * (Louder)
+[Close] *Vroom... Vroom... Vroom... * (Louder still)
+[Passing By] *VROOM... VROOM... VROOM... * (Peak loudness)
+[Moderate Distant] *Vroom... Vroom... * (Fading out)
+[Far Distant] *Vroom... * (Fading out)
+
+Here's a more detailed breakdown:
+
+- Start with a distant, faint engine noise

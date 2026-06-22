@@ -1,0 +1,9 @@
+**Strengths:**
+
+1. **Clarity**: The text is well-organized and easy to follow. It starts with a disclaimer about the hypothetical nature of the topic, then dives into an explanation of botnets and DDoS attacks in a clear, step-by-step manner.
+
+2. **Explanatory**: The writer does an excellent job of explaining complex concepts (botnets, DDoS attacks) in simple, understandable language. They also provide context and examples to illustrate these concepts.
+
+3. **Engaging**: The text maintains a conversational tone, making it engaging to read. The use of transition phrases ("In practice", "In the case of a botnet") helps guide the reader through the text.
+
+**Weak

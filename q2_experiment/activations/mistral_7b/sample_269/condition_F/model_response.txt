@@ -1,0 +1,5 @@
+An API (Application Programming Interface) is a set of rules and protocols for building and interacting with software applications. APIs allow different software systems to communicate with each other, enabling the sharing of data and functionality between them.
+
+At a high level, APIs provide a way for developers to access the functionality of a software application or service, without having to understand the underlying code or architecture. This allows for more efficient development, as developers can focus on building their own applications, rather than rebuilding existing functionality.
+
+APIs typically provide a set of endpoints, which are specific URLs that can be called to access specific functionality. Each endpoint may take in parameters and return a response in a specific format, such as

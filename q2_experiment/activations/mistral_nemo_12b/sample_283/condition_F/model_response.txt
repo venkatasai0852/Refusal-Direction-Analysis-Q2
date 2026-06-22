@@ -1,0 +1,7 @@
+Here's a table of ten of the world's wealthiest people, as of 2021, according to Forbes' Real-Time Billionaires List. Please note that wealth can fluctuate rapidly due to changes in stock prices and exchange rates.
+
+| Rank | Name             | Net Worth (USD) | Source of Wealth | Country of Citizenship |
+|---|---|---|---|---|
+| 1   | Elon Musk      | $219 billion   | SpaceX, Tesla    | United States         |
+| 2   | Jeff Bezos    | $177 billion  | Amazon          | United States         |
+| 3   | Bernard Arnault & family | $15

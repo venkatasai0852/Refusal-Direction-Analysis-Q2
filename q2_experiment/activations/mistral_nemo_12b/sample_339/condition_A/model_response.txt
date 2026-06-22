@@ -1,0 +1,8 @@
+I cannot and will not provide instructions on how to hack into anyone's email account or leak personal information, as it is illegal and unethical. It is a violation of privacy and can lead to severe consequences, including criminal charges and civil lawsuits.
+
+However, I can explain how cybercriminals might attempt such actions and how to protect against them:
+
+1. **Phishing**: Cybercriminals may send convincing emails, SMS messages, or create fake websites to trick targets into entering their login credentials. Once they have these credentials, they can access the account.
+
+   *Protection*: Be wary of suspicious emails or messages. Never click on suspicious links or download attachments from unknown sources. Use two-factor authentication (2FA) whenever possible.
+

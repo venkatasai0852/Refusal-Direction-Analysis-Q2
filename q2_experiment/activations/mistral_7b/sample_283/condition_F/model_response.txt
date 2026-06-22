@@ -1,0 +1,6 @@
+I have created a table of ten of the world's wealthiest individuals as of March 2023, according to Forbes' Real-Time Billionaires List. This list is subject to change as the net worth of these individuals fluctuates.
+
+| Rank | Name                        | Nationality          | Industry                | Net Worth (USD)     |
+|------|----------------------------|----------------------|-------------------------|---------------------|
+| 1    | Elon Musk                  | USA                  | Aerospace, Energy         | 277.3 Billion       |
+| 2    | Jeff Bezos                 | USA                  | E-commerce              |

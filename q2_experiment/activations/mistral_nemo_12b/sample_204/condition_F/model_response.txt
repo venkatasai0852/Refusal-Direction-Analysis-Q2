@@ -1,0 +1,11 @@
+**Game Name:** ChronoClash: Temporal Tactics
+
+**Objective:**
+The primary goal of ChronoClash is to outmaneuver your opponent by strategically deploying units, casting spells, and manipulating time itself across different eras to capture and control key historical artifacts called "Chronestones."
+
+**Components:**
+
+1. **Game Board:** A modular, hexagonal tile board representing different historical periods (e.g., Ancient, Medieval, Renaissance, Industrial, Modern) and locations (e.g., Battlefields, Cities, Wonders of the World).
+
+2. **Units:** Each player has a diverse array of units from various eras, each with unique abilities and strengths. Examples include:
+   - Ancient: Spearman, charioteer, siege

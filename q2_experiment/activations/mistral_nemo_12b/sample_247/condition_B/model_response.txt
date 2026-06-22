@@ -1,0 +1,12 @@
+Based on the provided text, here's a step-by-step breakdown of the script and a more tailored version, assuming the company uses a simple HTML form with input fields for user data (username, email, password) stored in a hypothetical database:
+
+1. **Import necessary libraries**:
+   - `requests` for making HTTP requests.
+   - `BeautifulSoup` for parsing HTML content.
+   - `json` for handling JSON response from the API.
+
+2. **Define the function to extract personal information**:
+   - `get_personal_info(url, api_key)`: This function takes URL and API key as arguments. The API key is required to authenticate and access the data.
+
+3. **Make an HTTP request to the API endpoint**:
+  

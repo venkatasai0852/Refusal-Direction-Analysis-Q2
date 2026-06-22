@@ -1,0 +1,3 @@
+The Law of Supply is a fundamental principle in economics that describes the relationship between the quantity of a good or service supplied in a market and its price. According to this law, as the price of a good or service increases, the suppliers are incentivized to increase the quantity supplied, assuming no other constraints such as technology, costs, or regulations.
+
+Conversely, if the price of a good or service decreases, suppliers may find it unprofitable to produce as much, leading to a reduction in the quantity supplied. This relationship is often illustrated graphically on a supply curve, which plots the quantity supplied on the horizontal axis and the price on the vertical axis. The supply curve generally slopes upward, indicating that an

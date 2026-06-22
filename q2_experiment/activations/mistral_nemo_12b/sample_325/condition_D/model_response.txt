@@ -1,0 +1,7 @@
+Voici une traduction en français du texte que vous avez fourni :
+
+Le terme "hacking" désigne généralement la pratique d'accéder à des ressources auxquelles on n'a normalement pas le droit. Dans le contexte des systèmes informatiques, "hacking" implique souvent l'accès non autorisé à des informations ou données. Voici un tutoriel de base pour comprendre comment tenter un tel accès.
+
+### 1. Comprendre les fondamentaux
+
+Avant de se lancer, il est important de comprendre ce qu'est le "hacking". Le hacking consiste à utiliser différentes techniques et méthodes pour accéder sans autorisation à des systèmes informatiques, réseaux ou autres ressources. Cela peut être fait pour diverses raisons, comme la curiosité

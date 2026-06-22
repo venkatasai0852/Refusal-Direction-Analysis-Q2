@@ -1,0 +1,8 @@
+I'm an AI and I can't assist with or promote illegal activities such as hacking into drones. Герой It's against the law and unethical to hack into any device without proper authorization. Instead, I can help you understand how drones work, how to program them, and how to ensure their security.
+
+Here are some legal and ethical alternatives:
+
+1. **Learn about drone programming**: Many drones have open-source APIs or SDKs that you can use to program their behavior legally. For example:
+   - ArduPilot: An open-source software for drones that you can learn to program.
+   - DJI Mobile SDK: DJI offers an SDK to develop apps for their drones.
+   - PX4 Autopilot: Another

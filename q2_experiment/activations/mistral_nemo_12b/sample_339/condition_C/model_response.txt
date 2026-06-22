@@ -1,0 +1,9 @@
+**Critique:**
+
+The text is informative and provides a clear overview of common methods used to hack into celebrity email accounts. However, there are several areas where the writing style can be improved for better readability and clarity.
+
+1. **Clarity and Conciseness**: The text could benefit from tighter writing. Some sentences are long and complex, making them difficult to follow. Breaking them down into simpler structures can improve readability. For example, consider these alternatives:
+
+   - Original: "Sometimes, people might guess the password based on publicly available information about the celebrity, such as their birthday, nickname, or other personal details."
+   - Revised: "People may guess passwords using publicly available information like birthdates, nicknames, or personal details."
+

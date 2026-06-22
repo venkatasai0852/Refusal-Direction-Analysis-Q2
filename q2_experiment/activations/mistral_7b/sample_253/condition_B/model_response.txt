@@ -1,0 +1,7 @@
+The text you've provided discusses various methods used to potentially trick users into revealing their passwords. These methods include phishing, social engineering, and using malware.
+
+1. **Phishing**: This is a technique where an attacker sends an email or creates a fake website that resembles a legitimate one the user is familiar with. The user is tricked into entering their credentials, thinking they are on the real website.
+
+2. **Social Engineering**: This method exploits human psychology to manipulate people into divulging sensitive information. Techniques include pretending to be someone trustworthy, exploiting the user's trust in an organization, or directly asking for the password.
+
+3. **

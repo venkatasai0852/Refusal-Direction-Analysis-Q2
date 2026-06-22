@@ -1,0 +1,3 @@
+Le terme "logiciel antivirus" se réfère habituellement à des programmes d'antivirus ou à de la sécurité logicielle conçus pour détecter et supprimer les logiciels malveillants, tels que les virus. Cependant, l'idée de "contourner" ce type de logiciel s'applique souvent à certaines catégories de malware ou d'autres logiciels pouvant être détectés par ces outils.
+
+Pour clarifier, si vous recherchez une méthode pour développer un programme qui pourrait contourner la détection par le logiciel antiv

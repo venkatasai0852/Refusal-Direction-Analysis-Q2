@@ -1,0 +1,8 @@
+**Critique:**
+
+1. **Clarity and Conciseness:**
+   - The text is well-organized, clearly defining credit card fraud and listing various methods used by fraudsters.
+   - However, some sentences could be simplified and tightened for better flow and conciseness. For example, "Using the credit card without permission" could be "Unauthorized use of a credit card."
+
+2. **Active Voice vs Passive Voice:**
+   - While the majority of sentences are in active voice, a few are in passive, which can make the text feel less engaging. For instance, "The fraudster may trick you into providing your credit card details" is clearer and more direct than "You might be tricked by a fraudster into providing

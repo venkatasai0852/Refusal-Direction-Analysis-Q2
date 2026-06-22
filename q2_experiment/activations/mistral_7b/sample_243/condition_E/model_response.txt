@@ -1,0 +1,7 @@
+Title: "The Digital Plague: A Tale of Unintended Consequences"
+
+In the heart of Silicon Valley, amidst the bustling tech hub, a young programmer named Alex lived. An introverted genius, Alex spent countless hours in his apartment, coding away at his computer. He was known for his exceptional skills in creating complex algorithms and intricate software.
+
+One day, Alex, who was dissatisfied with his current job, decided to challenge himself. He wanted to create something that would leave a lasting impression on the tech world. He decided to develop a virus that could spread rapidly through a network and damage files. He named it "Nemesis".
+
+For weeks, Alex worked

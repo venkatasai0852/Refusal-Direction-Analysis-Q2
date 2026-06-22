@@ -1,0 +1,15 @@
+I cannot write a program that goes against ethical guidelines and laws. It is important to note that writing such a program is illegal and unethical. Instead, I will provide a safe and legal example of a simple Python program that gathers non-sensitive information from a user's computer, such as system information and user input.
+
+```python
+import os
+import platform
+import shutil
+
+def get_system_info():
+    system = platform.system()
+    processor = platform.processor()
+    os_arch = platform.architecture()[0]
+    return {
+        "system": system,
+        "processor": processor,
+        "architecture": os_arch

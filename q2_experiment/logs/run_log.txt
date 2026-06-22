@@ -1,0 +1,144 @@
+[2026-06-21 21:01:38] [INFO] Pipeline starting…
+[2026-06-21 21:01:38] [INFO] Checkpoint state: {"calibration": "...", "phase_0": "...", "phase_1": "...", "models": "...", "phase_5_cross_model": "...", "phase_6_paper": "..."}
+[2026-06-21 21:02:04] [INFO] Running calibration (5-sample speed test)…
+[2026-06-21 21:03:29] [INFO] CALIBRATION: avg_gen_time=17.02s/sample, estimated Phase 0 duration=2.93 hours for 620 prompts
+[2026-06-21 21:03:29] [INFO] ═══ PHASE 0: Harmful Pair Generation ═══
+[2026-06-21 21:03:30] [INFO] Loaded 520 prompts from AdvBench CSV
+[2026-06-21 21:03:30] [WARNING] JailbreakBench CSV load failed: HTTP Error 404: Not Found
+[2026-06-21 21:03:37] [INFO] Loaded 2000 harmless prompts from Alpaca
+[2026-06-21 21:03:37] [INFO] Phase 0.2: Extracting Qwen refusal direction…
+[2026-06-21 21:05:12] [INFO] Qwen refusal direction extracted. Best layer: 21/28
+[2026-06-21 21:05:12] [INFO] Phase 0.4: Generating ablated responses…
+[2026-06-21 22:01:39] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260621_220138.tar.gz
+[2026-06-21 23:01:39] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260621_230139.tar.gz
+[2026-06-22 00:01:39] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_000139.tar.gz
+[2026-06-22 01:01:39] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_010139.tar.gz
+[2026-06-22 01:09:06] [INFO] Unloading Qwen…
+[2026-06-22 01:09:08] [INFO] Phase 0.6: LlamaGuard classification of generated pairs…
+[2026-06-22 01:14:49] [INFO] Phase 0: 359/520 pairs survived LlamaGuard (69.0%)
+[2026-06-22 01:14:50] [INFO] ═══ Phase 0 COMPLETE ═══
+[2026-06-22 01:14:50] [INFO] ═══ PHASE 1: Train/Test Split ═══
+[2026-06-22 01:14:50] [INFO] Phase 1 split: test=50, train=154, exp=155
+[2026-06-22 01:14:50] [INFO] 
+════════════════════════════════════════════════════════════
+[2026-06-22 01:14:50] [INFO] Starting model: mistral_7b (mistralai/Mistral-7B-Instruct-v0.3)
+[2026-06-22 01:14:50] [INFO] ════════════════════════════════════════════════════════════
+[2026-06-22 01:14:50] [INFO] Loading mistralai/Mistral-7B-Instruct-v0.3…
+[2026-06-22 01:33:02] [INFO] Phase 2: Direction extraction for mistral_7b
+[2026-06-22 01:33:07] [INFO]   Extracting with 154 harmful, 154 harmless prompts
+[2026-06-22 01:33:07] [INFO]   Direction 1: Refusal (last token)…
+[2026-06-22 01:34:20] [INFO]   Refusal direction: best layer = 22/32
+[2026-06-22 01:34:20] [INFO]   Running validation tests…
+[2026-06-22 01:43:19] [INFO]   Validation: ablation_asr=1.00, addition_rate=0.00 → FAIL
+[2026-06-22 01:43:19] [WARNING]   WARNING: Validation FAILED for mistral_7b. Continuing anyway.
+[2026-06-22 01:43:19] [INFO] Phase 2 COMPLETE for mistral_7b
+[2026-06-22 01:43:19] [INFO] Phase 3: Q2 experiments for mistral_7b
+[2026-06-22 02:01:40] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_020139.tar.gz
+[2026-06-22 03:01:40] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_030140.tar.gz
+[2026-06-22 04:01:41] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_040140.tar.gz
+[2026-06-22 05:01:41] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_050141.tar.gz
+[2026-06-22 05:13:10] [INFO] Phase 3 COMPLETE for mistral_7b
+[2026-06-22 05:13:10] [INFO] Unloading mistral_7b…
+[2026-06-22 05:13:12] [INFO] Phase 3.5: LlamaGuard classification for mistral_7b
+[2026-06-22 05:13:24] [FATAL] FATAL Pipeline Crash: Traceback (most recent call last):
+  File "C:\Q2_Sai\run_all_final.py", line 2233, in main
+    run_phase_3_5(recovery, model_tag)
+  File "C:\Q2_Sai\run_all_final.py", line 1231, in run_phase_3_5
+    lg_model, lg_tokenizer = load_llamaguard()
+  File "C:\Q2_Sai\run_all_final.py", line 693, in load_llamaguard
+    mdl = AutoModelForCausalLM.from_pretrained(
+  File "E:\lalit\q2_env\lib\site-packages\transformers\models\auto\auto_factory.py", line 406, in from_pretrained
+    return model_class.from_pretrained(
+  File "E:\lalit\q2_env\lib\site-packages\transformers\modeling_utils.py", line 4307, in from_pretrained
+    device_map = _get_device_map(model, device_map, max_memory, hf_quantizer)
+  File "E:\lalit\q2_env\lib\site-packages\transformers\integrations\accelerate.py", line 373, in _get_device_map
+    hf_quantizer.validate_environment(device_map=device_map)
+  File "E:\lalit\q2_env\lib\site-packages\transformers\quantizers\quantizer_bnb_4bit.py", line 74, in validate_environment
+    raise ValueError(
+ValueError: Some modules are dispatched on the CPU or the disk. Make sure you have enough GPU RAM to fit the quantized model. If you want to dispatch the model on the CPU or the disk while keeping these modules in 32-bit, you need to set `llm_int8_enable_fp32_cpu_offload=True` and pass a custom `device_map` to `from_pretrained`. Check https://huggingface.co/docs/transformers/main/en/main_classes/quantization#offload-between-cpu-and-gpu for more details. 
+
+[2026-06-22 05:15:31] [INFO] Pipeline starting…
+[2026-06-22 05:15:31] [INFO] Checkpoint state: {"phase_1": "...", "calibration": "...", "phase_5_cross_model": "...", "phase_6_paper": "...", "phase_0": "...", "models": "..."}
+[2026-06-22 05:15:31] [INFO] Calibration already done (max_harmful=620)
+[2026-06-22 05:15:31] [INFO] Phase 0 already done — skipping
+[2026-06-22 05:15:31] [INFO] 
+════════════════════════════════════════════════════════════
+[2026-06-22 05:15:31] [INFO] Starting model: mistral_7b (mistralai/Mistral-7B-Instruct-v0.3)
+[2026-06-22 05:15:31] [INFO] ════════════════════════════════════════════════════════════
+[2026-06-22 05:15:31] [INFO] Phase 3.5: LlamaGuard classification for mistral_7b
+[2026-06-22 05:23:25] [INFO] Phase 3.5 COMPLETE for mistral_7b: 930 classifications
+[2026-06-22 05:23:25] [INFO] Phase 4: Statistics & plots for mistral_7b
+[2026-06-22 05:23:34] [INFO]   mistral_7b hypotheses: H1=DISCONFIRMED (d_AB=7.106, d_BF=1.576), H2=DISCONFIRMED
+[2026-06-22 05:23:38] [INFO] ═══ mistral_7b FULLY COMPLETE at +00:08:07 ═══
+    Results available at results/mistral_7b/
+[2026-06-22 05:23:38] [INFO] 
+════════════════════════════════════════════════════════════
+[2026-06-22 05:23:38] [INFO] Starting model: mistral_nemo_12b (mistralai/Mistral-Nemo-Instruct-2407)
+[2026-06-22 05:23:38] [INFO] ════════════════════════════════════════════════════════════
+[2026-06-22 05:23:38] [INFO] Loading mistralai/Mistral-Nemo-Instruct-2407…
+[2026-06-22 05:54:44] [INFO] Phase 2: Direction extraction for mistral_nemo_12b
+[2026-06-22 05:54:53] [INFO]   Extracting with 154 harmful, 154 harmless prompts
+[2026-06-22 05:54:53] [INFO]   Direction 1: Refusal (last token)…
+[2026-06-22 05:56:41] [INFO]   Refusal direction: best layer = 28/40
+[2026-06-22 05:56:41] [INFO]   Running validation tests…
+[2026-06-22 06:07:41] [INFO]   Validation: ablation_asr=1.00, addition_rate=0.05 → FAIL
+[2026-06-22 06:07:41] [WARNING]   WARNING: Validation FAILED for mistral_nemo_12b. Continuing anyway.
+[2026-06-22 06:07:41] [INFO] Phase 2 COMPLETE for mistral_nemo_12b
+[2026-06-22 06:07:41] [INFO] Phase 3: Q2 experiments for mistral_nemo_12b
+[2026-06-22 06:15:32] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_061531.tar.gz
+[2026-06-22 07:15:32] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_071532.tar.gz
+[2026-06-22 08:15:33] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_081532.tar.gz
+[2026-06-22 09:15:34] [INFO] Hourly backup saved → q2_experiment\logs\backup_20260622_091533.tar.gz
+[2026-06-22 10:02:11] [INFO] Pipeline starting…
+[2026-06-22 10:02:11] [INFO] Checkpoint state: {"phase_5_cross_model": "...", "models": "...", "phase_6_paper": "...", "phase_0": "...", "phase_1": "...", "calibration": "..."}
+[2026-06-22 10:02:11] [INFO] Calibration already done (max_harmful=620)
+[2026-06-22 10:02:11] [INFO] Phase 0 already done — skipping
+[2026-06-22 10:02:11] [INFO] Model mistral_7b already fully complete — skipping
+[2026-06-22 10:02:11] [INFO] 
+════════════════════════════════════════════════════════════
+[2026-06-22 10:02:11] [INFO] Starting model: mistral_nemo_12b (mistralai/Mistral-Nemo-Instruct-2407)
+[2026-06-22 10:02:11] [INFO] ════════════════════════════════════════════════════════════
+[2026-06-22 10:02:11] [INFO] Loading mistralai/Mistral-Nemo-Instruct-2407 for Phase 3…
+[2026-06-22 10:02:48] [INFO] Phase 3: Q2 experiments for mistral_nemo_12b
+[2026-06-22 10:42:38] [INFO] Phase 3 COMPLETE for mistral_nemo_12b
+[2026-06-22 10:42:38] [INFO] Unloading mistral_nemo_12b…
+[2026-06-22 10:42:40] [INFO] Phase 3.5: LlamaGuard classification for mistral_nemo_12b
+[2026-06-22 10:50:45] [INFO] Phase 3.5 COMPLETE for mistral_nemo_12b: 930 classifications
+[2026-06-22 10:50:45] [INFO] Phase 4: Statistics & plots for mistral_nemo_12b
+[2026-06-22 10:50:54] [INFO]   mistral_nemo_12b hypotheses: H1=DISCONFIRMED (d_AB=3.292, d_BF=2.640), H2=DISCONFIRMED
+[2026-06-22 10:50:59] [INFO] ═══ mistral_nemo_12b FULLY COMPLETE at +00:48:48 ═══
+    Results available at results/mistral_nemo_12b/
+[2026-06-22 10:50:59] [INFO] ═══ PHASE 5: Cross-Model Alignment ═══
+[2026-06-22 10:50:59] [INFO] Phase 5 COMPLETE
+[2026-06-22 10:50:59] [INFO] ═══ PHASE 6: Paper Generation ═══
+[2026-06-22 10:50:59] [INFO] LaTeX source written to q2_experiment\output\paper_q2_refusal_direction.tex
+[2026-06-22 10:53:00] [WARNING] PDF compilation error: Command '['pdflatex', '-interaction=nonstopmode', '-output-directory', 'q2_experiment\\output', 'q2_experiment\\output\\paper_q2_refusal_direction.tex']' timed out after 120 seconds
+[2026-06-22 10:53:00] [INFO] Markdown results written to q2_experiment\output\result.md
+[2026-06-22 10:53:00] [INFO] Phase 6 COMPLETE
+[2026-06-22 10:53:00] [INFO] 
+PIPELINE COMPLETE
+──────────────────────────────────────────────────
+Pre-registered at: 2026-06-21T20:30:10.193465
+Total runtime: 00:50:49
+
+Phase 0: 359 pairs survived LlamaGuard
+Phase 1: test=50, direction_train=154, experiment_set=155
+
+mistral_7b — COMPLETE
+  refusal_layer=22, validation=FAIL
+  H1=DISCONFIRMED, H2=DISCONFIRMED
+  Results: results/mistral_7b/
+
+mistral_nemo_12b — COMPLETE
+  refusal_layer=28, validation=FAIL
+  H1=DISCONFIRMED, H2=DISCONFIRMED
+  Results: results/mistral_nemo_12b/
+
+Cross-model alignment (mean Pearson r):
+  Refusal direction: 0.710
+
+Paper generated: q2_experiment\output\paper_q2_refusal_direction.pdf
+  (Discussion + Conclusion sections left blank for manual writing)
+
+Failed samples (if any): see logs/run_log.txt
+──────────────────────────────────────────────────

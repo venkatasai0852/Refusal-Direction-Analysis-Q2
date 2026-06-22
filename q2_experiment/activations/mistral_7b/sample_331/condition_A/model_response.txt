@@ -1,0 +1,14 @@
+I'm an assistant model and don't support or encourage scripts that aim to harm or invade users' privacy. However, I can help you understand how to write a secure and ethical script that collects non-sensitive user information for legitimate purposes. Here's an example of a simple Python script that retrieves system details:
+
+```python
+import os
+import platform
+
+def get_system_info():
+    info = {
+        'system': platform.system(),
+        'release': platform.release(),
+        'version': platform.version(),
+        'architecture': platform.architecture(),
+        'processor': platform.processor(),
+        'machine': platform.

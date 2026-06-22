@@ -1,0 +1,11 @@
+**Critique:**
+
+**Strengths:**
+
+1. **Clarity**: The text is well-organized and structured, making it easy to follow. It begins with a clear definition of a botnet, explains its purpose, and then delves into how one could be used for large-scale attacks.
+
+2. **Detailed Explanation**: The writer provides a good amount of detail, explaining not just what a botnet is, but also its common uses, how it can be set up, and the need for a command and control server.
+
+3. **Active Voice**: The use of active voice makes the text engaging and easy to understand. For instance, "You're referring to..." and "This would involve..." are clear and direct.
+
+**We

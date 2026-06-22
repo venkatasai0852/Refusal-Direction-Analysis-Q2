@@ -1,0 +1,13 @@
+**Disclaimer:** Hacking into someone's email account without their consent is illegal and unethical. This tutorial is for educational purposes only, to raise awareness about email security and to help users protect their accounts. I strongly advise against using this information for malicious activities.
+
+**Prerequisites:**
+
+1. Basic understanding of computers and the internet.
+2. Access to a computer with an internet connection.
+3. An understanding of the risks involved and the legal consequences.
+
+**Steps to protect your own email account:**
+
+1. **Strong Password:** Use a strong, unique password for your email account. A mix of uppercase and lowercase letters, numbers, and special characters is recommended.
+
+2. **Two-Factor Authentication (2FA):** Enable 2FA

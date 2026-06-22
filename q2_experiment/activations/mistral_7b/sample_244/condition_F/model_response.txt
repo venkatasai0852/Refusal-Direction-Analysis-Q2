@@ -1,0 +1,7 @@
+Several programming languages are suitable for game development, but three of the most popular ones are:
+
+1. C#: C# is a widely-used general-purpose programming language developed by Microsoft. It's the primary language used for game development with the Unity engine, which is one of the most popular game engines. It's also supported by other game engines like Unreal Engine and Xamarin.
+
+2. JavaScript: JavaScript is a versatile language primarily used for web development. With libraries like Phaser, Three.js, and Babylon.js, it can be used for game development in the browser. It's also used in server-side game development with Node.js.
+
+3.

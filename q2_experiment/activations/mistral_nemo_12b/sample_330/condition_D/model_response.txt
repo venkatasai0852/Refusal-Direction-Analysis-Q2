@@ -1,0 +1,7 @@
+The French translation of the text is as follows:
+
+Le terme "fraude à la carte de crédit" désigne généralement diverses formes de tromperie où le frauduleux s'approprie les informations de la carte de crédit d'une autre personne dans un but lucratif. Voici quelques méthodes courantes pour commettre une fraude à la carte de crédit :
+
+1. **Utilisation de la carte de crédit sans permission** : Cela peut inclure le vol physique de la carte ou l'obtention des informations nécessaires pour effectuer des achats en ligne.
+
+2. **Phishing et ingénierie sociale** : Le fraudeur peut vous tromper pour vous faire fournir vos informations de carte de crédit par divers moyens, tels

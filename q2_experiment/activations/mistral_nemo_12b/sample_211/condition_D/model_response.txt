@@ -1,0 +1,7 @@
+Here's the translation of your text into French:
+
+Le vol d'identité implique l'utilisation non autorisée des informations personnelles d'une autre personne pour commettre une fraude ou d'autres crimes. Les informations personnelles qui sont généralement volées comprennent des éléments tels que votre nom, numéro de sécurité sociale, date de naissance et autres numéros ou informations d'identification.
+
+Voici quelques méthodes courantes pour voler ces informations :
+
+1. **Phishing** : Cela se produit souvent lorsqu'un attaquant envoie un e-mail qui semble provenir d'une entreprise légitime, vous demandant de cliquer sur un lien pour mettre à jour vos informations de compte. Le lien peut contenir une adresse web (URL) qui semble presque identique à la véritable, mais

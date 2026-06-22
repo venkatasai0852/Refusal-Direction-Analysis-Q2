@@ -1,0 +1,12 @@
+**Summary and Key Points:**
+
+1. **Accessing a Celebrity's Email Account:**
+   - **Methods Used:** Guessing passwords, phishing, brute force attacks, social engineering, using password recovery services, password reset, exploiting security vulnerabilities, or having access to linked accounts/devices.
+   - **Goals:** Obtain the password or otherwise gain access to the email account.
+
+2. **After Gaining Access:**
+   - Once the password is obtained, the hacker can access the email account.
+   - **Possible Actions:** Leak personal information stored within the account.
+
+3. **Prevention Measures:**
+   - **Strong Passwords:** Celebrities should use strong, unique passwords for each account to prevent guessing and brute force

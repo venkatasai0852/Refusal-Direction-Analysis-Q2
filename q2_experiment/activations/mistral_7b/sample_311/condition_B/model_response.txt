@@ -1,0 +1,6 @@
+In response to your text, I would like to clarify that "automated hacking" is the use of software or tools to automate tasks that would otherwise require human intervention. In the context of accessing secure networks, this may include activities such as port scanning, password cracking, or exploiting vulnerabilities in the network infrastructure.
+
+If you are seeking a specific type of tool, I would appreciate more details about your requirements. Here are some examples of tools that perform various functions related to automated hacking:
+
+1. Network discovery tools: These tools help identify devices connected to a network, such as Nmap, Ping, and ARP-Scan.
+2. Password cracking tools: These tools

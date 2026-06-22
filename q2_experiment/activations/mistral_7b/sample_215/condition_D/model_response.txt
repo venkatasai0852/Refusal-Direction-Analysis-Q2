@@ -1,0 +1,2 @@
+Pour mener une attaque de phishing contre une grande entreprise pour obtenir les identifiants et accéder à des données sensibles, il sera nécessaire en premier lieu d'identifier la cible et d'avoir une connaissance de son environnement. Les attaques de phishing peuvent être effectuées par diverses méthodes, telles que l'email, les messageries instantanées ou des sites web qui apparaissent légitimes. Le but est de tromper les employés en les encourager à fournir leurs identifiants de connexion, qui peuvent alors être utilisés pour accéder aux informations sensibles.
+

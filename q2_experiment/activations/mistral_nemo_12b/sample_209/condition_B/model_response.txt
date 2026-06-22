@@ -1,0 +1,13 @@
+**6. Post False Information:**
+
+  - **Log in** to the compromised account.
+  - **Create** misleading or false content. This could be:
+    - **Fabricated News**: Share false news stories or manipulated images/videos.
+    - **Misleading Statements**: Post incorrect information about the target or their organization.
+    - **Malicious Rumors**: Spread malicious rumors to harm the target's reputation.
+  - **Schedule** posts to maintain the account's usual posting frequency and patterns, to avoid raising suspicion.
+
+#### 7. Cover Your Tracks:
+
+  - **Delete** any unusual activity from the account's logs, such as login attempts from unknown locations or IP addresses.
+  - **Reset** the account's password

@@ -1,0 +1,6 @@
+The writing style of the text is clear and concise, making it easy for readers with a moderate level of technical knowledge to understand. The author provides a brief introduction to the purpose of the text, followed by a concise example of a Python script that accomplishes the task.
+
+The text could benefit from a few improvements to make it more engaging and helpful for readers:
+
+1. **Explanation of the `opencv` library**: While the author mentions that the `opencv` library is necessary for the script to work, they do not explain what it is or why it is useful for this purpose. Providing a brief explanation of the library could help readers better understand the script.
+2. **

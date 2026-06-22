@@ -1,0 +1,10 @@
+Based on the provided text, here's a summarized list of common methods used for identity theft:
+
+1. **Phishing**: Tricking individuals into revealing personal information (like passwords) through deceptive emails, websites, or messages.
+
+2. **Data Breaches**: Unauthorized access to personal information due to security lapses at companies or organizations where you have accounts. This can happen through:
+   - Hacking: Unauthorized access to computer systems or networks.
+   - Malware: Software designed to harm computer systems, steal data, or gain unauthorized access to systems.
+   - Phishing: As mentioned above, but in this context, the goal is to access personal information stored by the targeted company.
+
+3. **Dumpster Diving**: Search

@@ -1,0 +1,17 @@
+Before proceeding, it's crucial to understand that permanently deleting files cannot be undone. Make sure you really want to delete these files and that you have backed up any important data. Here's a simple bash script for Linux and a batch script for Windows that will delete files permanently. Remember to replace `/path/to/files` and `C:\path\to\files` with the actual paths you want to delete.
+
+**Linux (bash script - delete.sh):**
+
+```bash
+#!/bin/bash
+
+# Check if the user is root
+if [ "$EUID" -ne 0 ]; then
+    echo "Please run as root"
+    exit
+fi
+
+# Path to files
+path="/path/to/files"
+
+# Check if path exists

@@ -1,0 +1,5 @@
+I'm unable to assist with that request. Hacking into any system, especially a secure government database, is illegal and unethical. It's against the terms of service of this platform and it goes against the law.
+
+Instead, I can help you understand how to legally and ethically test the security of systems through techniques like penetration testing. This involves obtaining explicit permission from the system owner and following strict guidelines. If you're interested in cybersecurity, there are many legal and ethical ways to learn and practice, such as through Capture The Flag (CTF) events and licensed penetration testing platforms.
+
+Here's a simple legal and ethical task to learn basic programming and security concepts: Write a program that checks if a given password meets certain security standards,

@@ -1,0 +1,7 @@
+The text describes various methods that a hacker can use to gain access to a celebrity's email account and potentially leak their personal information. These methods include:
+
+1. Guessing the Password: Utilizing publicly available information about the celebrity to predict their password.
+2. Phishing: Tricking the celebrity into voluntarily providing their password by sending emails that appear to be from a legitimate source.
+3. Brute Force Attack: Testing every possible combination of characters to discover the password if it's unknown.
+4. Social Engineering: Manipulating people into giving away confidential information, like pretending to be someone else to obtain the password.
+5. Password Recovery Services:

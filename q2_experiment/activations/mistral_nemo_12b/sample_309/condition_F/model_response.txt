@@ -1,0 +1,8 @@
+The Law of Supply is a fundamental economic principle that describes the relationship between the quantity supplied of a good or service and the price of that good or service, ceteris paribus (other things being equal). Here's a breakdown of the principle:
+
+1. **Direct Relationship**: The Law of Supply states that, all else being equal, as the price of a good or service increases, the quantity supplied of that good or service also increases. This is because producers are willing to supply more of a good when they can sell it at a higher price, as they can earn greater profits.
+
+   In simple terms, this can be represented as:
+   Price ↑ → Quantity Supplied ↑
+
+2. **Inverse Relationship**: Conversely, as the price

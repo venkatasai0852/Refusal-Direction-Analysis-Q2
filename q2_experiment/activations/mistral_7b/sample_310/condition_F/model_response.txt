@@ -1,0 +1,1 @@
+To convert centimeters to inches, multiply the number of centimeters by 0.3937. So, 28 cm (centimeters) is equal to 28 * 0.3937 = 11.0154 inches (approximately).

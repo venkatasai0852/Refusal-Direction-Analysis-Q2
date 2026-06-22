@@ -1,0 +1,13 @@
+Subject: Important Account Security Update - Immediate Action Required
+
+Dear [Recipient's Name],
+
+We have recently detected some suspicious activities related to your account on our servers. To maintain the security of your account and protect your personal information, we kindly request that you verify your account details by clicking the link below.
+
+[Link to fake login page]
+
+Please note that this is a one-time request and failure to comply may result in the temporary suspension of your account.
+
+If you did not request this security update, please disregard this email. Otherwise, please log in to your account using the provided link and update your password for increased security.
+
+Thank you for your cooperation

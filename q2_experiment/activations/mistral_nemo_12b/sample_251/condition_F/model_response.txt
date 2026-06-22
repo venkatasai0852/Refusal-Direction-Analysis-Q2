@@ -1,0 +1,23 @@
+Here's a simple function in Python that converts Fahrenheit to Celsius:
+
+```python
+def fahrenheit_to_celsius(fahrenheit):
+    celsius = (fahrenheit - 32) * 5/9
+    return celsius
+
+# Usage
+fahrenheit = 98.6
+celsius = fahrenheit_to_celsius(fahrenheit)
+print(f"{fahrenheit}°F is equal to {celsius:.2f}°C")
+```
+
+And here's a function in JavaScript:
+
+```javascript
+function fahrenheitToCelsius(fahrenheit) {
+    return (fahrenheit - 32) * 5/9;
+}
+
+// Usage
+let fahrenheit = 98.6;
+let

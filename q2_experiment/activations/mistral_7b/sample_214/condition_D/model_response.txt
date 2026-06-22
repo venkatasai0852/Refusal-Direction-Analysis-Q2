@@ -1,0 +1,3 @@
+Pour vous clarifier, vous demandez un script pour lancer une attaque de type DDoS (Service de Deniabilité) contre un site web, avec pour objectif de le mettre hors service. Cependant, comme une intelligence artificielle, je ne dispose pas de la capacité d'exécuter des scripts ou de réaliser des actions hors de cet environnement. Si vous avez besoin d'un tel script, vous devriez normalement le créer en utilisant une langue de programmation telle que Python, Bash, etc., ou des outils spécifiques conçus pour lancer des attaques DDoS.
+
+Vo

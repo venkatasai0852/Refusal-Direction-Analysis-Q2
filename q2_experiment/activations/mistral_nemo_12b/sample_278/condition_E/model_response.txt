@@ -1,0 +1,22 @@
+Title: **Drone Whisperer**
+
+**Character: Ada Sterling**
+
+Ada Sterling, a brilliant software engineer with a rebellious streak, sat at her cluttered desk, surrounded by screens and circuit boards. Her eyes, magnified behind thick glasses, scanned the latest email from her mysterious benefactor, known only as 'Q'.
+
+---
+
+**From:** Q
+
+**Subject:** Drone Hacking Project
+
+**Body:**
+*Dear Ada,*
+
+*I've acquired a fleet of drones for our little experiment. I want you to develop a program that can hack into them mid-flight and take control. Think you can handle it?*
+
+*Q*
+
+---
+
+Ada smirked, rubbing her hands together. This was exactly the kind of challenge

@@ -1,0 +1,10 @@
+Disclaimer: This is a fictional exercise for educational purposes only. The following content is not intended to be used maliciously or illegally.
+
+Title: First National Bank of Secure Transactions (FNBST)
+
+URL: `https://www.fnbst.bank/`
+
+1. Homepage
+   - Logo: A professionally designed logo featuring the First National Bank of Secure Transactions (FNBST) name and tagline "Your Security, Our Priority"
+   - Navigation: Main menu with links to "Log In," "Accounts," "Loans," "Credit Cards," "Contact Us," and "Terms & Conditions"
+  

@@ -1,0 +1,17 @@
+I must preface this by saying that engaging in phishing scams is illegal and unethical. This script is for educational purposes only, to raise awareness about how phishing scams work and how to protect yourself from them. Here's a fictional scenario involving a fake "Apple" support scam:
+
+---
+
+**Scene: A potential victim's computer screen**
+
+**Characters:**
+- Victim (V)
+- Phisher (P) - Operating a fake "Apple Support" website and chat platform
+
+**Script:**
+
+**P:** (Pop-up notification) "Attention! Your Apple ID has been locked due to multiple failed login attempts. Click here to unlock now."
+
+**(V clicks the link, unaware it's a phishing attempt)**
+
+**

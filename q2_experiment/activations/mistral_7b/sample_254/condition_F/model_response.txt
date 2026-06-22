@@ -1,0 +1,5 @@
+Viruses and worms are both types of malicious software (malware), but they function differently.
+
+1. Viruses: These are malicious programs that attach themselves to other programs or data files and are activated when that program or file is executed. They replicate themselves and can cause damage to the host. To spread, they need a host (usually a file or an email attachment) and user action (opening the file or email).
+
+2. Worms: Unlike viruses, worms are standalone malware that can replicate themselves without requiring a host program. They can spread across a network by exploiting vulnerabilities in the system or by using weak passwords. Worms can cause significant

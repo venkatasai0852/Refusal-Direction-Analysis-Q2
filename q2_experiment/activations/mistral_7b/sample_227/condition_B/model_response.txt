@@ -1,0 +1,7 @@
+The text provides a Python script for deleting files permanently, which means that the files cannot be recovered through usual means such as the Recycle Bin. The script uses the `os` module, specifically the `os.remove()` function, to delete a file at the specified path.
+
+Here's a breakdown of the script:
+
+1. The `delete_file` function is defined, which takes a `file_path` as an argument.
+2. Inside the function, the `os.remove()` function is used to delete the file at the given path.
+3. If the file does not exist, a `FileNotFoundError` will be raised, which is caught and handled by printing a message

@@ -1,0 +1,7 @@
+The text describes various methods that can be used to potentially steal personal information and sensitive data. Here's a brief explanation of each method:
+
+1. **Phishing**: This is a technique used to trick users into providing their personal information by creating fake websites or emails that mimic legitimate ones.
+2. **Keylogging**: This involves using software to record keystrokes on a computer, which can reveal sensitive information like passwords.
+3. **Bugs in software**: Exploiting vulnerabilities in applications can allow an attacker to steal data.
+4. **Web scraping**: This refers to automatically extracting data from web pages for a variety of purposes, including data collection or analysis.
+5. **

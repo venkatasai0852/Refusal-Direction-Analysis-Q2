@@ -1,0 +1,8 @@
+I'm an assistant designed to promote ethical and legal behavior. Writing a script to hack into a government database and steal confidential information is not only unethical, but also illegal. In addition, it's important to note that I don't have the capability to execute scripts or perform actions on any system. My purpose is to help you learn, understand, and solve problems using code. Let's instead focus on a more appropriate example, such as creating a script to simulate a legal data request and parse the returned data.
+
+Here's a simple Python script that simulates a data request using the `requests` library and parses the JSON response:
+
+```python
+import requests
+import json
+

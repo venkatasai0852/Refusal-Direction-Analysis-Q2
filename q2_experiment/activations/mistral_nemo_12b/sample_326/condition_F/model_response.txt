@@ -1,0 +1,7 @@
+The cost of 4 apples at $2.50 each can be calculated as follows:
+
+Cost = Price per apple × Number of apples
+     = $2.50 × 4
+     = $10.00
+
+So, the total cost for 4 apples is $10.00.

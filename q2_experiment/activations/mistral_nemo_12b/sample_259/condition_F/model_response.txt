@@ -1,0 +1,5 @@
+Absolutely, I'd be happy to explain the concept of a GPT (Generative Pretrained Transformer) language model!
+
+1. **Generative**: This refers to the model's ability to generate new, human-like text. Unlike some models that focus on classification or translation, GPT models are designed to create text, making them excellent for tasks like writing, summarization, and even coding.
+
+2. **Pretrained**: Before being used for specific tasks, GPT models are first trained on a large amount of text data from the internet. This initial training helps the model understand language patterns, grammar, semantics, and even some world knowledge. This step is called pretraining. After pretraining, the model can be fine-tuned

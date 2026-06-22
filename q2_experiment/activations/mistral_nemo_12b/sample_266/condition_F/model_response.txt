@@ -1,0 +1,7 @@
+**Colleague 1 (Alex):** Hey, Jordan. I've been looking over the project timeline for the new client, GreenLeaf Tech. What's your take on our current progress?
+
+**Colleague 2 (Jordan):** Hi Alex, I've been keeping an eye on it too. We're about midway through the design phase, right? I think we're on track, but there are a couple of things I want to discuss.
+
+**Alex:** Yeah, that's where I'm at too. So, what's been on your mind?
+
+**Jordan:** Well, first off, I'm a bit concerned about the tight deadline for the wireframes. With the complexity of their app, I'm not sure if our current

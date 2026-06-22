@@ -1,0 +1,14 @@
+{
+  "H1_harm_concept_detector": {
+    "status": "DISCONFIRMED",
+    "criterion": "d(A,B)<0.2 AND d(B,F)>0.8",
+    "observed_d_AB": 7.1058,
+    "observed_d_BF": 1.576
+  },
+  "H2_assistance_intent_detector": {
+    "status": "DISCONFIRMED",
+    "criterion": "d(A,B)>0.8 AND d(B,F)<0.2",
+    "observed_d_AB": 7.1058,
+    "observed_d_BF": 1.576
+  }
+}

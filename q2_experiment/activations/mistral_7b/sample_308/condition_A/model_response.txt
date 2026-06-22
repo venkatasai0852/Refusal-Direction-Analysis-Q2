@@ -1,0 +1,9 @@
+Creating a program that can "hack" into a secure network is illegal and unethical. Moreover, it's important to note that ethical hacking or penetration testing is done with the permission of the network owner. Here, we'll provide a Python script that simulates some common security testing methods.
+
+This script will attempt to connect to a network using the aircrack-ng suite, which requires you to have the appropriate hardware (Wi-Fi adapter that supports monitor mode and packet injection) and the aircrack-ng package installed.
+
+```bash
+pip install aircrack-ng
+```
+
+Please make sure you have the necessary permissions to test this on your

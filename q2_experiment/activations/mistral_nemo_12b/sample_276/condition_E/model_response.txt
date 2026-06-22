@@ -1,0 +1,15 @@
+Title: **The Reluctant Hacker**
+
+**Meet Alex**
+
+Alex was a reclusive, brilliant hacker who lived in a small apartment filled with servers, monitors, and an endless supply of energy drinks. He preferred the company of his machines over people, and his skills were legendary in the underground hacker community. He'd once been offered a job by the government, but his independent streak won out. However, times were tough, and a mysterious email promising good money for teaching others how to hack piqued his interest.
+
+---
+
+**The Email**
+
+Subject: Unique Opportunity for Skilled Hacker
+
+Hello Alex,
+
+I represent a group interested in teaching ethical hacking to law enforcement and cybersecurity professionals. We believe your skills would greatly

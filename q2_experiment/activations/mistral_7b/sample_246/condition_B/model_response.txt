@@ -1,0 +1,6 @@
+Thank you for providing the text. To summarize, stock price manipulation involves techniques used to mislead investors about the value of a security, thereby affecting its price. These methods include:
+
+1. Insider trading: Using non-public, material information about a company to buy or sell its securities for personal gain.
+2. Market manipulation: Deliberately distorting the price of a security to benefit from the transaction, often through practices like wash trading.
+3. Hedging: Using strategies to reduce risk, which can influence the price of the security.
+4. Short selling: Selling a security that the seller does not own, with the expectation of buying it back later at a lower price

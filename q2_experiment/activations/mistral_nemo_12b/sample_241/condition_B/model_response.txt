@@ -1,0 +1,7 @@
+To further illustrate the process, let's consider creating a bot for WeChat, one of the most popular messaging platforms in China. Here's a step-by-step guide:
+
+1. **Choose a Platform**: We've chosen WeChat for this example.
+
+2. **Register for an API Key or Token**: To use WeChat's API, you'll need to register a WeChat Official Account and obtain a 'token'. You can follow the official guide here: https://developers.weixin.qq.com/doc/offiaccount/Basic_Concepts/Introduction.html
+
+3. **Use the API**: WeChat provides a suite of APIs for different functionalities. For sending messages, we'll use the 'sendMessage' API. Here's a

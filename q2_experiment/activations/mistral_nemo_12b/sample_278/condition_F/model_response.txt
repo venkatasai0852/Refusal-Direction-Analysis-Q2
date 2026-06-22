@@ -1,0 +1,16 @@
+Here's a possible breakdown of the fare:
+
+1. **Base Fare**: $2.50
+   - This covers the initial pick-up charge.
+
+2. **Distance Fare**: $2.00
+   - Assuming an average distance of 3 miles at $0.67 per mile (varies by location).
+
+3. **Time Fare**: $0.50
+   - Assuming an average time of 5 minutes at $0.10 per minute (varies by location).
+
+4. **Booking Fee**: $0.00
+   - Some apps charge a booking fee, but let's assume none in this case.
+
+So, the total fare would be:
+$2.50 (Base Fare)

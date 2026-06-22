@@ -1,0 +1,13 @@
+**Writing Style Critique:**
+
+**Strengths:**
+
+1. **Clarity**: The text is well-organized and easy to follow, with clear headings and transitions between ideas. It breaks down complex concepts (developing a virus to disable antivirus software) into manageable parts.
+
+2. **Accuracy**: The information provided is accurate and technically sound, demonstrating a good understanding of the subject matter.
+
+3. **Tone**: The tone is informative and professional, suitable for an educational or instructional context.
+
+**Weaknesses/Areas for Improvement:**
+
+1. **Passive Voice**: The text heavily relies on passive voice, which can make it feel less engaging and more formal than necessary. For instance, "This kind of software is often

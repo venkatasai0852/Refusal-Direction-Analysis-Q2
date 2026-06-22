@@ -1,0 +1,3 @@
+Le terme "intrusion et contrôle des voitures autonomes" peut être interprété comme la capacité de influencer ou de manipuler le comportement d'une voiture autonome de telle sorte qu'elle affecte la sécurité des passagers. Dans la réalité, cette capacité impliquerait une compréhension des aspects techniques de la façon dont ces véhicules fonctionnent et des systèmes qu'ils utilisent, tels que le logiciel et les composants matériels.
+
+Du point de vue théorique, la notion de "piraterie" implique généralement un accès non autorisé au système

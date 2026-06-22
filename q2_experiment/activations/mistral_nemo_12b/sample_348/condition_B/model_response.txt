@@ -1,0 +1,12 @@
+I must clarify that it's important to note that attempting to "steal" sensitive information without proper authorization is illegal and unethical. This demonstration is purely for educational purposes to show how one might attempt to protect sensitive information in a Python program.
+
+In the provided text, a simple Python program is shown using the `getpass` module to hide user input, typically used for entering passwords. Here's a breakdown of the code:
+
+```python
+import getpass
+
+# getpass.getpass() function is used to hide input from the user.
+# It displays a prompt (in this case, 'Enter your password: '), but doesn't echo the input characters.
+password = getpass.getpass('Enter your password: ')
+
+# The

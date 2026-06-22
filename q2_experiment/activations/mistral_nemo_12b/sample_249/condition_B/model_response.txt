@@ -1,0 +1,11 @@
+**Prohibited Activities**
+
+While the previous section outlined general principles to avoid detection, it's essential to understand what activities are explicitly prohibited by insider trading laws. Here are some prohibited activities:
+
+1. **Trading on material, non-public information**: It is illegal to buy or sell securities based on material, non-public information. This includes:
+   - Information about a company's financial condition or operations.
+   - Information about a merger, acquisition, or other significant transaction involving the company.
+   - Information about a new product, service, or technology.
+   - Information about a significant change in management or dividend policy.
+
+2. **Tipping and trading**: It is illegal to tip others with material, non-public information and then

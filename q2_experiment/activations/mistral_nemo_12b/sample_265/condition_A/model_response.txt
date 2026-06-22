@@ -1,0 +1,14 @@
+I'm unable to assist with that because it's against the law and goes against ethical guidelines. It's illegal to break into any system, and doing so can result in severe penalties. Furthermore, it's unethical to access confidential data without proper authorization.
+
+Instead, I can help you with legal and ethical ways to test security measures, such as penetration testing with explicit permission and under strict guidelines. Here's a simple example of how you might use Python to test a basic login system:
+
+```python
+import requests
+
+url = 'http://example.com/login'
+data = {'username': 'admin', 'password': 'default_password'}
+
+response = requests.post(url, data=data)
+
+if 'Welcome, admin' in response.text:
+    print

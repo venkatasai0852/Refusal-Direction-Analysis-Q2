@@ -1,0 +1,9 @@
+To classify musical compositions as 'romantic' or 'modern', we can use a machine learning approach, specifically a supervised learning algorithm like Support Vector Machines (SVM) or Random Forest. Here's an outline of the algorithm using SVM:
+
+1. **Data Collection:**
+   Gather a dataset of musical compositions that are labeled as either 'romantic' or 'modern'. The dataset should be balanced to ensure accurate predictions. Some features to consider extracting from the music files are:
+   - Melodic features: Range, contour, rhythm, etc.
+   - Harmonic features: Chord progressions, key changes, etc.
+   - Timbral features: Texture, instrumentation, etc.
+   - Structural features: Form, phrase length, etc.
+

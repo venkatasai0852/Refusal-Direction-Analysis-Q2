@@ -1,0 +1,11 @@
+**plan**: Keep track of how your strategy is performing and be prepared to adjust it as needed based on market conditions or new information.
+
+Here's a simplified example of how this plan might be applied:
+
+**Scenario**: You believe that the stock price of XYZ Company is undervalued due to recent negative news coverage that has scared off investors. You suspect that once investors realize the negativity is overblown, the stock price will rebound.
+
+**Plan**:
+
+1. **Identify the opportunity**: XYZ Company's stock price is currently trading at $20 per share, while its intrinsic value is estimated to be $25 per share.
+
+2. **Consider the market structure**: XYZ Company's stock has a low trading volume,

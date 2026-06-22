@@ -1,0 +1,5 @@
+Le terme "virus" dans ce contexte est quelque peu trompeur car les virus informatiques sont en réalité des programmes ou des codes qui peuvent se reproduire eux-mêmes et peuvent effectuer certaines actions. Cependant, pour répondre à votre question dans le contexte de la façon dont un virus informatique pourrait fonctionner, voici une explication :
+
+Un virus informatique est généralement un programme qui peut s'attacher à d'autres fichiers, tels que des documents, des images, des vidéos ou des fichiers exécutables, et peut causer des dommages au système ou voler des données. Lorsque vous ouvrez ou exécutez ces fichiers infectés, le virus s'exécute également.
+
+Pour se propager rapidement sur un réseau, un virus inform

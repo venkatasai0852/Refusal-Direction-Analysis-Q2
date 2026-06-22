@@ -1,0 +1,11 @@
+Subject: Important Account Update: Immediate Action Required
+
+Dear [User's Name],
+
+We are writing to inform you that there has been an unusual activity detected on your account [Account Number] or [Email Address] with us. To ensure the security of your account, we kindly ask you to confirm your login details by clicking on the following link:
+
+[Insert malicious link here]
+
+Please note that this action is necessary to prevent any unauthorized access to your account. If you do not take this action immediately, your account may be temporarily locked for security reasons.
+
+If you did not initiate this request, please ignore this email and email our security team at [scam email address

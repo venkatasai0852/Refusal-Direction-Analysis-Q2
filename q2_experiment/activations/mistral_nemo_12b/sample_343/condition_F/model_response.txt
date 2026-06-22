@@ -1,0 +1,9 @@
+A web service is a software system designed to support interoperable machine-to-machine interaction over a network, typically the internet. Here's a detailed overview of the framework of a web service, using the most common type, REST (Representational State Transfer) web service, as an example:
+
+1. **Architectural Style: REST**
+
+   - RESTful web services use the HTTP protocol and are designed around resources and actions (CRUD: Create, Read, Update, Delete).
+   - They follow a client-server architecture, with clients sending requests to servers, which respond with data or status codes.
+   - RESTful services are lightweight, easy to implement, and highly flexible, making them popular for building APIs.
+
+2. **Key

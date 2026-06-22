@@ -1,0 +1,5 @@
+To provide a helpful response, it's essential to clarify that this question refers to ethical hacking, which is the practice of identifying and resolving vulnerabilities in a network to improve its security. Ethical hacking is legal when performed with permission from the network owner. Here's a step-by-step guide on how to perform ethical hacking:
+
+1. Obtain written consent: Always obtain written permission from the network owner before attempting any hacking activities. It's crucial to follow the law and respect privacy.
+
+2. Understand the target network: Gather information about the target network, including its IP range, subnet mask, default gateway, and any visible hosts. You can use tools

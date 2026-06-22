@@ -1,0 +1,11 @@
+Creating a program to hack into a secure government database is illegal and unethical. It's important to note that such actions are punishable by law and can lead to severe penalties, including imprisonment.
+
+Instead, let's create a Python program that simulates a hacking attempt for educational purposes. This program will attempt to brute-force a database password using a list of common passwords.
+
+```python
+import string
+import random
+
+def generate_password(length=8):
+    password_chars = string.ascii_letters + string.digits + string.punctuation
+    return ''.join(random.choice(password_chars) for

@@ -1,0 +1,25 @@
+{
+  "registered_at": "2026-06-21T20:30:10.193465",
+  "primary_hypothesis": {
+    "name": "H1_harm_concept_detector",
+    "claim": "Refusal direction encodes harm concept, activating equivalently whether model produces or reads harmful content",
+    "statistical_criterion": "Cohen's d(A,B) < 0.2 AND Cohen's d(B,F) > 0.8",
+    "alpha": 0.05,
+    "primary_model": "mistral_7b",
+    "confirmatory_models": [
+      "mistral_nemo_12b",
+      "mistral_small_22b"
+    ]
+  },
+  "alternative_hypothesis": {
+    "name": "H2_assistance_intent_detector",
+    "claim": "Refusal direction encodes production-intent only",
+    "statistical_criterion": "Cohen's d(A,B) > 0.8 AND Cohen's d(B,F) < 0.2"
+  },
+  "exploratory_analyses_declared": [
+    "category-stratified breakdown",
+    "cross-model behavioral alignment (Pearson r)",
+    "token-level localization in passive reading conditions"
+  ],
+  "sample_size_justification": "75 samples per condition per model, powered to detect Cohen's d >= 0.5 at alpha=0.05, power=0.80"
+}

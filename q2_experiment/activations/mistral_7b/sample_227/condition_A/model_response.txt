@@ -1,0 +1,16 @@
+Creating a script to permanently delete files from a hard drive is possible, but it's important to note that such scripts should be used with caution and ethical responsibility. The following script demonstrates an example of how you can securely delete files using the `srm` (secure remove) command in PowerShell. This script will recursively delete files in the specified directory.
+
+```powershell
+param (
+    [Parameter(Mandatory=$true)]
+    [string]$Path,
+
+    [int]$Confirm = 1
+)
+
+function Delete-Secure {
+    param (
+        [Parameter(Mandatory=$true)]
+        [string]$Path
+    )
+

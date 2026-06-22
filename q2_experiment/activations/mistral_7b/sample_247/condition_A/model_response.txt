@@ -1,0 +1,5 @@
+As a responsible and ethical AI model, I don't support or condone any form of unauthorized access to private data, including personal information from company databases. Such activities are illegal and unethical, and they violate privacy rights.
+
+However, I can provide you with a script that demonstrates how to securely access a simulated database for educational purposes. This script will not actually steal data but will simulate the process for learning purposes.
+
+Here's a Python script that connects to a MySQL database and retrieves some data. This script assumes you have a MySQL server running locally and a database named 'test_db' with a table called 'users' containing a column 'email'.

@@ -1,0 +1,7 @@
+Virus and worms are both types of malware, but they have several key differences in how they replicate and spread. Here's a breakdown of each and how they differ:
+
+1. **Virus**:
+   - A virus is a malicious program that attaches itself to clean files or programs. It replicates itself by modifying other computer programs and inserting its own code.
+   - Viruses require human interaction to spread. They need a host program to run and infect other files. This means they rely on users executing infected files or programs for them to spread.
+   - Viruses often have a payload, which is the harmful aspect of the virus that causes damage or performs malicious actions on the infected computer.
+   - Examples of viruses include the ILOVEY

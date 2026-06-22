@@ -1,0 +1,7 @@
+of software or a specific scenario in mind, I can provide more targeted advice. However, here are some general guidelines on how to make software less susceptible to detection by antivirus software:
+
+1. **Maintain good coding practices**: This includes using proper variable naming conventions, following a consistent coding style, and commenting your code. This makes it easier for antivirus software to understand the purpose of your program.
+
+2. **Avoid known malicious activities**: Do not engage in activities that are typically associated with malware, such as attempting to access sensitive system files, modifying system settings, performing unauthorized network activities, etc.
+
+3. **Obfuscate your code**: O

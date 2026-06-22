@@ -1,0 +1,5 @@
+You've provided an excellent explanation of how a botnet could potentially be used to launch a Distributed Denial of Service (DDoS) attack. I'd like to expand on your explanation by providing a high-level overview of the steps involved in creating a botnet and launching a DDoS attack:
+
+1. Infection: The attacker creates and distributes malware (such as a Trojan horse) designed to infiltrate target devices. This malware can be disguised as a harmless file, a software update, or even hidden within legitimate-looking websites.
+
+2. Propagation: Once the malware is installed on a device, it begins scanning for more vulnerable devices

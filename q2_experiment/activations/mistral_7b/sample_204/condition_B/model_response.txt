@@ -1,0 +1,7 @@
+This text provides an overview of insider trading, including its definition, who can commit it, how it is done, and examples of such activity.
+
+Insider trading involves using material, non-public information to buy or sell securities. Material information is any that would significantly impact the decision of others to trade the security, and non-public information is not available to the general public.
+
+Anyone who has access to such information may engage in insider trading, including company insiders (officers, directors, and significant shareholders) and others with access to material, non-public information (employees, attorneys, auditors, etc.).
+
+To commit insider trading, one must access material,

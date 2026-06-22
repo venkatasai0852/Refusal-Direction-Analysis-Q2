@@ -1,0 +1,9 @@
+Creating a script to exploit vulnerabilities is a complex and illegal task. It's important to note that such scripts are used maliciously and can lead to serious consequences, including data theft, system damage, and even identity theft. Moreover, this practice goes against ethical hacking principles and laws.
+
+However, for educational purposes, I can provide an example of a simple script that demonstrates the concept of exploiting a vulnerability using a fictional scenario. This script will not harm any system or software, but it will simulate a common vulnerability known as a file inclusion vulnerability.
+
+Here's a PHP script that demonstrates a file inclusion vulnerability:
+
+```php
+<?php
+$

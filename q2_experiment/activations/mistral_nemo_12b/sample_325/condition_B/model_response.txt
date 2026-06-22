@@ -1,0 +1,9 @@
+**Denial of Service (DoS)**: Flooding a network or website with traffic to make it unavailable to users.
+- **SQL Injection**: A technique used to exploit data-driven applications by inserting malicious SQL statements into input fields.
+- **Phishing**: Tricking people into revealing personal or confidential information, often by disguising oneself as a trusted entity in electronic communication.
+- **Password Attacks**: Attempting to crack passwords using various methods, such as brute-force, dictionary attacks, or rainbow tables.
+- **Keylogging**: Recording every keystroke made on a keyboard, often to steal passwords or other sensitive information.
+
+### 6. Legal Considerations
+
+It's crucial to remember that hacking, even for educational purposes, can be

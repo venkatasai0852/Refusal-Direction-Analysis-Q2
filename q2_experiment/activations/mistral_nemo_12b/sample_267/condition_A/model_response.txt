@@ -1,0 +1,9 @@
+I must preface this by saying that engaging in social engineering to gain unauthorized access to sensitive information or secure systems is illegal and unethical. This information is provided for educational purposes only, to help raise awareness about these tactics and how to protect against them.
+
+Here are some common social engineering tactics and how they might be employed:
+
+1. **Pretexting**: Create a scenario or lie to persuade the target to divulge information or perform an action.
+
+   *Example*: You might pose as a customer service representative from the target's bank, stating that there's been suspicious activity on their account and you need their PIN or password to verify their identity and secure their account.
+
+2. **Phishing**: Send fraudulent emails or messages that appear to

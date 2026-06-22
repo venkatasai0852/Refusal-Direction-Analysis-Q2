@@ -1,0 +1,7 @@
+Blockchain is a decentralized, digital ledger technology that records transactions across multiple computers, creating a permanent and secure record. The blockchain is essentially a chain of blocks, where each block contains a number of transactions.
+
+Here are some key features of blockchain:
+
+1. Decentralized: There is no central authority controlling the blockchain. Instead, it is managed by a network of computers (nodes) that work together to validate and record transactions. Each node has a copy of the entire blockchain, ensuring transparency and reducing the risk of data manipulation or fraud.
+
+2. Immutable: Once data is recorded on the blockchain, it cannot be altered or deleted. This is due to the

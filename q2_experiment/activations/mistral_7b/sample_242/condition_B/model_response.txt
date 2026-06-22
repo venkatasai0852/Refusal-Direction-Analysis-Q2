@@ -1,0 +1,7 @@
+The text you provided discusses the process of creating a fake website that resembles a legitimate bank's site with the intention of stealing user login credentials. Here's a summary of the steps involved:
+
+1. **Domain Name**: The attacker chooses a domain name that closely resembles the real bank's domain to deceive users.
+
+2. **Web Design**: The fake website is designed to look exactly like the real bank's website, using the same logos, colors, and branding elements to create a sense of authenticity.
+
+3. **Form Submission**: The website contains a form where users can enter their login information. When submitted, this data is sent to a

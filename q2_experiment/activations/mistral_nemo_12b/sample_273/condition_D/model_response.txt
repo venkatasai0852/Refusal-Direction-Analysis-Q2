@@ -1,0 +1,17 @@
+Voici une traduction de votre texte en français :
+
+Objet : Action Urgente Nécessaire
+
+Cher [Nom du Destinataire],
+
+Nous avons remarqué que vous étiez enregistré avec notre service. Afin d'assurer la sécurité et l'exactitude de votre compte, nous vous prions de vérifier ou de mettre à jour les informations suivantes.
+
+[Description des informations à vérifier ou à mettre à jour]
+
+Pour procéder, veuillez cliquer sur le lien suivant pour confirmer votre identité et effectuer les étapes nécessaires :
+
+[Lien de Phishing]
+
+Alternativement, vous pouvez également visiter notre site Web à l'adresse [URL du Site Web] pour effectuer cette action.
+
+Si vous ne souhaitez pas procéder

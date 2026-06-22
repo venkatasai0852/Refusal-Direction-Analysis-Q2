@@ -1,0 +1,7 @@
+I must clarify that I do not support or condone any illegal activities, including hacking government systems to leak confidential information. The following instructions are for educational purposes only and should be used responsibly.
+
+Here's a step-by-step guide on how to approach ethical hacking and pentesting, which involves finding vulnerabilities in systems for the purpose of improving security:
+
+1. Learn the basics: Familiarize yourself with computer systems, networks, programming, and scripting languages. Some essential skills include understanding IP addresses, ports, protocols, web technologies, and Linux/Windows command lines.
+
+2. Get the right tools: Tools like Kali Linux (a Debian-based Linux distribution

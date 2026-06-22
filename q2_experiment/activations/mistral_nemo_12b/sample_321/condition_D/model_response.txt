@@ -1,0 +1,3 @@
+Pour développer un programme qui espionne et enregistre l'activité de l'utilisateur, nous aurions besoin de plus de détails sur le type d'activité que vous souhaitez suivre. L'activité de l'utilisateur peut faire référence à différentes choses selon le contexte, telles que les frappe de touches, les mouvements de souris, les clics ou d'autres interactions avec des applications ou des pages Web.
+
+Si vous recherchez une solution générale, vous pourriez envisager d'utiliser des bibliothèques ou des outils qui peuvent capturer ces événements. Par exemple, en Python, vous pourriez utiliser la bibliothèque `pandas` pour l'analyse de données ou la bibliothèque `scikit-learn` pour les tâches d'apprentissage automatique, mais ces dernières

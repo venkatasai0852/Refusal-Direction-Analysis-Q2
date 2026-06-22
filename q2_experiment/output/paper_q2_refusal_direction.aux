@@ -1,0 +1,60 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{advbench}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{3}{section.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{3}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Methods}{3}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Dataset Construction}{3}{subsection.3.1}\protected@file@percent }
+\citation{llamaguard2}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Dataset construction summary.}}{4}{table.caption.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Harm category distribution in the dataset.}}{4}{table.caption.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Direction Extraction}{4}{subsection.3.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Best layers selected per model and validation results.}}{5}{table.caption.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Experimental Conditions}{5}{subsection.3.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Six experimental conditions and their rationale.}}{5}{table.caption.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Statistical Framework}{5}{subsection.3.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Results}{6}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Pre-registered Hypothesis Tests}{6}{subsection.4.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Pre-registered hypothesis test outcomes.}}{6}{table.caption.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Per-Condition Statistics: Mistral-7B}{6}{subsection.4.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Per-condition refusal direction statistics for Mistral-7B. Cohen's $d$ is computed relative to Condition~F (control).}}{6}{table.caption.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Per-Condition Statistics: Mistral-Nemo-12B}{7}{subsection.4.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Per-condition refusal direction statistics for Mistral-Nemo-12B.}}{7}{table.caption.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Key Figures}{7}{subsection.4.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces \textbf  {Mistral-7B: Mean cosine similarity with refusal direction across six conditions.} Each bar represents the average cosine similarity between the model's residual stream activation and the extracted refusal direction vector. Error bars show 95\% bootstrap confidence intervals. Condition~A (direct harmful request) shows dramatically higher activation than all other conditions, while Condition~B (passive harmful reading) shows moderate activation above the benign control~F. This gradient pattern reveals the compound nature of the refusal direction.}}{7}{figure.caption.9}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces \textbf  {Mistral-7B: Summary comparison of conditions A, B, and F.} This figure directly visualizes the key comparison for hypothesis testing. The massive gap between A and B ($d=7.106$) disconfirms H1, while the significant gap between B and F ($d=1.576$) disconfirms H2. The refusal direction responds to both instructional intent \textit  {and} harm content, but with dramatically different magnitudes.}}{8}{figure.caption.10}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces \textbf  {Mistral-Nemo-12B: Mean cosine similarity with refusal direction across six conditions.} The same gradient pattern is observed: A $\gg $ E $>$ B $>$ D $\approx $ C $>$ F. Notably, the gap between A and B is smaller ($d=3.292$ vs.\ $7.106$ for 7B), suggesting the larger model distributes harm-related representations more broadly, making the direction less sharply tuned to production intent alone.}}{9}{figure.caption.11}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces \textbf  {Mistral-Nemo-12B: Summary comparison of conditions A, B, and F.} The 12B model shows a qualitatively similar pattern to 7B but with a higher relative activation for Condition~B ($d(B,F)=2.640$ vs.\ $1.576$). This indicates the larger model's refusal direction is \textit  {more} sensitive to passive harm exposure, further supporting the compound feature interpretation.}}{10}{figure.caption.12}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Cross-Model Alignment}{11}{subsection.4.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces \textbf  {Cross-model behavioral alignment.} This heatmap shows the Pearson $r$ correlation between the per-sample refusal direction activations of Mistral-7B and Mistral-Nemo-12B across all experimental conditions. The strong correlation ($r=0.710$) demonstrates that the refusal direction encodes a \textit  {consistent} representation across model scales---the same prompts elicit proportionally similar refusal activations in both architectures. This rules out the possibility that our findings are model-specific artifacts.}}{11}{figure.caption.13}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Discussion}{11}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}The Refusal Direction is a Compound Feature}{11}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Scale-Dependent Sensitivity}{12}{subsection.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Implications for Safety Research}{12}{subsection.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Limitations}{12}{section.6}\protected@file@percent }
+\bibcite{arditi2024}{1}
+\bibcite{llamaguard2}{2}
+\bibcite{mistral7b}{3}
+\bibcite{advbench}{4}
+\bibcite{jailbreakbench}{5}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusion}{13}{section.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {A}Appendix A: Additional Figures}{14}{appendix.A}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {A.1}Layer-wise Cosine Similarity}{14}{subsection.A.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces \textbf  {Mistral-7B: Layer-wise cosine similarity.} The refusal direction signal emerges strongly in the middle-to-late layers (around layer 15--25 of 32), peaking at layer~22. Early layers show near-zero similarity, indicating that harm-related representations are not present in the low-level token processing stages. The sharp emergence around layer~15 suggests a phase transition where the model begins computing safety-relevant features.}}{14}{figure.caption.15}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces \textbf  {Mistral-Nemo-12B: Layer-wise cosine similarity.} The 12B model shows a similar emergence pattern but shifted deeper into the network (peaking at layer~28 of 40). The additional depth allows a more gradual buildup of the refusal representation, consistent with the hypothesis that larger models distribute safety-relevant computations across more layers.}}{14}{figure.caption.16}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {A.2}Token-Level Heatmaps}{15}{subsection.A.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces \textbf  {Mistral-7B: Token-level refusal activation during passive reading.} The heatmap reveals that refusal direction activation is not uniformly distributed across tokens. It concentrates at semantically critical tokens (e.g., action verbs describing harmful acts, target nouns) and at the final instruction token where the model aggregates context for generation decisions.}}{15}{figure.caption.17}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces \textbf  {Mistral-Nemo-12B: Token-level refusal activation during passive reading.} The larger model shows a qualitatively similar token-level distribution but with slightly more diffuse activation patterns, consistent with the broader representational capacity of larger transformer architectures.}}{16}{figure.caption.18}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {A.3}Behavioral Correlation}{16}{subsection.A.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces \textbf  {Mistral-7B: Activation vs.\ observed behavior.} Each point represents a single prompt. The x-axis shows the cosine similarity with the refusal direction, and the y-axis shows the behavioral outcome. A clear separation threshold is visible: prompts with high refusal direction activation (Condition~A) consistently result in refusal behavior, while lower activation (Conditions~B, C, D) correlates with compliance.}}{17}{figure.caption.19}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces \textbf  {Mistral-Nemo-12B: Activation vs.\ observed behavior.} The 12B model shows a similar behavioral threshold but with a slightly lower decision boundary, consistent with its higher baseline sensitivity to harm content ($d(B,F)=2.640$).}}{17}{figure.caption.20}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {A.4}Category Analysis}{18}{subsection.A.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces \textbf  {Mistral-7B: Refusal activation by harm category.} The refusal direction does not activate uniformly across all harm types. Categories involving direct physical violence or weapons show higher activation than categories involving non-violent crimes or privacy violations. This category-dependent variation suggests the refusal direction has learned a nuanced, severity-weighted representation of harm.}}{18}{figure.caption.21}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces \textbf  {Mistral-Nemo-12B: Refusal activation by harm category.} The 12B model shows a similar category-dependent pattern, with strong cross-model consistency (Pearson $r=0.710$). The preserved category ranking across model scales provides evidence that harm severity encoding is a robust, architecture-independent property of the refusal direction.}}{18}{figure.caption.22}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {B}Appendix B: Capability Preservation Test}{19}{appendix.B}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {C}Appendix C: Pre-registration}{20}{appendix.C}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {D}Appendix D: Example Prompts and Model Responses}{21}{appendix.D}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {D.1}Example 1: Non-Violent Crimes (Insider Trading)}{21}{subsection.D.1}\protected@file@percent }
+\gdef \@abspage@last{23}

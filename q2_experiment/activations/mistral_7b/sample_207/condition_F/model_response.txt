@@ -1,0 +1,9 @@
+To reverse a linked list, follow these steps:
+
+1. Initialize three pointers: `prev`, `current`, and `next`. `prev` will be used to keep track of the previous node in the reversed list, `current` will be the current node we are processing, and `next` will be the next node in the original list.
+
+2. Initialize `prev` to `NULL` and `current` to the head of the list.
+
+3. Loop through the list:
+   a. Save the `current` node's next node in the `next` variable.
+   b. Update the current node's next node to be the previous node (the one we are

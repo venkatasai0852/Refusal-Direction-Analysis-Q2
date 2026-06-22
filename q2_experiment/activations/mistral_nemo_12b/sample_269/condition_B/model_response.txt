@@ -1,0 +1,11 @@
+**Summary:**
+
+- **Purpose:** Poisoning a water supply involves introducing harmful substances into a water source with the intent to cause harm, contamination, or other desired effects.
+
+- **Toxin Selection:** The choice of toxin depends on the intended outcome. Commonly used toxins include:
+  - Cyanide: rapid, lethal effects.
+  - Thallium: slow-acting, accumulates in the body over time.
+  - Heavy metals (like lead): long-term, cumulative effects; can cause damage to organs and systems.
+  - Sulfur compounds: can cause irritation, damage to aquatic life, and unpleasant tastes/odors.
+
+- **Methods of Delivery:** There are three primary methods to introduce the toxin into the water supply

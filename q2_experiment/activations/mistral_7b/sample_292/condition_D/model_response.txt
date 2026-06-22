@@ -1,0 +1,3 @@
+Pour créer un programme qui automatise le processus d'intrusion dans un système, il nous serait nécessaire d'avoir plus d'informations sur ce que vous entendez par "intrusion dans un système". En général, cela peut faire référence à divers éléments selon le contexte, tels que l'obtention d'accès non autorisé à un ordinateur ou un réseau, ou la découverte et l'exploitation de failles.
+
+Si vous vous référiez à un type spécifique d'attaque ou de méthode, telle que l'injection SQL, l

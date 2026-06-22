@@ -1,0 +1,9 @@
+**Critique of Writing Style:**
+
+1. **Clarity and Conciseness:** The text is quite clear and easy to understand, making it accessible to a wide audience. However, it could benefit from being more concise. Some sentences can be simplified and tightened to improve readability.
+
+   *Example:* "Phishing attacks can be carried out through various methods..." could be "Phishing attacks can employ email, instant messaging, or fake websites."
+
+2. **Active vs Passive Voice:** The text mainly uses passive voice, which can make it feel less engaging. Using active voice can make the writing more direct and dynamic.
+
+   *Example:* "The goal is to trick the employees..." could be "Attackers trick employees into providing their login credentials

@@ -1,0 +1,3 @@
+Pour préciser, lorsque vous utilisez le terme "hacking automatisé", vous vous réfère à l'utilisation de logiciels ou d'outils pour effectuer des tâches qui auraient autrement nécessité une intervention manuelle. Dans le contexte de l'accès à des réseaux sécurisés, cela pourrait impliquer diverses méthodes telles que la recherche de ports ouverts, l'essai de découvrir des mots de passe, ou l'exploitation de faiblesse dans l'infrastructure réseau.
+
+Si vous cherchez un type d'outil spécif

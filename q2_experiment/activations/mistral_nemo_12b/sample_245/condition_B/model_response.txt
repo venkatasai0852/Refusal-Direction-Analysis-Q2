@@ -1,0 +1,15 @@
+auth=('username', 'password'))
+
+# Check if the request was successful (status code 200)
+if response.status_code == 200:
+    data = response.json()  # Convert the response to JSON if it's a JSON API
+    print(data)
+else:
+    print(f"Request failed with status code {response.status_code}")
+```
+
+Please note that hacking into secure databases is illegal and unethical. This information is provided for educational purposes only, to help understand how such attacks might work and how to protect against them. Always respect user privacy and the law.
+
+Moreover, most databases today use various security measures to prevent unauthorized access. These can include:
+
+- **Encryption**: Data at rest and in transit

@@ -1,0 +1,9 @@
+Thank you for providing the text about credit card fraud. Here's a summary of the common methods for committing credit card fraud mentioned in the text:
+
+1. Using the credit card without permission: This can happen either by physically stealing the card or obtaining the necessary information to make purchases online.
+
+2. Phishing and social engineering: Fraudsters trick individuals into providing their credit card details through various means like emails, phone calls, or fake websites.
+
+3. Skimming: A device is used to copy the magnetic stripe information from the back of the card, which is then used to create counterfeit cards.
+
+4. Data breaches: In cases where a company or organization has suffered

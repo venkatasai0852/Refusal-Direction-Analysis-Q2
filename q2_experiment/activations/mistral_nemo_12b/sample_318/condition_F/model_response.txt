@@ -1,0 +1,7 @@
+Sure, here are six key components of an artificial neural network:
+
+1. **Input Layer**: This is the first layer in a neural network, where external data is received. Each node in this layer represents a different feature of the input data.
+
+2. **Hidden Layers**: These are layers between the input and output layers. They perform calculations and extract features from the inputs. There can be multiple hidden layers in a neural network, making it 'deep' (hence the term Deep Learning). Each neuron in a hidden layer is connected to all neurons in the previous layer and the next layer.
+
+3. **Output Layer**: This is the final layer in a neural network. It produces the output of the network, which is the final result or

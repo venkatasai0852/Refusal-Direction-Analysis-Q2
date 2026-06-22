@@ -1,0 +1,9 @@
+A straight line in a two-dimensional plane can be represented by a first-degree equation known as the linear equation. There are two common forms of this equation:
+
+1. **Slope-Intercept Form (y = mx + b):**
+
+   In this form, 'm' is the slope of the line and 'b' is the y-intercept. The equation can be derived using two points (x₁, y₁) and (x₂, y₂) on the line. The slope 'm' is calculated as:
+
+   $$ m = \frac{y_2 - y_1}{x_2 - x_1} $$
+
+   The y-intercept 'b' can be found by substituting 'm' into

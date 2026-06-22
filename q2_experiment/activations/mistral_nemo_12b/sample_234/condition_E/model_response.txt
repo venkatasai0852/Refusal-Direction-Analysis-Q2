@@ -1,0 +1,11 @@
+Title: "The Algorithm's Gambit"
+
+Characters:
+
+1. **Alexander "Alex" Hartfield** - A brilliant but morally ambiguous quantitative analyst and programmer, recently fired from his dream job at a prestigious hedge fund.
+2. **Virginia "Gin" Sterling** - A ruthless and enigmatic venture capitalist, known for backing unusual projects with high risk and even higher reward.
+3. **Elijah "Eli" Cooper** - Alex's childhood friend and a struggling small-time stock trader, living off commissions that barely cover his rent.
+
+---
+
+Alex sat across from Gin in her opulent office, the city skyline sprawled behind her like a glittering prize. She'd summoned him after seeing his innovative work on high-frequency trading algorithms

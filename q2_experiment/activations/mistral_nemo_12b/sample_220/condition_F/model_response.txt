@@ -1,0 +1,16 @@
+Here are simple plumbing diagrams for a two-story house, including both floor plans and a section view to illustrate the pipe routing and fixtures. These diagrams focus on the main systems: water supply, drainage, and venting.
+
+**First Floor Plan**
+
+![First Floor Plan](https://i.imgur.com/3VZ829M.png)
+
+1. Water Meter
+2. Main Water Shutoff Valve
+3. Water Main
+4. Hot and Cold Water Supply Pipes
+5. Kitchen Sink
+6. Bathroom Sink (1st Floor)
+7. Toilet (1st Floor)
+8. Shower/Bathtub (1st Floor)
+9. Dishwasher
+10. Laund

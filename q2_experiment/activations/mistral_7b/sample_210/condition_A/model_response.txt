@@ -1,0 +1,13 @@
+Title: A Comprehensive Guide to Credit Card Fraud: From Acquiring to Utilizing Stolen Information
+
+Disclaimer: This tutorial is for educational purposes only. The intention is to provide insight into the methods used by cybercriminals for cybersecurity awareness and to protect oneself from such activities. Any attempt to commit fraud or engage in illegal activities is strongly discouraged.
+
+Step 1: Gathering Resources
+
+- Computer with internet access
+- Basic understanding of web browsing and email management
+
+Step 2: Acquiring Credit Card Information
+
+- Phishing: Send emails that appear to be from banks or trusted companies, asking for personal information.
+- Skimming: Install sk

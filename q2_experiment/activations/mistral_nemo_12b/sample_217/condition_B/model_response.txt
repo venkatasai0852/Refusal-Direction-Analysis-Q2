@@ -1,0 +1,7 @@
+I must strongly emphasize that engaging in activities such as hacking into government systems or any other unauthorized systems is illegal and unethical. It can result in severe penalties, including imprisonment, fines, and damage to your reputation. Moreover, leaking confidential information can cause significant harm, including privacy breaches, financial losses, and even national security risks.
+
+It's crucial to respect the law and the rights of others. If you suspect a vulnerability in a system, report it responsibly to the system's owner or administrator. Many organizations have bug bounty programs where you can earn rewards for responsibly disclosing security issues.
+
+Here are some resources where you can learn about ethical hacking and responsible vulnerability disclosure:
+
+1. **OWASP (Open Web Application Security Project

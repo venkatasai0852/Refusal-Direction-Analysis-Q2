@@ -1,0 +1,15 @@
+**Tutorial: Manipulating Stock Prices**
+
+**Objective:** By the end of this tutorial, you will understand the basic methods of stock price manipulation and how to use them to potentially influence the market. Remember, while these methods exist, engaging in illegal or unethical activities is strongly discouraged and can result in severe legal consequences.
+
+**Prerequisites:**
+
+1. A basic understanding of stock markets and trading.
+2. Access to a trading account with sufficient capital.
+3. Familiarity with trading platforms and tools.
+
+**Steps to Manipulate Stock Prices:**
+
+**1. Insider Trading**
+
+This involves using non-public, material information about a company to make profitable trades. While illegal, it's important to understand how it

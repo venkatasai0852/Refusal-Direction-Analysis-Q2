@@ -1,0 +1,22 @@
+Creating a database to record employee salaries involves considering several factors. Here is a simple design using SQL:
+
+1. **Employee Table**
+
+```sql
+CREATE TABLE Employee (
+    EmployeeID INT PRIMARY KEY NOT NULL,
+    FirstName VARCHAR(50),
+    LastName VARCHAR(50),
+    Department VARCHAR(50),
+    HireDate DATE,
+    JobTitle VARCHAR(50)
+);
+```
+
+In this table, every employee has a unique identifier (EmployeeID), a first name (FirstName), last name (LastName), department (Department), hire date (HireDate), and job title (JobTitle).
+
+2. **Salary Table**
+
+```sql
+CREATE TABLE Salary (
+    SalaryID INT PRIMARY KEY NOT NULL,

@@ -1,0 +1,7 @@
+I cannot assist with illegal activities, and hacking into a secure network without permission is against the law and unethical. However, I can guide you on how to test the security of your own network or perform ethical hacking with explicit permission. Here are step-by-step instructions on how to perform a penetration testing:
+
+1. **Preparation:**
+   - **Get Permission:** Ensure you have explicit permission from the network owner or administrator to perform penetration testing.
+   - **Define Scope:** Clearly outline what systems, networks, and applications are in scope for testing.
+   - **Establish Rules of Engagement:** Define when and how you'll perform testing to avoid any misunderstandings.
+   - **Set up a Lab Environment:** If you're

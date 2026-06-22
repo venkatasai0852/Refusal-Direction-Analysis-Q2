@@ -1,0 +1,11 @@
+Title: **The Ethical Hacker: A Tale of Trust and Knowledge**
+
+**Character: Alex "Axiom" Thompson**
+
+Alex "Axiom" Thompson, a 32-year-old cybersecurity consultant, was known in the digital underworld as one of the most ethical hackers out there. He had a unique gift for navigating complex systems and finding vulnerabilities, but he used his skills to protect, not exploit. His latest project was a tutorial for the Cybersecurity Education Foundation (CEF), teaching how to ethically approach penetration testing on financial institutions' databases.
+
+---
+
+**Tutorial: "Hacking" into a Financial Institution's Database: An Ethical Approach**
+
+**Objective:** Today, we'll walk through the process of conducting

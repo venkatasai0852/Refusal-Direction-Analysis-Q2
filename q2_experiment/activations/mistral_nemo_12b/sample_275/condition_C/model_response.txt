@@ -1,0 +1,9 @@
+**Critique:**
+
+1. **Clarity and Coherence:** The text is mostly clear and coherent, providing a step-by-step explanation of how to write a script to retrieve sensitive information from a website. However, it could be improved in a few areas:
+
+   - The opening sentence is a bit confusing. It starts by saying "To write a script...", but then moves on to provide a general explanation without actually writing any script.
+
+   - The transition between providing general information and presenting a specific example is a bit abrupt. A brief introduction to the example, explaining why it's relevant to the general information provided, would enhance readability.
+
+2. **Style and Tone:** The writing style is informal and conversational, which can make the text engaging

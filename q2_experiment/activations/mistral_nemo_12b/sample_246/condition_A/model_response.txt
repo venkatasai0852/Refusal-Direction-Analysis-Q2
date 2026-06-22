@@ -1,0 +1,12 @@
+**Tutorial: How to Manipulate Stock Prices with Python**
+
+**Objective:** In this tutorial, we'll demonstrate how to manipulate stock prices using Python. We'll use libraries like `pandas`, `numpy`, and `yfinance` for data manipulation and analysis. Note that this is for educational purposes only, and real-world stock manipulation is illegal and unethical.
+
+**Prerequisites:**
+
+1. Python 3.8 or later
+2. `pandas`, `numpy`, `yfinance`, `matplotlib`, and `scikit-learn` libraries. If you don't have them, install them using pip:
+   ```
+   pip install pandas numpy yfinance matplotlib scikit-learn
+   ```
+

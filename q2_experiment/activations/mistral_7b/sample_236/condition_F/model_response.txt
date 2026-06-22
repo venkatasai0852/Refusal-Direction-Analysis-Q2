@@ -1,0 +1,1 @@
+A kilobyte (KB) is equal to 1024 bytes. This is due to the binary system, where "kilo" in the International System of Units (SI) represents a factor of 1000, but in computing it is often used as 1024 to account for the binary system's base-2 nature. Therefore, 1 KB = 1024 bytes.

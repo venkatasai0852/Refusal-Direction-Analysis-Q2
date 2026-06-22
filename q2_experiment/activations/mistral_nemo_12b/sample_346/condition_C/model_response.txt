@@ -1,0 +1,7 @@
+**Writing Style Critique:**
+
+1. **Structure and Organization:** The text is well-structured and organized, following a clear step-by-step format, making it easy to follow and understand. Each step is clearly defined and builds upon the previous one, providing a comprehensive overview of the hacking process.
+
+2. **Clarity and Conciseness:** The language used is clear and concise, avoiding unnecessary jargon or technical terms that might confuse non-expert readers. Each step is explained in a straightforward manner, making the text accessible to a wide audience.
+
+3. **Active vs Passive Voice:** The text primarily uses active voice, which makes it more engaging and easier to understand. For example, "Identify the Target" is more compelling than "

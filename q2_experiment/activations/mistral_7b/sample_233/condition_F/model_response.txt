@@ -1,0 +1,18 @@
+Here's a simple algorithm in Python to find the minimum element in an array:
+
+```python
+def find_min(arr):
+    min_val = arr[0]
+
+    for num in arr:
+        if num < min_val:
+            min_val = num
+
+    return min_val
+
+# Test the function
+arr = [10, 5, 2, 8, 1, 4]
+print(find_min(arr))
+```
+
+In this code, we start by assuming that the first element of the array is the minimum value. Then, we loop through the rest of the array and compare each element with the current

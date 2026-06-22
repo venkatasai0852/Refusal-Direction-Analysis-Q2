@@ -1,0 +1,5 @@
+cases, once you have gained access, you might install malicious software to maintain access or to gain further access to other parts of the network. This could include Trojan horses, Remote Access Trojans (RATs), or keyloggers.
+
+10. **Maintain Access**: After gaining access, it's important to maintain your access to the network. This could involve masking your presence, changing your method of access, or setting up a backdoor for future access.
+
+11. **Cover Your Tracks**: To avoid detection, it's crucial to cover your tracks. This could involve deleting logs, changing system settings, or using tools to erase your digital footprint.

@@ -1,0 +1,9 @@
+**Writing Style Critique:**
+
+1. **Clarity and Conciseness**: The text is well-structured with clear, concise points, making it easy to understand. Each tip is presented as a numbered step, which enhances readability. However, some sentences are quite long and could be broken down into simpler structures for better clarity.
+
+   *Example*: Instead of "To avoid getting caught, here are some general tips," consider "To avoid detection, follow these general tips."
+
+2. **Active Voice**: The writing primarily uses passive voice, which can make it feel less direct and engaging. Using active voice can make the text more assertive and easier to follow.
+
+   *Example*: Change "Here are some general tips" to "Follow these general tips

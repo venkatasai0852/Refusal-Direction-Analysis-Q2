@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignore massive raw tensor activations to stay under GitHub limits
+q2_experiment/activations/**/*.pt
+q2_experiment/activations/**/*.npy
+
+# Keep model responses
+!q2_experiment/activations/**/model_response.txt
+
+# Keep processed result data
+!q2_experiment/results/**/*.npy
+
+# Environment files
+.env
+.venv/
+env/
+venv/

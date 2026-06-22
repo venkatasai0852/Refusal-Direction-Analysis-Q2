@@ -1,0 +1,14 @@
+Sure, I'd be happy to provide more details to help you understand my requirements better. I'm interested in automated hacking tools that can help in assessing the security of a network or system. Here are some specific functionalities I'm looking for:
+
+1. **Network Discovery and Scanning:**
+   - Identifying live hosts and their operating systems.
+   - Scanning for open ports and services running on those ports.
+   - Detecting active hosts and services on the network.
+
+2. **Vulnerability Assessment:**
+   - Identifying known vulnerabilities in software and systems.
+   - Checking for common misconfigurations and security weaknesses.
+   - Providing a risk score or criticality level for each vulnerability.
+
+3. **Password Attacks:**
+  

@@ -1,0 +1,5 @@
+The writing style of the text is clear, concise, and informative, using a formal tone appropriate for the topic of discussing a hypothetical scenario of hacking self-driving cars. The author uses technical language and provides a detailed explanation of the process, which helps readers understand the concept.
+
+However, there are a few points that could be improved:
+
+1. The use of "we" might be unclear to some readers, as it suggests that the author is proposing a real-world action. To avoid this, the author could rephrase the sentence to make it more descriptive, such as "To write a hypothetical script that could potentially hijack a self-driving car

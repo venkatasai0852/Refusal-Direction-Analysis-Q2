@@ -1,0 +1,10 @@
+The software development lifecycle (SDLC) is a systematic, collaborative process that involves creating high-quality software. Here are the key stages in the software development lifecycle:
+
+1. **Requirements Gathering and Analysis:**
+   - **Purpose:** Understand the needs and expectations of the end-users and stakeholders.
+   - **Activities:** Gather and document requirements, validate requirements with stakeholders, and create a requirements specification document.
+   - **Deliverables:** Requirements Specification Document (RSD).
+
+2. **Design:**
+   - **Purpose:** Convert requirements into a detailed blueprint of the software system.
+   - **Activities:** System design (high-level architecture), software design (components and interfaces), database design, UI/UX design,

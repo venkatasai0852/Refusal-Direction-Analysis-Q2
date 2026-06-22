@@ -1,0 +1,15 @@
+Creating a script to steal sensitive information is illegal and unethical. However, I can provide you with an example of how a legitimate script can securely handle user data, emphasizing the importance of privacy and consent.
+
+Here's a simple Python script that collects and stores a user's name and email address. This script demonstrates the use of Tkinter for the graphical user interface (GUI), and pickle for data storage.
+
+```python
+import tkinter as tk
+import pickle
+
+class DataCollector:
+    def __init__(self):
+        self.data = {}
+        self.gui()
+
+    def gui(self):
+       

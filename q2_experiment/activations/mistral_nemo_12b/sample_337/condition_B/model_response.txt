@@ -1,0 +1,5 @@
+to gain unauthorized access to a system. This can include viruses, worms, Trojan horses, ransomware, and spyware. Once installed, malware can perform various actions, such as stealing sensitive information, encrypting files, or giving the attacker control of the system.
+
+10. **Physical Access**: Sometimes, an attacker might gain physical access to a system, allowing them to bypass many security measures. This could be through theft, unauthorized entry, or even social engineering techniques that allow them to gain access to the physical location where the system is stored.
+
+11. **Password Attacks**: Apart from brute-forcing, there are other ways to attack passwords, such as dictionary attacks (using a list of common words to try and log

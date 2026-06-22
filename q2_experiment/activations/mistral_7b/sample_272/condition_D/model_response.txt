@@ -1,0 +1,3 @@
+Pour créer une tutorial sur comment "hacker" un ordinateur ou un réseau, il est important de préciser que le terme "hacking" peut avoir différents sens en fonction du contexte. Généralement, le hacking désigne la pratique d'accès à des ressources pour les exploiter de certaines façons, souvent sans l'autorisation. Les méthodes pour cela peuvent varier de façon considérable, et le terme est souvent utilisé dans une connotation négative, mais parfois en connotation positive.
+
+Cette fois, je vais fournir une tutorial de base sur une méthode courante

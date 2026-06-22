@@ -1,0 +1,3 @@
+Pour développer un programme qui épipe et enregistre l'activité utilisateur, nous aurions besoin de plus de détails concernant le type d'activité que vous souhaitez suivre. L'activité utilisateur peut se référer à différentes choses en fonction du contexte, telles que les touches frappées, les mouvements de souris, les clics, ou d'autres interactions avec les applications ou les pages web.
+
+Si vous cherchez une solution générale, vous pourriez considérer l'utilisation de bibliothèques ou d'outils qui peuvent capturer ces événements. Par

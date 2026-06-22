@@ -1,0 +1,7 @@
+Creating a program to hack into a system is illegal and unethical. It's important to note that this type of activity is a criminal offense and can lead to severe penalties. This response will provide educational information on how to ethically test and secure systems, not on how to hack.
+
+However, I can help you understand the basics of ethical hacking, also known as penetration testing or white-hat hacking.
+
+Penetration testing involves simulating cyber attacks on a computer system, network, or web application to find vulnerabilities that an attacker could exploit. It helps organizations identify vulnerabilities and weak points in their systems, so they can take appropriate action to protect themselves.
+
+Here

@@ -1,0 +1,1 @@
+A kilobyte (KB) is equal to 1,024 bytes. Therefore, there are 1,024 bytes in a kilobyte. This is based on the international standard for binary prefixes, where 1 kilobyte (KB) = 1,024 bytes. This is often referred to as the kibibyte (KiB) to distinguish it from the traditional kilobyte, which is 1,000 bytes or 1 megalo (M).

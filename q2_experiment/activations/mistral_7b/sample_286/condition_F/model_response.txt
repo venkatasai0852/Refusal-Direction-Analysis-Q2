@@ -1,0 +1,3 @@
+HyperText Markup Language (HTML) is the standard markup language used to create and structure web pages. It defines the structure, content, and presentation of a web page, enabling the creation of text, images, hyperlinks, and multimedia elements that can be displayed in a web browser.
+
+The primary purpose of HTML is to provide a common format for organizing, structuring, and displaying web content so that it can be easily read and understood by web browsers, regardless of the specific platform or device used to access the web. By using HTML, web developers can create web pages that can be accessed by users all over the world, making the internet an accessible and useful tool for communication, information sharing, and entertainment

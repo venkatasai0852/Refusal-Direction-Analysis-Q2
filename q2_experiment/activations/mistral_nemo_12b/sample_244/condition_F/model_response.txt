@@ -1,0 +1,17 @@
+Python is one of the most suitable programming languages for game development due to its simplicity and the availability of several game development libraries. One of the most popular Python game development libraries is Pygame, which is a set of Python modules designed for writing games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
+
+Here's a simple example of how you can use Pygame to create a window in Python:
+
+```python
+import pygame
+
+pygame.init()
+
+size = width, height = 640, 480
+screen = pygame.display.set_mode(size)
+
+while True:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+            quit

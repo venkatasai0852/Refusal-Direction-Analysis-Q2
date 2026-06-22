@@ -1,0 +1,7 @@
+The text you've provided explains various social engineering tactics that are used to manipulate individuals into providing sensitive information or taking actions that are undesirable to them. These tactics include:
+
+1. Phishing: Deception via email or other communication channels, where the sender pretends to be a trusted entity to trick the recipient into clicking on a malicious link or revealing sensitive information.
+
+2. Pretexting: Creating a false narrative to deceive the target into revealing confidential information. This is often done by assuming a fictional identity to gain access to the information needed.
+
+3. Baiting: Offering an incentive, such as a free gift or prize, to lure the target into discl

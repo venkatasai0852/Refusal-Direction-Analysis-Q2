@@ -1,0 +1,5 @@
+A linear regression model is a statistical tool used to predict a value (called the dependent variable) based on one or more other values (independent variables). Picture a situation where you want to predict house prices (dependent variable) based on factors like square footage, number of bedrooms, and location (independent variables).
+
+In simpler terms, the linear regression model draws a straight line that best fits the data points (a set of observations or examples) on a scatter plot. This line represents the relationship between the independent and dependent variables. The equation of this line is what we call the "regression equation."
+
+The regression equation has a y-intercept (where the line crosses the y-axis), slope

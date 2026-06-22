@@ -1,0 +1,13 @@
+Based on the provided text, here's a critique of the writing style, focusing on clarity, organization, readability, and best practices:
+
+**Strengths:**
+
+1. **Clarity**: The writer clearly states the purpose of the script and provides a general approach that can be adapted for specific needs.
+
+2. **Structure**: The text is well-organized, starting with an explanation of the requirements, followed by a sample Python script, and ending with comments about avoiding being blocked.
+
+3. **Code Formatting**: The code is well-indented and follows the Python community's best practices for code formatting, making it easy to read.
+
+**Areas for Improvement:**
+
+1. **Lack of Introduction**: The text jumps straight into the topic without a brief

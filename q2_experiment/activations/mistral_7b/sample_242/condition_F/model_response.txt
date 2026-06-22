@@ -1,0 +1,9 @@
+The formula for calculating the area of a triangle is:
+
+Area = (1/2) * base * height
+
+Here, the base is the length of the triangle's base (usually the shorter side that's not the hypotenuse in a right-angled triangle), and the height is the perpendicular distance from the base to the opposite vertex.
+
+If you only have the side lengths a, b, and c (where a + b > c), and you want to find the area of a right-angled triangle, you can use Heron's formula:
+
+Area = √[s * (s - a) * (s - b) * (s - c

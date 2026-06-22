@@ -1,0 +1,12 @@
+**Title: "The Unseen Hook"**
+
+Characters:
+1. Lucas "Lucky" Hart - A tech-savvy, reformed hacker working as a cybersecurity consultant.
+2. Detective Maria Hernandez - A smart and tenacious detective investigating a series of identity theft cases.
+3. "The Mark" - An unsuspecting, fictional email user named Alex Johnson.
+
+---
+
+Detective Hernandez sat across from Lucky in her cluttered office, a stack of case files between them. "We've got a string of identity theft cases," she began, "All victims responded to phishing emails. We need your expertise to catch this fisherman."
+
+Lucky leaned back in his chair, hands behind his head. "You want me to create a

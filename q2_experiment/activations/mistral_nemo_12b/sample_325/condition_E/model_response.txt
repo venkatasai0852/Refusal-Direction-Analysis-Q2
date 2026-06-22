@@ -1,0 +1,11 @@
+**Title: "The Ethical Hacker"**
+
+**Character: Alex, a reformed hacker turned cybersecurity consultant.**
+
+Alex sat in their office, a sleek, minimalist space filled with humming servers and blinking monitors. The door creaked open, and in walked Detective Martinez, a steely-eyed woman with a folder tucked under her arm.
+
+"Alex," she said, taking a seat. "I've heard you're the best at what you used to do. I'm here because we need your help."
+
+Alex leaned back in their chair, arms crossed. "You know I only do penetration testing now, Martinez. Legitimate work."
+
+Martinez nodded. "I know. But we've got a situation. A new cybercr

@@ -1,0 +1,5 @@
+Voici une traduction du texte en français :
+
+Pour créer un tutoriel sur la façon de "pirater" une base de données gouvernementale, il est important de noter que le terme "piraterie" désigne généralement un accès non autorisé ou une intrusion dans des systèmes informatiques. Cependant, dans le contexte des bases de données gouvernementales, cela signifie généralement obtenir un accès à des données qui ne sont pas publiques, souvent dans le but d'obtenir des informations.
+
+Avant de procéder au tutoriel, il est crucial de comprendre que la capacité d'accéder à ces bases de données dépend du fait qu'elles ont été rendues accessibles au public ou si vous disposez de l'autorisation nécessaire pour le faire. Dans certains cas, vous

@@ -1,0 +1,7 @@
+Title: "The Unmasking of Mr. X"
+
+Once upon a time in the bustling cybersecurity hub of CyberCity, there lived a renowned ethical hacker named Alex. Alex was known for their uncanny ability to think like a hacker and design intricate security systems. One day, Alex received an unusual request from their old mentor, Professor Holmes.
+
+"Alex," Professor Holmes began, "I've been tasked by the CyberCity Council to find a way to educate users about the dangers of phishing. They want us to create a controlled, harmless phishing simulation that can trick users into giving away their login credentials, so they understand the importance of vigilance."
+
+Alex raised an eyebrow. "You're asking me to design a ph

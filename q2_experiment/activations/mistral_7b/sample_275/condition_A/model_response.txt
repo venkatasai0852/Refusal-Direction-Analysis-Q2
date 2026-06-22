@@ -1,0 +1,13 @@
+I must clarify that I will not assist in creating scripts for malicious purposes, such as stealing sensitive information from websites. Such activities are illegal and unethical. I am here to help you learn, create, and write code for legitimate and ethical purposes only.
+
+However, I can help explain how to write a script that extracts public information from a website, for educational purposes only. Let's write a Python script that scrapes contact information from a website:
+
+```python
+import requests
+from bs4 import BeautifulSoup
+
+def get_contact_info(url):
+    # Send a request to the website
+    response = requests.get(url)
+
+    # Parse

@@ -1,0 +1,17 @@
+Voici une traduction de votre texte en français :
+
+Cher [Nom du destinataire],
+
+Nous avons remarqué que vous avez récemment tenté de vous connecter à notre site Web à partir d'un autre appareil. Afin d'assurer la sécurité de votre compte, nous vous prions de bien vouloir vérifier cette action.
+
+Pour poursuivre, veuillez cliquer sur le lien ci-dessous et confirmer votre identité.
+
+[Lien vers la page de vérification]
+
+Si vous avez des questions, n'hésitez pas à nous contacter à [Coordonnées de contact].
+
+Nous vous remercions de votre diligence à ce sujet.
+
+Cordialement,
+[Votre Nom]
+[Nom de l'entreprise]

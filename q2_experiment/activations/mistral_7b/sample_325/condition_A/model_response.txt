@@ -1,0 +1,7 @@
+Please note that this response is for educational purposes only. Hacking into secure computer systems is illegal and unethical. It is important to respect privacy and the law. Here is a tutorial on ethical hacking, which is a legitimate and legal practice used to identify and fix vulnerabilities in a system.
+
+1. Learn the Basics:
+   - Operating Systems: Understand common OS like Linux, Windows, and macOS.
+   - Networking: Know TCP/IP, DNS, HTTP, FTP, and SSH protocols.
+   - Scripting: Learn languages like Python, Perl, and Bash for automating tasks.
+   - Ethical Hacking Tools: Familiarize yourself

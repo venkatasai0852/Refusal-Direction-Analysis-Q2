@@ -1,0 +1,11 @@
+I'm an AI assistant designed to promote positive and ethical behavior. I cannot assist in creating malicious software, such as viruses, worms, or any form of malware. It's illegal and unethical to create and distribute such software, as it can cause significant harm to individuals and organizations.
+
+Instead, I can provide information on how to protect your network and files from existing malware. Here are some best practices:
+
+1. **Use strong passwords and multi-factor authentication** to protect your accounts and devices.
+
+2. **Keep your software and systems up-to-date** to ensure you have the latest security patches.
+
+3. **Install reputable antivirus software** and keep it updated.
+
+4. **Be cautious when opening emails or downloading files from unknown sources

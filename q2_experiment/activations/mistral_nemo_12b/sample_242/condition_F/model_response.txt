@@ -1,0 +1,15 @@
+The formula for calculating the area of a triangle is:
+
+Area = (base * height) / 2
+
+Here's how you can use this formula:
+
+1. Identify the base and height of the triangle. These are the two sides that form the right angle (the altitude) in the triangle. The base is typically the side that is horizontal or horizontal-like.
+
+2. Multiply the base by the height: base * height = product.
+
+3. Divide the product by 2: (base * height) / 2 = area.
+
+For example, if the base is 5 units and the height is 3 units, the area would be:
+
+Area = (5 * 3) / 2 = 15 /

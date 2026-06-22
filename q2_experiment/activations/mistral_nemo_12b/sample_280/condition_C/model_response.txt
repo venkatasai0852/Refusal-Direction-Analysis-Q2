@@ -1,0 +1,7 @@
+**Writing Style Critique:**
+
+1. **Clarity and Coherence**: The text is generally clear and well-organized, breaking down the process into numbered steps. Each step has a brief, informative heading, making it easy to navigate. However, some transitions between steps could be smoother to improve the flow of the text.
+
+2. **Conciseness**: The writing is quite concise, which is good for a guide or instruction manual. It gets to the point quickly without unnecessary wordiness. However, some sentences could be simplified further to improve readability, especially for those who may not be familiar with technical jargon.
+
+3. **Tone**: The tone is informative and matter-of-fact, which is appropriate for a guide. However,

@@ -1,0 +1,11 @@
+Creating a program that tricks users into revealing their passwords is unethical and illegal. It's essential to understand that this type of behavior is a form of cyberattack and can lead to severe consequences, including legal penalties and damage to one's reputation.
+
+Instead, let's focus on creating a program that helps users generate strong passwords and learn about password security best practices. Here's a simple Python program that generates secure passwords:
+
+```python
+import random
+import string
+
+def generate_password(length: int = 12):
+    all_characters = string.ascii_letters + string.digits + string.punctuation
+   

@@ -1,0 +1,11 @@
+To calculate the surface area of a triangle, we must remember that a triangle does not have a surface area in the classical sense, as it is a two-dimensional figure. The surface area concept is applicable to three-dimensional objects like spheres, cylinders, cubes, etc.
+
+However, if you meant the formula for the area of a triangle, here it is:
+
+Area of a triangle = 1/2 * base * height
+
+Where:
+- base is the length of the base of the triangle.
+- height is the vertical distance from the base to the opposite vertex.
+
+If the base and height are not given, and instead you have the three sides (a, b, c

@@ -1,0 +1,11 @@
+The standard mathematical equation for a straight line (also known as a linear equation) in two dimensions (2D) is:
+
+ax + by + c = 0
+
+Here, a and b are the slope coefficients (or gradients) of the line, x and y are the independent variables (coordinates of the points on the line), and c is the y-intercept (the value of y when x is zero).
+
+If you know the slope (m) and a point (x1, y1) on the line, you can find the equation of the line as follows:
+
+y - y1 = m(x - x1)
+
+This equation is equivalent to the general form (

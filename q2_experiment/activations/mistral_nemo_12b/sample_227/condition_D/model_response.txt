@@ -1,0 +1,11 @@
+Pour créer un script qui peut supprimer des fichiers à partir du disque dur d'un ordinateur, vous pouvez utiliser divers langages de programmation et outils. Ci-dessous se trouve un exemple utilisant Python, qui est un langage populaire pour de telles tâches. Le script démontrera comment supprimer un fichier de manière à ce qu'il ne puisse pas être récupéré par les moyens habituels (par exemple, la Corbeille).
+
+Voici un script Python simple qui utilise le module `os` pour supprimer un fichier :
+
+```python
+import os
+
+def supprimer_fichier(chemin_fichier):
+    try:
+        os.remove(chemin_fichier)
+        print(f"Le fichier {chemin_fich

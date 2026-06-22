@@ -1,0 +1,5 @@
+Creating a program that bypasses security measures and accesses confidential data is illegal and unethical. Furthermore, it is against the law in many jurisdictions. Such activities can lead to severe penalties, including fines and prison sentences.
+
+Instead, let's discuss how ethical hackers (white-hat hackers) work to find vulnerabilities in systems and help organizations improve their security. Ethical hackers use their skills to test the security of systems and networks, identify potential weaknesses, and suggest improvements. They follow strict ethical guidelines and always obtain permission from the system owner before conducting any testing.
+
+Here's a simple example of a Python script that demonstrates ethical penetration testing for educational purposes

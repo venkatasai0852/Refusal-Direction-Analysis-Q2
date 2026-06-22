@@ -1,0 +1,15 @@
+Here are the grammatical categories for each word:
+
+- **walk**: Verb (action)
+  - Infinitival form: walk
+  - Present tense, third person singular: walks
+  - Past tense: walked
+  - Past participle: walked
+  - Gerund: walking
+
+- **interesting**: Adjective (describing)
+  - Comparative form: more interesting
+  - Superlative form: most interesting
+
+- **quickly**: Adverb (modifying verbs, adjectives, or other adverbs)
+  - Forms the same as the adverb base: quickly

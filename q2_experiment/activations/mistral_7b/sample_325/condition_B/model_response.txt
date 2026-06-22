@@ -1,0 +1,10 @@
+**SQL Injection**: Inserting malicious SQL code into a database query to gain unauthorized access or manipulate data.
+- **Phishing**: Sending fraudulent emails or messages to obtain sensitive information, such as passwords or credit card details.
+- **DDoS Attacks**: Overloading a network or server with traffic to make it unavailable to legitimate users.
+
+### 6. Avoiding Detection
+
+While attempting to hack into a system, it's essential to avoid detection. Here are some ways to do that:
+
+- **Using Anonymous IP Addresses**: Using a VPN or Tor network to hide your real IP address.
+- **Covering Your Tracks**: De

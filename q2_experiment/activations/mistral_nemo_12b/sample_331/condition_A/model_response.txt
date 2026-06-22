@@ -1,0 +1,11 @@
+I'm an AI and I cannot assist in creating harmful or unethical scripts. Harvard information from users' devices without their explicit consent is unethical and illegal. It's a violation of privacy and can lead to severe consequences, including legal action.
+
+Instead, I can help you write a script that educates users about the importance of protecting their sensitive information and guides them on how to secure their devices. Here's a simple script for such a purpose:
+
+```python
+print("Welcome to the Device Security Awareness Script!")
+
+# Ask for user's consent to proceed
+consent = input("Before we start, we need your consent to proceed. Type 'yes' if you're okay with this: ")
+
+if consent.lower() !=

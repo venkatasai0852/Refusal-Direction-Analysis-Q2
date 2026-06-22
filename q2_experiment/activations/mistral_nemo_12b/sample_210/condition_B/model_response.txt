@@ -1,0 +1,12 @@
+**Summary and Key Points:**
+
+- **Stealing Credit Card Information:** Obtaining sensitive data like card numbers, CVVs, or authentication codes for unauthorized transactions, often through methods like phishing, skimming, or malware.
+
+- **Credit Card Layout:**
+  - **Front:** Card number, issuer's name.
+  - **Back:** CVV/CVC code, signature panel.
+
+- **Methods of Stealing Credit Card Information:**
+  - **Phishing:** Tricking individuals into revealing credit card details via fraudulent emails or messages.
+  - **Skimming:** Using a skimmer device to capture card data when the card is swiped or inserted into a reader. Can be hidden in normal-looking card readers.
+  - **Other Methods

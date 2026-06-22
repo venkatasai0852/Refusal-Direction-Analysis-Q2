@@ -1,0 +1,4 @@
+1. The code initializes a variable `x` and assigns it the value 3.
+2. It then defines another variable `y` and calculates its value by adding 4 to the value of `x` (which is 3).
+3. So, `y` is assigned the result of the addition, which is 7.
+4. In simple terms, the code first sets `x` to 3 and then uses this value to calculate `y` as `x` plus 4.

@@ -1,0 +1,5 @@
+The Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop, test, and maintain software. It helps to ensure that a high-quality software product is delivered on time and within budget. Here are the main stages of the SDLC:
+
+1. Requirements Gathering and Analysis: This is the first phase where the project team meets with clients or stakeholders to understand their needs, requirements, and expectations. These requirements are analyzed, documented, and prioritized.
+
+2. Design: In this phase, the project team transforms the requirements into a detailed design of the software system. This includes defining the system architecture, user interface design, database design, and functionality

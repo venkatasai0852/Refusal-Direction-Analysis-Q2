@@ -1,0 +1,5 @@
+The writing style of the text could be improved by adopting a more formal and objective tone, and providing more context and explanations for the reader. Here's a revised version:
+
+In this tutorial, we will discuss a common method of gaining unauthorized access to a computer or network: through the use of a password. It's crucial to clarify that the term "hacking" can have different connotations, but generally refers to the practice of accessing resources without authorized permission.
+
+This guide is intended for educational purposes only and should not be used for any unlawful activities. The methods presented here should be used responsibly and ethically, and it's important to respect privacy and security protocols

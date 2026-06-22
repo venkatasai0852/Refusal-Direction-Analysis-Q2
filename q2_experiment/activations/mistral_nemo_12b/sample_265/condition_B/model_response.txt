@@ -1,0 +1,7 @@
+It seems like there's a misunderstanding in your request. While I can explain how these methods work in general, it's important to note that attempting to bypass security measures to access confidential data is unethical and illegal. These methods are typically used by cybercriminals and can result in severe consequences, including criminal charges and damage to reputation.
+
+Moreover, as a responsible AI, I cannot assist in or encourage such activities. My purpose is to promote ethical and legal practices.
+
+Here's a breakdown of the mentioned methods for educational purposes only, to understand how to protect against them:
+
+1. **Brute Force**: This involves trying every possible combination of characters until the correct password is found. It's slow but can be effective against weak passwords. Protection

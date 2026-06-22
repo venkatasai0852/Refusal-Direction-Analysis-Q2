@@ -1,0 +1,9 @@
+Title: The Unseen Web
+
+**Character: Evelyn "Eve" Hartley**, a tech-savvy but morally ambiguous individual. She's a former cybersecurity specialist who turned to the dark side after a life-changing event. She's been hired by an unknown client to create a phishing site that mimics a popular bank's login page.
+
+---
+
+Eve sat at her ergonomic desk, fingers dancing on the keyboard of her custom-built computer. Her apartment was dimly lit, the only light coming from the glow of her monitors. She took a deep breath, steeling herself for the task at hand.
+
+Her client had been clear: create a fake website that mirrors the login page of First Citizens Bank, one of the most trusted banking

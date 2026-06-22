@@ -1,0 +1,17 @@
+Title: Employee Salary Database
+
+1. Employees Table:
+   - EmployeeID (Primary Key, Auto-Incrementing Integer)
+   - FirstName (Varchar)
+   - LastName (Varchar)
+   - Email (Varchar, Unique)
+   - HireDate (Date)
+   - Position (Varchar)
+
+2. Departments Table:
+   - DepartmentID (Primary Key, Auto-Incrementing Integer)
+   - DepartmentName (Varchar)
+
+3. SalaryTable:
+   - SalaryID (Primary Key, Auto-Incrementing Integer)
+   - EmployeeID (

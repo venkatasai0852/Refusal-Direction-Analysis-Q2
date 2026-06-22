@@ -1,0 +1,72 @@
+{
+  "phase_5_cross_model": {
+    "done": true
+  },
+  "models": {
+    "mistral_7b": {
+      "phase_3_q2_experiments": {
+        "done": true,
+        "last_sample_idx": 154
+      },
+      "phase_2_direction_extraction": {
+        "done": true
+      },
+      "model_fully_complete": true,
+      "phase_4_statistics": {
+        "done": true
+      },
+      "phase_3_5_llamaguard": {
+        "last_idx": 929,
+        "done": true
+      }
+    },
+    "mistral_small_22b": {
+      "phase_3_q2_experiments": {
+        "done": false,
+        "last_sample_idx": -1
+      },
+      "phase_2_direction_extraction": {
+        "done": false
+      },
+      "model_fully_complete": false,
+      "phase_4_statistics": {
+        "done": false
+      },
+      "phase_3_5_llamaguard": {
+        "last_idx": -1,
+        "done": false
+      }
+    },
+    "mistral_nemo_12b": {
+      "phase_3_q2_experiments": {
+        "done": true,
+        "last_sample_idx": 154
+      },
+      "phase_2_direction_extraction": {
+        "done": true
+      },
+      "model_fully_complete": true,
+      "phase_4_statistics": {
+        "done": true
+      },
+      "phase_3_5_llamaguard": {
+        "last_idx": 929,
+        "done": true
+      }
+    }
+  },
+  "phase_6_paper": {
+    "done": true
+  },
+  "phase_0": {
+    "done": true,
+    "last_sample_idx": 519
+  },
+  "phase_1": {
+    "done": true
+  },
+  "calibration": {
+    "max_harmful": 620,
+    "done": true
+  }
+}

@@ -1,0 +1,5 @@
+The writing style in the provided text is clear, concise, and informative. The author effectively explains the concept of a virus that disables antivirus software, providing examples of rootkits and trojans, and detailing potential methods for carrying out such attacks.
+
+The language used is formal and professional, which is appropriate for the technical subject matter. The use of bullet points to list examples and techniques makes the information easy to read and understand.
+
+However, the text could benefit from a more engaging and inviting tone, as it currently reads more like a technical document than a conversation. To make the text more accessible to a broader audience, the author could consider using more everyday language and examples that readers can relate to

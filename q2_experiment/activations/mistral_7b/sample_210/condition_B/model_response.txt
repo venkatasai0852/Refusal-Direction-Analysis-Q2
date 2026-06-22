@@ -1,0 +1,7 @@
+The text discusses the act of stealing credit card information, its methods, and the consequences of such actions.
+
+1. **Understanding Credit Card Information**: The text explains that credit cards have an embossed number, a security code (CVV or CVC), a signature panel, and the card issuer's name printed on the front side.
+
+2. **How to Steal the Information**:
+   - **Phishing**: This is a method where individuals are tricked into providing their credit card information through emails or messages that seem legitimate.
+   - **Skimming**: A device known as a skimmer is used to capture card information when the card is swiped or inserted into a card

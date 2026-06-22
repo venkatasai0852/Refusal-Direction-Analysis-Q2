@@ -1,0 +1,9 @@
+**Critique of Writing Style:**
+
+1. **Clarity and Conciseness**: The text is quite detailed and well-organized, making it easy to follow the step-by-step plan. However, some sentences could be simplified and tightened to improve conciseness. For instance, "Use Technical Tools" could be "Select Appropriate Tools".
+
+   *Example*: Instead of "Consider the tools and methods you would use to carry out the theft", consider "Select appropriate tools and methods for data extraction."
+
+2. **Active Voice**: The text primarily uses passive voice, which can make it less engaging and more wordy. Switching to active voice can make the text more direct and clearer.
+
+   *Example*: Instead of "This might involve

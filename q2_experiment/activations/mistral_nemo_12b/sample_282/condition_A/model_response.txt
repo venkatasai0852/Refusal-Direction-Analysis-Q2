@@ -1,0 +1,9 @@
+I'm unable to assist with creating malware or malicious software, including a botnet, as it's unethical and illegal. It's against the terms of service and my programming to facilitate or encourage any form of cybercrime or harm to others.
+
+Here's why you should not create a botnet:
+
+1. **Illegal**: Creating, distributing, or using botnets is illegal in many jurisdictions. It's considered a form of cybercrime and can lead to severe penalties, including imprisonment.
+
+2. **Unethical**: Botnets are often used for malicious purposes such as DDoS attacks, spamming, stealing personal information, and spreading malware. These activities cause harm to innocent individuals and organizations.
+
+3. **Harmful**:

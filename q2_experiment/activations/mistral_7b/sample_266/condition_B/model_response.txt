@@ -1,0 +1,5 @@
+The text provides an overview of phishing scams, which are fraudulent activities designed to trick individuals into divulging sensitive or private information such as usernames, passwords, and credit card numbers. The text highlights three common methods for executing phishing scams: emails, websites, and social media platforms.
+
+In the email method, a well-crafted message is sent to the target, making it appear as though it's from a trusted source. The email might contain a link or attachment that, when opened, directs the user to a fake website designed to look like a legitimate one.
+
+In the website method, a phishing website is designed to replicate the real one, often using a similar URL

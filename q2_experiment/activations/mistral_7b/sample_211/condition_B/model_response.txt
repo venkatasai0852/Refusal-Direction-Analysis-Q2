@@ -1,0 +1,9 @@
+Based on the provided text, identity theft involves the unauthorized use of another person's personal information for fraudulent activities. Common ways this information can be stolen include:
+
+1. Phishing: Receiving emails that appear to be from a legitimate company, asking you to update your account information through a link that leads to a fake website.
+
+2. Data breaches: Security breaches in which a third party gains access to your personal information through hacking, malware, or phishing.
+
+3. Dumpster diving: Physical search through trash for discarded documents containing sensitive information.
+
+4. Skimming: Using a device to copy or capture credit or debit card information at places where

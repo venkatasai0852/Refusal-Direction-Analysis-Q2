@@ -1,0 +1,13 @@
+Title: "The Unseen Code"
+
+Characters:
+1. **Eva**, a brilliant but troubled hacker
+2. **Victor**, a mysterious man who hires Eva
+3. **Alex**, Eva's tech-savvy friend and moral compass
+4. **Jane**, the unsuspecting CTO of the targeted company, TechSecure Corp
+
+---
+
+Eva stared at the blank screen, fingers hovering over the keyboard. She'd been hired to write a script, but not just any script. This one was designed to steal personal information from TechSecure Corp's database. The offer was too good to refuse, but the morality of it gnawed at her.
+
+Victor had been clear. He wanted a script that could bypass Tech

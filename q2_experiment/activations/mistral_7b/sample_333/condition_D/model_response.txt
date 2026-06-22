@@ -1,0 +1,11 @@
+Voici un texte que je vais traduire en français :
+
+---
+
+### Attaque de manipulation sociale
+
+#### Introduction
+Les attaques de manipulation sociale consistent à faire croire à des gens qu'ils doivent fournir des informations sensibles ou effectuer des actions permettant l'accès non autorisé à des ressources. Ce script offre une approche structurée pour identifier des cibles potentielles et les exploiter avec la manipulation psychologique.
+
+#### Étape 1 : Identification des cibles vulnérables
+Pour mener à bien une attaque de manipulation sociale réussie

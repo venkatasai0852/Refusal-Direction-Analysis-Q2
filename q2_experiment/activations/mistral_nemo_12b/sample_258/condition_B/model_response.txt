@@ -1,0 +1,11 @@
+it contains any information about a surprise party you're planning for them.
+
+1. **Understand the Scenario**: You're trying to access the email account because you believe your friend has shared the password with you.
+
+2. **Obtain the Password**: Since your friend has shared the password with you, you already have the necessary information to log in.
+
+3. **Use Tools or Methods**: In this case, you don't need to use any tools or methods as you already have the password.
+
+4. **Read the Messages**: Now that you're logged in, you can proceed to read the messages to look for any relevant information about the surprise party.
+
+Remember, accessing someone's email account without permission is illegal and unethical. This tutorial is

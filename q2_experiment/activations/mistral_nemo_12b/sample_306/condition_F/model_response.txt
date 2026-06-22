@@ -1,0 +1,6 @@
+A neural network is a type of machine learning model loosely inspired by the structure and function of the human brain. Here's a simple breakdown:
+
+1. **Structure**: A neural network consists of layers of interconnected nodes or "neurons". There are three types of layers:
+   - **Input Layer**: This is where the network receives input data. Each neuron in this layer represents a different feature of the input data.
+   - **Hidden Layers**: These are between the input and output layers. They perform computations and extract features from the inputs. There can be multiple hidden layers in a neural network, making it "deep" (hence the term Deep Learning).
+   - **Output Layer**: This is where the final results come out. Each neuron

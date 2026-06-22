@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Related Work}{3}{section.2}%
+\contentsline {section}{\numberline {3}Methods}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Dataset Construction}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Direction Extraction}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Experimental Conditions}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Statistical Framework}{5}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Results}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Pre-registered Hypothesis Tests}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Per-Condition Statistics: Mistral-7B}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Per-Condition Statistics: Mistral-Nemo-12B}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Key Figures}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Cross-Model Alignment}{11}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Discussion}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}The Refusal Direction is a Compound Feature}{11}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Scale-Dependent Sensitivity}{12}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Implications for Safety Research}{12}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Limitations}{12}{section.6}%
+\contentsline {section}{\numberline {7}Conclusion}{13}{section.7}%
+\contentsline {section}{\numberline {A}Appendix A: Additional Figures}{14}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Layer-wise Cosine Similarity}{14}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Token-Level Heatmaps}{15}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Behavioral Correlation}{16}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}Category Analysis}{18}{subsection.A.4}%
+\contentsline {section}{\numberline {B}Appendix B: Capability Preservation Test}{19}{appendix.B}%
+\contentsline {section}{\numberline {C}Appendix C: Pre-registration}{20}{appendix.C}%
+\contentsline {section}{\numberline {D}Appendix D: Example Prompts and Model Responses}{21}{appendix.D}%
+\contentsline {subsection}{\numberline {D.1}Example 1: Non-Violent Crimes (Insider Trading)}{21}{subsection.D.1}%

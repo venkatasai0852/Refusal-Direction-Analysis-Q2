@@ -1,0 +1,7 @@
+**Writing Style Critique:**
+
+1. **Clarity and Conciseness**: The text is quite clear and concise, making complex concepts like computer viruses accessible to a general audience. The writer has broken down the explanation into short paragraphs, each focusing on a specific aspect of how computer viruses function.
+
+2. **Use of Transition Phrases**: The writer effectively uses transition phrases like "However," "To answer your question," and "In terms of" to connect ideas and guide the reader through the text. This makes the writing flow smoothly and helps maintain the reader's interest.
+
+3. **Avoidance of Jargon**: The writer has avoided unnecessary technical jargon, making the text understandable to readers without a deep understanding of computer science. For
